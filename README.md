@@ -48,7 +48,7 @@ NOTES:
 
 "2883.	In objecting to dissection in biology, you suggest a unit in space botany instead. All of the above are thanks to Bunny & Zelda! Thanks guys!"
 
-When you receive #4556 as a fortune, you will not know about #4557 unless you look it up.
+When you receive #2883 as a fortune, you will not know about the preceding jokes unless you look them up.
 
 (5) Joke #5387 was removed from the fortunes, as it appears to be a subheading mistakenly classified as a joke:
 
