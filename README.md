@@ -46,7 +46,7 @@ NOTES:
 
 (4) Sometimes jokes have included attributions, which may not only be applicable to the joke but for previous ones. For example:
 
-"4556.	You cut or style your old Barbie dolls' hair into your favorite senshi's hair styles. (This one and the next submitted by Cleo402@aol.com)"
+"2883.	In objecting to dissection in biology, you suggest a unit in space botany instead. All of the above are thanks to Bunny & Zelda! Thanks guys!"
 
 When you receive #4556 as a fortune, you will not know about #4557 unless you look it up.
 
@@ -65,7 +65,7 @@ Instead, #5388 and #5389 begin with "(You know you're obsessed with Sailor Mercu
 THANKS:
 
 * Anton-P for compiling the book
-* Mariaviollantes for archiving sailorvgame.org (where the book was hosted).
+* Mariaviollantes for archiving sailorvgame.org (where the book was hosted)
 * JanC on this page: https://askubuntu.com/questions/36523/creating-a-fortunes-file
 * igemnace on Freenode #vim for helping me quickly split up the book into fortunes
 
