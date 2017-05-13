@@ -70,4 +70,5 @@ THANKS:
 * igemnace on Freenode #vim for helping me quickly split up the book into fortunes
 
 CHANGES:
-* v5.0 (2017-05-11) - Initial release, based on version 5 of the book
+* v5.1 (2017-05-12) - Updated Makefile to use coreutils install.
+* v5.0 (2017-05-11) - Initial release, based on version 5 of the book.
