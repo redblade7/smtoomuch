@@ -70,5 +70,6 @@ THANKS:
 * igemnace on Freenode #vim for helping me quickly split up the book into fortunes
 
 CHANGES:
+* v5.2 (2017-05-13) - Fixed critical typo and added make clean and make uninstall.
 * v5.1 (2017-05-12) - Updated Makefile to use coreutils install.
 * v5.0 (2017-05-11) - Initial release, based on version 5 of the book.
