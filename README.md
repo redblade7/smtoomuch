@@ -18,6 +18,8 @@ LICENSE:
 
 From the book's Introduction: "3. Distribution of this book: The compilation is totally free for distribution and if you have your own website I encourage you to put it on your website for download (or for viewing online) without asking any additional permission of the author of these lines."
 
+This same license also applies to the software and documentation.
+
 More information on authorship and copyright is available in the book's Introduction. 
 
 Included in the "book" subdirectory is the complete book in DOC, PDF, and plain text.
