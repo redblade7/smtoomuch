@@ -64,7 +64,7 @@ Instead, #5388 and #5389 begin with "(You know you're obsessed with Sailor Mercu
 
 (7) There are 6044 fortunes in these files which, depending on the amount of fortunes you have installed, might make the likelihood of receiving a YKYWTMSMW fortune higher than you want. If you want to change this behavior, see the fortune man page about the "-e" option.
 
-(8) Slackware will not automatically choose fortunes from these files unless you add "smtoomuch" to the end of the fortune command in /etc/profile.d/bsd-games-login-fortune.sh. You may also want to use "fortune -e" (see note #7). You can also replace the whole line with "fortune -a" if you don't mind seeing Slackware's offensive fortunes too.
+(8) Slackware Linux users: Slackware will not automatically choose fortunes from these files unless you add "smtoomuch" to the end of the fortune command in /etc/profile.d/bsd-games-login-fortune.sh. You may also want to use "fortune -e" (see note #7). You can also replace the whole line with "fortune -a" if you don't mind seeing Slackware's offensive fortunes too.
 
 THANKS:
 
