@@ -1,4 +1,10 @@
-* Next version (?) - Various updates to README.md, made LICENSE more clear, spun off CHANGES section into its own file.
+* Next version (?):
+	* Various updates to README.md
+	* Made LICENSE more clear
+	* Spun off CHANGES section into its own file.
+	* Removed header that was left underneath fortune #2455 by mistake
+	* Added additional fortunes (see "others" folder)
+	* Added German fortune files (smtoomuch-de)
 * v5.2 (2017-05-13) - Fixed critical typo and added make clean and make uninstall.
 * v5.1 (2017-05-12) - Updated Makefile to use coreutils install.
 * v5.0 (2017-05-11) - Initial release, based on version 5 of the book.

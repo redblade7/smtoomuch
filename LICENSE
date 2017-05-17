@@ -1,8 +1,13 @@
-
 From the book's Introduction: "3. Distribution of this book: The compilation is totally free for distribution and if you have your own website I encourage you to put it on your website for download (or for viewing online) without asking any additional permission of the author of these lines."
 
-This same license also applies to the software and documentation.
+This license applies to book, the R series, the software, and the documentation.
 
 More information on authorship and copyright is available in the book's Introduction. 
 
 Included in the "book" subdirectory is the complete book in DOC, PDF, and plain text.
+
+The other English language jokes were taken from posts on sailormoonforum.com, where many of the authors found in the book are active. They have been informed about inclusion of the jokes in the software, and so far there have been no removal requests.
+
+The German language jokes came from a German language Web site (http://animexx.onlinewelten.com/datenbank-zuviel.phtml?them_id=1). As the developer of the fortunes doesn't speak German, use German language software, or know how to contact the owners of the site, the material is provided as a courtesy without an installation mechanism or instructions provided. So far there have been no removal requests.
+
+The other English language jokes and the German language jokes can be found in plain text format in the "other" subdirectory.
