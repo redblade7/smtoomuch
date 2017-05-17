@@ -55,7 +55,7 @@ When you receive #2883 as a fortune, you will not know about the preceding jokes
 
 Instead, #5388 and #5389 begin with "(You know you're obsessed with Sailor Mercury when...)"
 
-(6) In the English fortune files, special and unicode characters were replaced for compatibility with non-unicode terminals. This also required me to cut off the name of the author of #4192-#4195. (You can see the author's name in the book files.) Other than adding delimiters between individual lines, the German fortune files were left alone.
+(6) In the English fortune files, special and unicode characters were replaced for compatibility with non-unicode terminals. This also required me to cut off the name of the authors of #4192-#4195 and #V11. (You can see their names in the book files.) Other than adding delimiters between individual lines, the German fortune files were left alone.
 
 (7) The German fortune files (smtoomuch-de) are provided as a courtesy, with no installation mechanism or instructions provided.
 
