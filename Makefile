@@ -11,13 +11,13 @@ install: all
 	$(INSTALL) -o root -g root -m 644 smtoomuch.dat $(DESTDIR)
 
 clean:
-	$(RM) smtoomuch.dat
+	$(RM) -f smtoomuch.dat
 
 distclean: clean
 
 uninstall:
-	$(RM) $(DESTDIR)/smtoomuch
-	$(RM) $(DESTDIR)/smtoomuch.dat
+	$(RM) -f $(DESTDIR)/smtoomuch
+	$(RM) -f $(DESTDIR)/smtoomuch.dat
 
 smtoomuch.dat: smtoomuch
 	$(STRFILE) smtoomuch
