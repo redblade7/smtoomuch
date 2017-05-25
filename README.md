@@ -1,11 +1,10 @@
 # smtoomuch
 
-YKYWTMSMW Fortunes for Linux v5.2
+YKYWTMSMW Fortunes for Linux v5.3
 
 Created by redblade7, May 11, 2017
 
-Last updated May 13, 2017 (v5.2)
-(Testing version - last updated May 19, 2017)
+Last updated May 25, 2017 (v5.3)
 
 These files for the Linux fortune program provide over 6500 "You Know You Watch Too Much Sailor Moon When..." jokes created between c. 1995 and 2017. 
 
@@ -65,7 +64,7 @@ Instead, #5388 and #5389 begin with "(You know you're obsessed with Sailor Mercu
 
 THANKS:
 
-* Anton-P aka Mariaviollantes for compiling the book and for archiving sailorvgame.org (where the book was hosted)
+* Anton-P aka Maraviollantes for compiling the book and for archiving sailorvgame.org (where the book was hosted)
 * JanC on this page: https://askubuntu.com/questions/36523/creating-a-fortunes-file
 * igemnace on Freenode #vim for helping me quickly split up the book into fortunes
 * Everyone on sailormoonforum.com for being awesome!
