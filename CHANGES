@@ -5,13 +5,16 @@
 	* Added a another book called "ways to know you love sailormoon" by "yamiserenity" into the others subdirectory
 	* The "v6" subdirectory contains an ongoing draft of the future book v6. The original is now in ODT instead of DOC.
 	* sailormoon9993's jokes have been added to the draft v6 book
-	* 2419 was a duplicate of 298, 2534 was a duplicate of 326, and 2419 was a duplicate of 185. All three duplicates were removed.
+	* 2419 was a duplicate of 298, 2534 was a duplicate of 326, and 2419 was a duplicate of 185. All three duplicates were removed. (NUMBERS ARE DIFFERENT NOW)
 	* yamiserenity's "ways to know you love sailormoon" less the duplicates added to the draft v6 book
 	* Removed a non-YKYWTMSMW comment from the H series (a comment that the translator was too tired to do any more). This has not been removed from the fortunes, which will be re-created from book v6.
 	* Added Wiccan joke series from Lady Delphi and Diaphanus
 	* Added a CONTRIBUTING.md file
 	* Added a CODE_OF_CONDUCT file
-	* Added the Sailor V set from Mina-Chan
+	* Added the Sailor V set from Mina_Chan
+	* Added the rest of the H series, and deleted the plaintext from others/
+	* Added more from the B set (will add PGSM later)
+	* Removed the unsupported German fortunes, and moved/renamed the others/ykywtmsmw-g.txt to book/others/ykywtmsmw-de.txt
 * v5.3 (2017-05-24): 
 	* Various updates to README.md
 	* Made LICENSE more clear
