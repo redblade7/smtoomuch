@@ -15,6 +15,7 @@
 	* Added the rest of the H series, and deleted the plaintext from others/
 	* Added more from the B set (will add PGSM later)
 	* Removed the unsupported German fortunes, and moved/renamed the others/ykywtmsmw-g.txt to book/others/ykywtmsmw-de.txt
+	* Added note to README.md that the fortunes are not currently split into offensive and non-offensive, but will be.
 * v5.3 (2017-05-24): 
 	* Various updates to README.md
 	* Made LICENSE more clear
