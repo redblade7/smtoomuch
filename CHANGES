@@ -26,6 +26,7 @@
 	* Fixed possible errors in make uninstall and make clean
 	* Updated Slackware note in README with information on showing all non-offensive fortunes.
 	* NOTE: With Maraviollantes' permission I have taken over maintaining the book too. This means that the YKYWTMSMW Linux fortunes not found in the book will be integrated into the book and given normal numbering both in the book and in the fortunes. This version (v5.3) will be the last release based on version 5 of the book, with upcoming version 6 of the Linux fortunes to be released along with version 6 of the book. The German YKYWTMSMWs will not be in version 6 of the book.
+	* Added the PGSM material, plus all in the V and R sets
 * v5.2 (2017-05-13) - Fixed critical typo and added make clean and make uninstall.
 * v5.1 (2017-05-12) - Updated Makefile to use coreutils install.
 * v5.0 (2017-05-11) - Initial release, based on version 5 of the book.
