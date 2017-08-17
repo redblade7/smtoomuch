@@ -1,6 +1,6 @@
 # smtoomuch
 
-(NOTE: This README.md is a DRAFT for a future v6.x - last updated July 6, 2017. You might want to download v5.3 from the Releases page instead.)
+(NOTE: This README.md is a DRAFT for a future v6.x - last updated August 16, 2017. You might want to download v5.3 from the Releases page instead.)
 
 (NOTE: The fortunes are not currently split into offensive and non-offensive but will be)
 
