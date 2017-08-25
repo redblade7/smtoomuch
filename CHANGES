@@ -3,17 +3,15 @@
 	* Moved Maraviollantes' book to the v5 subdirectory
 	* Added another book, which appears to be a slightly larger fork of v5 by "sailormoon9993" and placed it in the others subdirectory
 	* Added a another book called "ways to know you love sailormoon" by "yamiserenity" into the others subdirectory
-	* The "v6-draft" subdirectory contains an ongoing draft of the future book v6. The original is now in ODT instead of DOC.
-	* sailormoon9993's jokes have been added to the draft v6 book
-	* yamiserenity's "ways to know you love sailormoon" less the duplicates added to the draft v6 book
-	* removed various duplicates, in original and from new material
-	* Removed a non-YKYWTMSMW comment from the H series (a comment that the translator was too tired to do any more). This has not been removed from the fortunes, which will be re-created from book v6.
+	* The "v6-draft" subdirectory contains the draft version of the future book v6. The original is now in ODT instead of DOC, with the draft book in PDF and TXT format.
+	* Removed various duplicates, in original and from new material
 	* Added a CONTRIBUTING.md file
 	* Added a CODE_OF_CONDUCT file
 	* Removed the unsupported German fortunes, and moved/renamed the others/ykywtmsmw-g.txt to book/others/ykywtmsmw-de.txt
 	* Added note to README.md that the fortunes are not currently split into offensive and non-offensive, but will be.
 	* Removed line numbering from ykywtmsmw-de.txt
-	* Finished adding H, R, and V material
+        * When released, v6.x will be based on version 6 of the book. Until then, v5.3 of the fortunes is based on v5, with additions prefixed by letters.
+	* v6.x will not have blank lines after the fortunes.
 * v5.3 (2017-05-24): 
 	* Various updates to README.md
 	* Made LICENSE more clear
