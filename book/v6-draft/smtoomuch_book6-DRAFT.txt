@@ -4,6 +4,8 @@ YKYWTMSMW Compilation INCOMPLETE DRAFT v6
 Version: 6 (6596 entries) DRAFT
 Date: DRAFT DRAFT, 2017
 
+-----
+
 Introduction to Version 5
 
 1. About Ykywtmsmw
@@ -43,7 +45,7 @@ Anton Ptitsin (Anton-P)
 <http://sailormoonforum.com>
 April 18, 2007
 
-
+-----
 
 Introduction to Version 6
 
@@ -51,7 +53,7 @@ by redblade7 (new maintainer)
 
 For the introduction to version 6, I will first post my introduction thread to sailormoonforum.com, dated February 5, 2017:
 
--------
+---
 
 Name is Red, I am 32.
 
@@ -77,13 +79,11 @@ I know I have a lot to learn, including a lot more characters and story arcs (so
 
 What do you think of my story?
 
--------
+---
 
 The only things which have changed from that post as of DRAFT DRAFT, 2017 is that I have seen the full Viz English dub of S (which introduced me to Sailor Saturn) and I am now 33. I have also seen Nanoha A’s, but was not interested in finishing watching Striker S or anything after.
 
 The idea of a Version 6 of the book started when I obtained version 5 from an archive of sailorvgame.org provided by Anton-P (now known as Maraviollantes) to users of sailormoonforum.com. I noticed that the 6,000+ YKYWTMSMWs in the book would make great Linux fortune cookies, and had some help from some other individuals in creating the fortune cookies.
-
-
 
 Over the following few months I had discovered and added more YKYWTMSMWs to the fortune cookie files, that had been written since v5 of the book was published in 2007. These included PGSM related entries, a large list of German ones that had been translated, several forks of v5 and previous editions of this book, entries related to Codename Sailor V, my own, and more, which (after removing duplicates, including missed duplicates in v5) updated the list from 6045 entries to 6596, which is 551 YKYWTMSMWs larger.
 
@@ -103,7 +103,7 @@ DRAFT DRAFT, 2017
 
 https://github.com/redblade7/smtoomuch
 
-
+-----
 
 You know you watch too much Sailor Moon when...
 
@@ -154,11 +154,11 @@ From http://starfox.simplenet.com/ (Starfox)
 43. You are depressed that your cat has never started talking and offered you mystical powers. 
 44. In even a minor crisis, you hear that Tuxedo-mask guitar riff. 
 45. 'Sailor Says' has changed the way that you live your life. You now : 
-a) Eat your vegetables every day. 
-b) Help your parents around the house... though you moved out 8 years ago.
-c) Keep a positive self-opinion like Sailor V. 
-d) Plant a tree every time you see the environmental episodes. 
-e) Work as hard academically as physically so that you can be more like Sailor Mercury. 
+	a) Eat your vegetables every day. 
+	b) Help your parents around the house... though you moved out 8 years ago.
+	c) Keep a positive self-opinion like Sailor V. 
+	d) Plant a tree every time you see the environmental episodes. 
+	e) Work as hard academically as physically so that you can be more like Sailor Mercury. 
 46. You can't seem to ever get the theme song out of your head (even in your dreams). 
 47. You almost got fired cause your boss came by while you were writing a 15 page post to alt.fan.sailor-moon. 
 48. You aspire to be Tuxedo Mask but end up being Tuxedo Melvin! 
@@ -1552,6 +1552,7 @@ is her honey!
 1420. When your girlfriend breaks up with you, you scream "No, this isn't the way it works! I break up with YOU! And besides, it's not even raining out!" 
 
 From http://www.cstone.net/~lbrannon/lauren/smtomuch.htm (Mara Jade)
+
 1421. You freaked when Mara opened a 5th page! 
 1422. You wonder if you can be Sailor Asteroid Belt. 
 1423. The spirits in the fire are now calling you and you put them on hold because Sailor Moon is on. 
@@ -1947,7 +1948,9 @@ We wish to welcome to Moonie Land...
 1792. You find out that one of you high school classmates is named Amy Anderson and you're completely shocked that she wasn't the class valedictorian or has blue hair. 
 1793. You get the highest grade in your class, and the first thing that pops into your head is how proud Ami would be of you. 
 1794. You want to be exactly like Raye... ouch...
+
 From http://www.geocities.com/Tokyo/Towers/2374/index.html (SMPSYCHO)
+
 1795. You can play the violin while bouncing lemons.
 1796. You can recite the dialogue even though you don't know much of Japanese.
 1797. You wish to hear your favorite SM seiyuu in every other anime that you watch.
@@ -2513,6 +2516,7 @@ vocabulary" in an evening, and come up with over 50 words. Then your SM friends 
 2355. Ever since you bought that new Luna clock, you seem to be more & more ofa morning person, which surprises the hell out of the rest of your family, and you have to beg your mom to wake up at 4 in the morning to make you breakfast, because you'll burn the toast to a crisp, along with the rest of your house...
 2356. You eat a Carl's Jr. sandwich and realize that the sauce that's dripping off of it resembles a Sailor Moon character.
 2357. You disown anyone who insists Usagi & the others don't exist in real life.....because DAMMIT! they do!!!!
+
 From http://www.geocities.com/TimesSquare/4818/
 ("The Annals of YKYWTMSMW Volume I" compiled by Tom Ragsdale and Gregory Lam)
 
@@ -2613,7 +2617,9 @@ From http://www.geocities.com/TimesSquare/4818/
 2452. Or (being a Sailor Mercury fan) buying a bottle of glittery blue nail polish (Manic Panic's Atomic Sapphire!) and wearing it all the time, occasionally flashing out my hand and saying "Mercury Star Power, Make up!" (but only in the company of friends) (of course, it'd be worse if a guy wore it...)119-121  - minxish@deltainet.com
 2453. You don't need the VCR anymore.  You can just picture every detail of every episode in your head. (I can't, but for some reason I'm getting close) - roehl@aol.com (Roehl)
 2454. You've dressed as one of the senshi. In public.
+
 ---While on your vacation at Universal Studios...---
+
 2455. You immediately suspect that the clowns in the Mardi Gras parade throwing bead necklaces are from the Negaverse
 2456. When ever you hear a little kid wailing while standing in line, you turn around and ask, "Serena!?"
 2457. To the embarrassment of your parents, when ever Jaws leaps out of the water during the Jaws ride, you yell, "Shining Aqua Illusion!" (Or Shabon Spray)
@@ -2634,7 +2640,9 @@ From http://www.geocities.com/TimesSquare/4818/
 2472. You sit in front of a trashcan fire and wonder how much longer before the good spirits give you a vision.
 2473. You try training your cat to do somersaults in hopes to get a magical item (like a disguise pen!).
 2474. And of course, you are so bored these ideas for YKYWTMSMW just pop into your head.  (The worse part is you write them down so you can post them in the Usenet!) (140-143  - ah307@torfree.net (Darryl Cheung))
+
 ---At Easter...---
+
 2475. You go nuts at Easter because there are bunnies everywhere.
 2476. You spend the whole weekend telling people that rabbit in Japanese is usagi.
 2477. You get sick with the flu and spend the day in bed watching you newly completed 6hr no commercial Sailor Moon volume 1 tape, causing yourself to have delusions about being a Sailor Scout all day.  (This is how I spent Thursday) (144-146  - QKTE55B@prodigy.com (Sailor Quicksilver-who put bunny slippers in all of her cousin's Easter baskets) )
@@ -2786,7 +2794,9 @@ From http://www.geocities.com/TimesSquare/4818/
 2623. You go to Japan solely for the purpose of buying authentic ofuda.
 2624. You drove the guards nuts talking about how they looked like Jadeite.
 2625. You offered to sell your soul to keep SM on the air in NA.
+
 ---During the Olympics...---
+
 2626. You keep looking for a blonde girl with really long pigtails on the Japanese discus team.
 2627. Whenever you play Monopoly, you insist on using the top hat.
 2628. Or you use the SM finger puppets (For some reason, the person who uses Chibi-Usa always wins).
@@ -2795,7 +2805,9 @@ From http://www.geocities.com/TimesSquare/4818/
 2631. You call your biggest marble Pharoah 90.
 2632. You get terrible scores in the Windows _Solitaire: Sailor Moon Edition_(It's Solitaire but with Sailor Moon pics on the cards!!) because you spend all your time admiring the cards instead of concentrating on the game.
 2633. You fax your local newspaper a scathing two page letter when they print a derogatory SM article (I did that to the Toronto Star; they got OVER 10,000 letters - more mail on one subject than they ever got in their 104 year history!)
+
 ---At the CNE (Canadian National Exhibition)...---
+
 2634. (Stars)You and a friend stand at the MR. SUB deeply pondering which sandwich to buy - and you both immediately say, "Sub-marine reflection".
 2635. You run around the CyberCafe replacing all the PCs' desktop wallpaper with Sailor Moon pics downloaded from the Internet. (308-315 - gregory.lam@ablelink.org (Gregory Lam))
 2636. You've started using those 'Turn 5$ into 10,000$' schemes in order to come up with the cash to sponsor the continued dubbing of Sailor Moon.(On your own terms, of course)
@@ -2811,7 +2823,9 @@ From http://www.geocities.com/TimesSquare/4818/
 2646. When you put five TVs and VCRs side by side and watch the English, Japanese, Cantonese, Mandarin, and French editions simultaneously...
 2647. You then give running commentary about the cuts and translations particular to each version. [gL: Hah! A pastime I proposed to the Cult of Serenity - but everyone agreed we would have to constantly pause the English version for the Japanese original to catch up]
 2648. When you give yourself a lame Internet nickname based on a SM character... (317-328 - Tuxedo Ramen)
+
 ---At the hospital...---
+
 2649. You wake up from surgery and the first thing you think about is Sailor Moon.
 2650. Whenever a nurse asks about your Sailor Moon pillow you feel the need to go into the whole DiC's not going to dub anymore episodes thing.
 2651. You name the stuffed lamb that you got as a present Mako-chan.
@@ -2827,7 +2841,9 @@ From http://www.geocities.com/TimesSquare/4818/
 2661. They also call you Mimete (semi-guilty)
 2662. They wonder why you simply *must* mention the Death Busters or Hotaru and Tomoe in EVERY conversation (not ALL the time...) (336-342 - *The Original* Sailor Saturn <wtclark@tpoint.net>)
 2663. A young girl with blonde hair in meatballs wearing a sailor outfit on Halloween tells you, "You're obsessed!" - EKEARNEY@flemingc.on.ca (Evan Kearney)
+
 ---Working at a bookstore (in the kids' section)...---
+
 2664. You think "Return to the Bunny Planet" MUST be about the Silver Millenium or Crystal Tokyo.
 2665. You can't pass a book called "Fish Eyes" without cracking up.
 2666. You always have a piece of paper on the info. desk at work so you can write down all the YKYWTMSMWs you notice that day.
@@ -2883,6 +2899,7 @@ From http://www.geocities.com/TimesSquare/4818/
 2716. You dye your hair dark green, wear red contacts, and claim to be the guardian of time.
 2717. Your harp teacher quit because you continually yelled "Mercury Aqua Rhapsody!" at her every time you played. (394-397 - Sailor Quasar <firebolt@cruzio.com>)
 2718. You're talking about the Italian eatery East Side Mario's, and it occurs to you that its abbreviation (ESM) also stands for Eternal Sailor Moon.
+
 From http://www.geocities.com/TimesSquare/4818/
 ("The Annals of YKYWTMSMW Volume II" compiled by Tom Ragsdale and Gregory Lam)
 
@@ -2967,7 +2984,9 @@ From http://www.geocities.com/TimesSquare/4818/
 2797. After playing the Sailor Moon video games, you decide it's the perfect time to learn kanji. 
 2798. The people at the DMV couldn't figure out what you were talking about when you asked for vanity plates with a stylized 'ne' kanji on it.
 2799. You hear the voices of the Senshi in your head, and conclude that they must be your Goddesses. You then start your own religion. (Senshiism)
+
 ---During the Olympics...---
+
 2800. You *know* that the Scouts/Senshi could shatter any world record in high jump.
 2801. Instead of actual training for the discus throw, you watched Sailor Moon throw her tiara in slow motion a few dozen times.
 2802. After watching "Granpa's Follies", you wonder who could triple jump further: Zoisite or Tuxedo Mask.
@@ -2988,7 +3007,9 @@ From http://www.geocities.com/TimesSquare/4818/
 2817. You think Serena could take the gold in the 100 m Sprint, if you told her she was late to school.
 2818. You can't decide to cheer for Japan or America.
 2819. You can decide, and choose Japan.
+
 From http://www.reeny.org/smoon.html
+
 2820. Your goal in life is to convert the world into LOVING Sailor Moon. 
 2821. You've seriously considered petitioning your university/college to let you teach a course all about Sailor Moon and its impact on society! ;) 
 2822. You would LOVE to go to Japan just so you could learn Japanese and watch all those Sailor Moon episodes that aren't translated, sub-titled or dubbed over into English yet! 
@@ -3203,7 +3224,9 @@ From http://www.reeny.org/smoon.html
 3031. You have the same birthday as a Sailor Scout and you just know that secretly you're them. 
 3032. You try to squeeze in Sailor Moon to every conversation. 
 3033. You paint your nails just so you can say your favorite Sailor Scouts transformation line. The above are thanks to Princess Serena.
+
 From http://lavender.fortunecity.com/mockingbird/76/smpage.html
+
 3034. When it doesn't come on, you burst into tears.
 3035. You see people playing cards, and you yell," Oh my gosh, everyone hide, it's Alan and Ann!"
 3036. You take an astronomy course just to learn more about the moon.
@@ -3334,8 +3357,11 @@ From http://lavender.fortunecity.com/mockingbird/76/smpage.html
 3161. When you begin to call guys that are cute "Darien." (Submitted by smsaturn@raex.com.)
 3162. You use up the ink cartridge all on sailor moon pictures. (Submitted by smsaturn@raex.com.)
 3163. When you start to use nicknames from sailor moon on yourself and on your friends (Submitted by smsaturn@raex.com.)
+
 From http://www.angelfire.com/anime3/silvercrystalpalace/moonsleisurelounge.html (Jezzibelle)
+
 ---*The ones with stars by them (*) Jezzibelle created herself!!!---
+
 3164. You see the above statement and hit the "Back" button on your server because you believe there is no such thing as too much Sailor Moon. 
 3165. You know the wacko who created this site.* 
 3166. You publicly admit to knowing the wacko who created this site.* 
@@ -3483,7 +3509,9 @@ From http://www.angelfire.com/anime3/silvercrystalpalace/moonsleisurelounge.html
 3308. You TRY to get a score lower than 30 so you can beat Usagi 
 3309. You use the Sailormoon theme song to drive your little brother out of your sight. * 
 3310. Your little brother is now obsessed with Sailormoon because you sang the theme song so much.
+
 From http://www.sailorscout.netfirms.com/welcome_to_the_greatest_sailor_s.htm
+
 3311. You try to convince your parents to change your little brother’s name to Sammy. 
 3312. You buy a Black cat and name it Luna and try to make it mate with your friends white cat Artemis 
 3313. Your dad has to wear fake glasses when you’re around. 
@@ -3682,8 +3710,11 @@ From http://tot.rei-li.com/ (Temple of Treats)
 3505. Submitted by Resident Usagi Kou – When you know what I'm talking about in the above statement. 
 3506. Submitted by Resident Usagi Kou – When you make your own Doujinshi and then scan it to your site. 
 3507. Submitted by Kittylass - You accidentally call your boyfriend Darien, which just happens to be your ex-boyfriends name, so he dumps you, but you're too busy watching SM to catch the actual reason why, so you pretend it's because he senses something bad will happen to you if you keep going out. 
+
 From http://www.foreversenshi.50megs.com/index2.html
+
 *The ones with two stars are the ones the author hasn’t done!*
+
 3508. *You're reading this list ~.O 
 3509. *Ideas are already coming into your head as to what to put on this list 
 3510. *Everything around you reminds you of Sailor Moon or something on Sailor Moon 
@@ -3730,7 +3761,9 @@ From http://www.foreversenshi.50megs.com/index2.html
 3551. *You've thought about becoming a Shinto Maiden, even though you're catholic 
 3552. *The computer is there for my Sailor Moon files and nothing else!! 
 3553. *You watch Japanese episodes without subtitles, but you don't care! 
+
 From http://blackmercury.tripod.com/nsm/ykywtmsmw.htm (Nyanko's Sailor Moon)
+
 3554. You use the Sailor Moon patch on your copy of The Sims
 3555. You've been boycotting Power Rangers ever since that awful Saban Moon trailer resurfaced online
 3556. You think that Tupac Shakur has a song on one of the Japanese CDs
@@ -3795,7 +3828,9 @@ From http://blackmercury.tripod.com/nsm/ykywtmsmw.htm (Nyanko's Sailor Moon)
 3615. You can't remember your family's birthdays, but you know all of the ones of Sailor Moon
 3616. You get mad when someone uses the English names for the characters ("She's Usagi, NOT SERENA!!!")
 3617. You weigh 400 pounds, yet you insist on cosplaying as Sailor Starfighter
+
 From http://www.angelfire.com/sd/sailormoon11/YKYWSMTMW.html
+
 3618. You put electric tape on your stomach shaped in the letters S M and tan out in the sun until you get burned!(ok I did this but it just won't come off...and I don't mind!) 
 3619. You seriously consider a tattoo of your fav's scouts symbol on you forehead.(Honestly I will do this!) 
 3620. You have at least one shirt exactly like your fav scouts!(I only have 4!) 
@@ -3853,8 +3888,11 @@ From http://www.angelfire.com/sd/sailormoon11/YKYWSMTMW.html
 3672. Every time you hear Aerosmith's song "Dude looks like a lady" you can't help but think of Zoycite. (Man he does look like a lady!) 
 3673. When you go to your dads for a month you have two suitcases and 1 and 1/2 of them are filled with Sailor Moon stuff. (WHat, you just gotta have it!) 
 3674. On June 30th (Usagi's B-day) Your Family gives you presents!(I got a pink bunny this year) 
+
 From http://www.expage.com/ladysaturnrealmoffanfiction (Lady Saturn)
+
 ^^ means the author came up with it. (=
+
 3675. Your answering machine says, "Sailor Moon says, leave a message after the beep!"
 3676. You pretend that your sick just so you can stay home from school and watch Sailor Moon.
 3677. When you shut down your computer it says, "Sailor Moon Says... See Yah!"
@@ -3904,8 +3942,11 @@ From http://www.expage.com/ladysaturnrealmoffanfiction (Lady Saturn)
 3721. And that strikes you as such a stupid question that you don't even answer.
 3722. Your friend says, "Look! Over there! It's ... Sailor Moon!" And you look.
 3723. And you actually believe you SEE Sailor Moon.
+
 From http://membre.megaquebec.net/youma/youknow.html (Scary Sailor Moon site)
+
 8^) ~= lived by the author or friends
+
 3724. You decide to do your thesis in history about Sailor Moon... 
 3725. You accuse the comity who failed your thesis to be Wise Man's minions...~ 
 3726. You make sure your university schedule doesn't interfere with Sailor Moon's diffusion... 
@@ -3997,7 +4038,9 @@ From http://membre.megaquebec.net/youma/youknow.html (Scary Sailor Moon site)
 3812. You spent 3 mounts making a list of all Sailor Moon sites, now you have to visit them.
 3813. You are ecstatic when you find a site entirely dedicated to Bishoujo Senshi Sailormoon (Karl Unnecessarily long Sailor moon link page ) [If she says it's the biggest, she obviously didn't see The Sailor Moon Nexus... If I could find this page again...]
 3814. At the pool you receive complements about your great swimming, but you know you'll never swim as good as Ami!
+
 Part by Youma Doom
+
 3815. You think your English teacher is a youma.
 3816. You think you might be a youma, actually.
 3817. Your English teacher thinks you are a youma (My English teacher in a fan of Sailor Venus!).
@@ -4237,7 +4280,9 @@ Thanks to Kasumi <kasumi@caramail.com> for these You know you watch too much Sai
 4048. You make school project about Sailormoon.[How did he know???]
 4049. You call your tamagoshi Luna, Artemis or Diana.
 4050. You find a phone book of Tokyo to find the Sailors.
+
 It gets scary when...
+
 4051. You are sure it's possible to change your age in two seconds. (Chibiusa and Usagi...)
 4052. You like blonde jokes but your friend reminded you Sailor Moon had blonde hair...And then, it was a drama... 
 4053. Every time the teacher asks you if you are on the moon, you answer "yes".
@@ -4254,10 +4299,14 @@ It gets scary when...
 4064. You fall in love with Haruka even if she is not a guy.
 4065. You consult a specialist since you think you are Sailor Moon. (NDLR: think??? What you are not really her???)
 4066. You are already in a mental hospital.
+
 By Anonymous:
+
 4067. Your neighborhood doesn't even know Sailormoon but they could recite every episode by heart.
 4068. If you stop watching Sailormoon people think you are possessed by a youma.
+
 By Sailor Frog <sailor.frog@caramail.com>
+
 4069. You do your hair like Sailor Moon and say Moon Tiara Magic everytime someone laugh at you(is it me?)
 4070. You want the same grades as Usagi succeed (me again)
 4071. You bring your moon scepter at school and play it until the supervisor scold you (I'm here often^^')
@@ -4273,7 +4322,9 @@ By Sailor Frog <sailor.frog@caramail.com>
 4081. You create a Sailormoon club with your friends, you all take a sailor name and make "challenges" to become Sailor Scout (me)
 4082. You try to subscribe with the name Sailor Moon with Sailor nationality and force Moon (me but I finally took human force thief)[note: I suppose it's some kind of RPG]
 4083. You try creating a Sailormoon RPG with RPG Maker 2000 but you can't find Sailormoon (me)
+
 From http://www.galaxycauldron.com/active/yky/
+
 4084. You start reciting scenes from the episodes...
 4085. In Japanese...
 4086. In your sleep.
@@ -4288,13 +4339,16 @@ From http://www.galaxycauldron.com/active/yky/
 4095. You go around gloating that you were able to find out that little fact... 
 
 ---angels95
+
 4096. You decide to get in touch with your 'Sailor Self' and do a fire reading until 1am.
 4097. You somehow manage to buy every Sailor Moon DVD/video/comic etc ever made.
 4098. You make copies of Rei's paper charms and attack your enemies shouting AKU RYO TAI SAN!!
 4099. You try to foretell your future by staring at the bay while you're supposed to be working.
 4100. When you find out someone's in trouble you run into the nearest alleyway and shout 'MOON COSMIC POWER!!'
 4101. You've created your own personal senshi costume and practice your speech every day in front of the mirror.
+
 ---Moose-chan 
+
 4102. You know the music to Sailor Moon is just too damn catchy.. (Cheshire Catgirl)
 4103. You start having weird visions that YOU are 'the one named Sailor Moon' (Bunnywabbit)
 4104. You force your boyfriend and 4 of your friends to go as the Sailor Senshi and Tuxedo Mask with you as the leader for Halloween.
@@ -4310,7 +4364,9 @@ From http://www.galaxycauldron.com/active/yky/
 4114. Whenever the clouds cover up the moon at night, you desperately try to use the silver crystal to get rid of them, because your powers are stronger with the moon.
 4115. You call your sister/daughter Rini or Chibi-moon.
 4116. You also force your little sister to wear pink odangos and red contacts. 
+
 ---Moontears 
+
 4117. You give yourself a fringe (even though you haven't had one for years), dye your hair a rich purple-black and get everyone to call you Rei. (Chibi-V)
 4118. You throw ice cubes at people you dislike and shout Mercury Bubble Blast!!! ( Usagi)
 4119. You've made at least 1 fan fic. (Sailor Star)
@@ -4405,7 +4461,9 @@ From http://www.galaxycauldron.com/active/yky/
 4208. You have seen all of the Sailor Moon musicals, even though you don't live in Japan.
 4209. Because of this you can now speak fluent Japanese.
 4210. For creative writing assignments you hand in Sailor Moon fanfics that you wrote.
+
 ---Hoshi-hei 
+
 4211. You call your male friends Urawa-kun or Shinozaki. (jane-person)
 4212. Every time you see a ferris wheel, you look to see if Ami and Urawa are on it. (jane-person)
 4213. Your bed-sheets have bunnies and stars and crescent-moons on them so that they match Usagi's.
@@ -4424,7 +4482,9 @@ From http://www.galaxycauldron.com/active/yky/
 4226. You have a bracelet that says "What Would Luna Do?"
 4227. You can no longer see the walls in your bedroom because they are completely covered by Tuxedo Mask posters.
 4228. You are easily amused by simplest things like ykywtmsmw lists and Tuxedo Mask's big hat. 
+
 ---xx Sgt. Pepper xx 
+
 4229. You run around in thunderstorms wearing a tin-foil hat and yelling "SUPREME THUNDER!" (starsenshi21)
 4230. You know the lyrics to a whole CD of Japanese Sailor Moon songs by heart. (starsenshi21)
 4231. When you go to an elementary school and yell "Oh my gosh! Chibis everywhere!" (Seiya'sGurl)
@@ -4441,12 +4501,16 @@ From http://www.galaxycauldron.com/active/yky/
 4242. Your room is covered in Sailor Moon pictures and posters.
 4243. Fellow moonies admire you just because of your room.
 4244. After watching a few episodes, you look in the mirror and are disappointed to find that your eyes aren't 1/3 the size of your entire face. 
+
 ---PrincessVenus37 
+
 4245. When your friends have to yell "LOOK! IT'S SAILOR MOON!" to get your attention. (Sailor Kitkat)
 4246. If you cry afterwards because you realize that they were lying. (Sailor Kitkat)
 4247. If you become a klutz just so you can be like Usagi. (Sailor Kitkat)
 4248. When you think that the weather is abnormal you go to the circus to see if you can find the Amazoness Quartet. (Eternal Sailor Moon)
+
 From http://smoonmania.no-ip.org/ykywtmsmw.htm
+
 4249. You go to a Halloween party dressed up as Sailor moon or the other scouts and your guy friend/boyfriend is dressed up as Tuxedo Kamen.
 4250. You see a black cat and wait for it to give you a transformation brooch. 
 4251. You dress up as Tuxedo Kamen and try to jump from a high place to the ground.
@@ -4474,8 +4538,11 @@ From http://smoonmania.no-ip.org/ykywtmsmw.htm
 4273. You own all the Sailor Moon magna in English and Japanese. (That's a lot of money)
 4274. Your whole entire room is sailor moon. (desk covered in Sailor Moon stuff etc.)
 4275. You want to paint Sailor moon Characters and stuff onto your walls. (very experienced people)
+
 From http://lunarfigures.homestead.com/humor1.html
+
 You're obsessed with Sailor Moon if:
+
 4276. You have had your boyfriend breakup with you, because you began calling him Darien
 4277. You promise yourself that when you get a little older a small, black, talking cat will come to you and tell you that you are a super hero.
 4278. You adopted a black cat and named it Luna.
@@ -4484,26 +4551,34 @@ You're obsessed with Sailor Moon if:
 4281. When people called you 'baseball brain' and 'doughnut head,' you automatically informed them that that wasn't your name; it's meatball head.
 4282. If you're wearing a hat and you see someone doing something wrong, you take off your hat throw it at them while yelling "Moon Tiara Magic!" (Moon Tiara Action)
 4283. The last time you saw a small child fall down, you helped them as quickly as possible. While putting on the Band-Aid you chanted, "Moon Healing Activation." (Moon Healing Escalation)
+
 You're obsessed with Sailor Mercury if:
+
 4284. When you went to the hair salon you secretly had the person dye your hair blue and refused to get it fixed when your mother demanded that you did.
 4285. You have began studying at every spare moment, so you can be a smart as Amy.
 4286. Even though you've always hated sandwiches, you like them now, because you can eat them and read at the same time.
 4287. Because Amy loves to read, you have read more books than anyone in your school, to show that you love to read.
 4288. You turned the ice maker on and let the ice come out and called "Mercury Ice Storm Blast!" (Sine Aqua Illusion)
 4289. While you are blowing bubbles you frequently say, "Mercury Bubble Blast." (Shabon Spray)
+
 You're obsessed with Sailor Mars if:
+
 4290. At camp and cookouts you sit and stare into the fire, waiting to see something.
 4291. You have taken great joy in picking on small blonde girls.
 4292. You have burnt your fingers, because you believe you can 'conjure' fire in your hands.
 4293. You cut up paper in small strips, write a few Japanese symbols on it, and throw it at people you don't like, while saying 'AKU RYO TAI SAN!' (Evil Spirit Be Gone)
 4294. When you fall asleep in class, you report to your teacher that you were in a trance and the great fire's spirit told you everything the teacher has covered.
+
 You're obsessed with Sailor Venus if:
+
 4295. You suddenly have started having sudden blonde moments.
 4296. You lost all of your stage fright and started taking singing lessons.
 4297. You frequently mess up old sayings.
 4298. Your best friend smacks you on the top of the head a lot, because you apparently called her Lita, again.
 4299. You gathered a length of rope, taped small, orange paper hearts on it, and began to lasso things with it.
+
 You're obsessed with Sailor Jupiter if:
+
 4300. Although, you never showed an interest in it before, you have taken a liking in the gym. You go there to 'pump up.'
 4301. Every time you see a cute guy or one of your friends does, you sigh and say "He looks just like my old boyfriend!"
 4302. You have gotten in several fights at school, because someone called one of your friends a name.
@@ -4512,32 +4587,40 @@ You're obsessed with Sailor Jupiter if:
 4305. When there's a really bad storm and your mother tells you to come into the basement, you look at her like she's crazy.
 
 You're obsessed with Sailor Saturn if:
+
 4306. You brag to everyone that you and her look so much alike. *shakes head in self pity*
 4307. You like characters from other shows, just because A. They resemble her or B. There name is the name of one of the moon's of Saturn. (Do that, too.)
 4308. You bought violet contacts.  (Want to do that.)
 4309. You have suddenly taken a liking to sharp, slightly round objects. 
 4310. You bought a pack of fire crackers and set them off all at once so that you could recreate the Silence Glaive Surprise. 
 4311. You feel a strange connection with glasses wearing people that sit in the dark all the time.
+
 You're obsessed with Sailor Neptune if:
+
 4312. You dyed your hair aqua, even though you have never actually seen a person, other than Michiru, with aqua hair.
 4313. You have your room's walls painted to resemble the bottom of the sea, even though it cost you a fortune. 
 4314. When doing the dishes and your sibling sneaks up on you, you take the sprayer and spray them calling "Neptune Deep Submerge!"
 4315. You carry a mirror around with you and stare at it intently when your trying to think of something.
 4316. You get angry at any mention of the Sailor Moon dub and Michelle's 'cousin' Amara.
 4317. You always hated classical music, because it gave you a headache. Now, you've decided to take up playing the violin.
+
 You're obsessed with Sailor Uranus if:
+
 4318. You've taken a liking to sharp knives.
 4319. You started counting down the days until your 16, so you can get you driver's license.
 4320. You started saving money so you could buy that cool motorcycle when your 16. 
 4321. You've started taking fencing lessons, as you're mother wouldn't let you near a REAL sword.
 4322. At your fencing lessons you yell "URANUS SPACE SWORD BLASTER!" before attacking.
+
 You're obsessed with Sailor Pluto if:
+
 4323. When your friend asks why you didn't answer the phone, you say that you were to busy guarding the gate.
 4324. You have steadily lost friends, because you're never around.
 4325. Your grandma offered to teach you how to sew, when she saw the 'wonderful' dresses you had been working on. Not to mention the many pricks in your fingers.
 4326. When you were at Pizza Hut the other day, you could have sworn that the red light coming from the back room was the Garnet Rod, so you jumped the counter and got thrown out.
 4327. You dyed your hair green. Now, you have the greatest nickname, Seaweed Top.
 4328. You have begun to collect clocks.
+
 From http://sailormoonmeatballmadness.tuxedomask.com/ykywtmsmw/ykyw.html
 (Michiru and ChibiBunny)
 
@@ -4579,7 +4662,9 @@ From http://sailormoonmeatballmadness.tuxedomask.com/ykywtmsmw/ykyw.html
 4364. *A*B-You try every key in the house but none of them take you to the future! 
 4365. *a*b- You cry when it doesn't 
 4366. *a*b-The only reason you eat Cosmic Brownies cause it has cosmic in it
+
 From http://ae-creations.com/wishingmoon (Wishing Moon)
+
 4367. Sailor Lumina - Your name is Anna, but you tell everyone to call you amy. 
 4368. Eternal Sailor Venus - When you grow your hair out long, do it in an odango, and make a Moon Scepter out of cardboard and start whacking your enemies with it saying, "MOON SCEPTER ACTIVATION! MOON SCEPTER ACTIVATION!!" 
 4369. Somebody Else - You spend every waking moment telling everyone around you about how the DIC (Drunken Idiots Corperation) Messed up Sailor Moon regardless of whether the people around you even know what Sailor Moon is. 
@@ -4628,7 +4713,9 @@ From http://ae-creations.com/wishingmoon (Wishing Moon)
 4412. Sailor Amber - You have every Sailor Moon site in your Favorites. 
 4413. Jennifer - You pass up the man (or woman) of your dreams and pray that Usagi and Mamo-chan break up... for good. 
 4414. Jessica - When you spend every waking hour doing something Sailor Moon related!
+
 From http://www.angelfire.com/ok4/hawaii22?
+
 4415. You spend the majority of your paycheck on the subtitled movies.
 4416. The people at the anime store call you to find out what episodes you want.
 4417. You don't have room in your backpack for your moon wand so you paint one on your binder.
@@ -4653,8 +4740,11 @@ From http://www.angelfire.com/ok4/hawaii22?
 4436. You consider buying knee length boots and spray paint it blue or red to match the Sailor Scout boots.
 4437. You buy some aluminum, some crystals and gold paint, so you can fashion your own tiara.
 4438. You start throwing the said home made tiara at people you wished to be vaporized.
+
 From http://www.birdangel.net/minako/ykylsvtmw.php (Crescent Light)
+
 You Know You Like Sailorvenus Too Much When...
+
 4439. You always wear a red bow in your hair. 
 4440. You misquote proverbs on purpose. 
 4441. You dye your hair blonde. If you already have blonde hair, you grow it extra long. 
@@ -4688,7 +4778,9 @@ You Know You Like Sailorvenus Too Much When...
 4469. You do this even when people are around. 
 4470. Your license plate says "SLRVENUS," "MINAKO," or "SAILORV." 
 4471. You only wear clothes like Minako's.
+
 From http://www.angelfire.com/anime2/kasanomiko01/YKYWTMSMW.html
+
 4472. You ask your best friend to paint a crescent moon on your forehead. 
 4473. You get any new friends that you make addicted to SM too. 
 4474. You have more SM pictures on your wall than anything else. (Pics of boyfriend, etc.) 
@@ -4704,7 +4796,9 @@ From http://www.angelfire.com/anime2/kasanomiko01/YKYWTMSMW.html
 4484. You are convinced that all men with pony tails are actually women, especially if they are in a band. 
 4485. You are convinced that it IS possible to do karate in high heels. 
 4486. When you spot an especially attractive person, but aren't sure of their gender, you can't help but wonder if they may be Zoisite... or one of the Sailor Stars, perhaps...
+
 From http://hometown.aol.com/smoonkitty/myhomepage/jlo.html
+
 4487. At sleepovers people claim that you hit them in your sleep while saying Senshi attacks!
 4488. You have a picture of what you would look like as sailor scout!
 4489. You think Sailor Jupiter made "Shock Tarts"! 
@@ -4712,7 +4806,9 @@ From http://hometown.aol.com/smoonkitty/myhomepage/jlo.html
 4491. You try to fly with an umbrella!
 4492. You wonder if Scooby Doo met Luna & Artemis 
 4493. Your call the solar system the sailor system! 
+
 From http://www.expage.com/ssykywtmsmw (Sailor Saturn's YKYWTMSMW...)
+
 4494. When you watch Mulan, you wonder if one of the soldiers is Haruka who grew her hair out a little, dyed it black, and got a tan.
 4495. When you play a Pokemon game, you name your character after your fave. Sailor Senshi and your rival after your fave. SM villain.
 4496. Your favorite time of the day is the Moment of Silence.
@@ -4738,6 +4834,7 @@ From http://www.expage.com/ssykywtmsmw (Sailor Saturn's YKYWTMSMW...)
 4516. And make a flag to go with it.
 4517. You sleep with your SM dolls, and not just the plush ones......
 4518. When your class goes on a field trip into the woods, you decide that if Eudial attacks you for your pureheart crystal, you will run into the woods where NO car could go. Then you change your mind and decide to stay and get heartsnatched, maybe the other kids won't tease you for liking SM because they know it's real, and you just might be able to get a glimpse of the sailor senshi.
+
 From http://www.fortunecity.com/lavender/eraserhead/1067/id22_m.htm
 (Kacie's Sailor Moon, Mercury Palace)
 
@@ -4747,7 +4844,9 @@ From http://www.fortunecity.com/lavender/eraserhead/1067/id22_m.htm
 4522. When someone says your an idiot online and you say, I know where you live because I have Ami's computer! Then when you find this person you put a match in between your 2 pointer fingers and say Mars fire ignite but it doesn't work so say, I have proven my point.
 4523. You make a sailor outfit for your pet.
 4524. You make your door a sailor moon door (Sailor moon is carved in it).
+
 From http://geocities.com/sailormoon185/wykywtmsm.htm
+
 4525. You print thousands of pictures of Sailor Moon.
 4526. You run around the yard pretending your one of the scouts fighting the Nega Verse when the Nega Verse is actually your little brother.
 4527. When your boyfriend says it's either him or Jedite and guess who you choose?
@@ -4799,8 +4898,11 @@ From http://geocities.com/sailormoon185/wykywtmsm.htm
 4573. You go to the Disney store and buy the princess collection wands. After some spray paint it is sailor scout wand. (This and the next submitted by Monnie)
 4574. In science class you have to make a planet project with info on the planets and pictures of the planets. You make it on you fav. scout with pictures of her all over it.
 4575. Every time you see a rose you yell, "Tuxedo Mask!" Even though the people around you give you those looks you always get when you do that. (Submitted by Erika)
+
 From http://www.geocities.com/elise507/fiend (Fiend Angelical)
+
 You Know You Watch Too Much Neherenia When.... 
+
 4576. You wear your hair in odangos and curl the rest.
 4577. When people see your new hairstyle and mistake you for Sailormoon, you attack them.
 4578. You walk around muttering "Princess of the White Moon...".
@@ -4812,7 +4914,9 @@ You Know You Watch Too Much Neherenia When....
 4584. You are convinced there is a New Moon, despite what your Science teacher says.
 4585. You attempt to eat the dream mirrors of your friends. When they protest, you respond that you'll keep them as circus freaks after their dream is taken.
 4586. You keep an ugly old woman around as a maid and call her your servant.
+
 From http://www.galacticparadise.com/smp/ykuw2msmw.html (Serena's Moon Palace)
+
 4587. You attempt more than once to make your hair into perfect circular buns like Usagi has. You fail miserably, but you've broken a lot of hairbands this way.
 4588. You have looked on eBay for Sailor Moon cosplay costumes and have thought that all of them suck because they don't REALLY look like the cartoon.
 4589. You've taught your friends some self-learnt Japanese from subtitled episodes.
@@ -4847,8 +4951,11 @@ From http://www.galacticparadise.com/smp/ykuw2msmw.html (Serena's Moon Palace)
 4618. While you are watering the garden, you start yelling Neptune Deep Submerge! Or Shine Aqua Illusion!
 4619. You and all your best friends had Sailormoon nicknames in high school, and after 6 years it's still the first name you think of when you talk to them.
 4620. You cosplay as one of the sailor scouts at school.
+
 From http://www.angelfire.com/anime3/EternalSerenity/htmls/ykywtmsmw.html (Eternal Kiss)
+
 (* means the ones the author fits into)
+
 4621. You immediately print out this page and decide to use it as a check list. 
 4622. You have several Japanese Sailor Moon songs completely memorized.
 4623. Due to watching subtitled episodes of SM, small Japanese words have become a prominent part of your vocabulary Ex: hai, onegai, ja'ne, gomen, ne, baka, ohayo gozaimas, arigato gozaimas) 
@@ -5022,6 +5129,7 @@ From http://www.angelfire.com/anime3/EternalSerenity/htmls/ykywtmsmw.html (Etern
 4791. When your crush calls you a klutz, you think it's a good thing. 
 4792. You steal your sister's pendants and lockets, thinking that something will happen to your mom in the future and you'll be able to save her. 
 4793. You might as well open your own animal shelter judging by the amount of stray cats you've taken back home...
+
 From http://www.angelfire.com/anime/smsilverpalace/YKYWTMSMW.html
 (Serena's Rabbit Hole)
 
@@ -5060,7 +5168,9 @@ From http://www.angelfire.com/anime/smsilverpalace/YKYWTMSMW.html
 4826. You trim your hedges to look like Sailor Moon.
 4827. You have matching Sailor Moon pajamas that go with your pillow, blanket, sheets, and curtains.
 4828. You make a scrapbook of all your Sailor Moon memories.
+
 From http://riyana.tripod.com/index2.htm (s i l v e r - m i k a z u k i)
+
 4829. You never wear a single pigtail anymore, there have to be two of them, and on the sides of your head. (Mercurami) 
 4830. Every dark-haired boy in your class looks suspiciously like the local masked man. (Mercurami) 
 4831. Your boyfriends can no longer walk you anywhere, they have to bound along like a 'rabbit of the earth.' (Mercurami) 
@@ -5122,7 +5232,9 @@ From http://riyana.tripod.com/index2.htm (s i l v e r - m i k a z u k i)
 4887. You bomb the rock and mineral museum because Jedite, Nephlite, Zoesite, Malachite, Beryl, Emerald, Sapphire and Diamond are there. (sailorryoko) 
 4888. Draw pictures of Sailor Moon and price them to $30.00. (Anonymous) 
 4889. It thunders it doesn't bother you. "Oh, it's just Jupiter killing off some youma…" (Umei) 
+
 From http://sailorcrazy.lucky-stars.ca/ykywtmsmw.htm
+
 4890. You altogether stop watching TV when The Cartoon Network cancels Sailor Moon. 
 4891. Your friends consider you the "sailor nerd". 
 4892. Your teachers consider you a "sailor nerd". 
@@ -5226,8 +5338,11 @@ From http://sailorcrazy.lucky-stars.ca/ykywtmsmw.htm
 4990. You buy Sailor Moon games that are in Japanese and you understand it. 
 4991. You take a mirror and shout, "Submarine Reflection!" 
 4992. You take a sword (don't try at home) and shout "Space Sword Blaster!" 
+
 From http://eternalserajupiter.tripod.com/index.html (Sailor Jupiter's Moon Kingdom)
+
 ^_^ These were submitted by the author (Lita)!! ^.^ 
+
 4993. You call up DiC and threaten to burn down their building |:} 
 4994. You answer your phone like Sailor Iron Mouse 
 4995. You confuse Japanese with Spanish 
@@ -5238,13 +5353,17 @@ From http://eternalserajupiter.tripod.com/index.html (Sailor Jupiter's Moon King
 5000. You don't understand why people think Haruka and Michiru's relationship is disturbing 
 5001. When you're late for class, you say "I was fighting a youma from the Dark Kingdom!" 
 5002. You want to destroy a toy company, because the Sailor Moon brooch you bought won't turn you into Sailor Moon. 
+
 The following were submitted by Kaiko ^-^ 
+
 5003. U laugh whenever u hear someone say "Sailor Mini Moon" thinking they're saying "Sailor Mini Me" 
 5004. U shout out "Saturn Silence Glavie Surprise!" when u want to hurt someone u hate at school n get stuck in the principal’s office for 30 minutes proving that u're insane n obsessioned /w BSSM 
 5005. You try to teach all the English sm watchers the true story and what they cut out but the police come after you and you shout in your sm watch "I'm in trouble you guys! Henshin yo!" 
 5006. You call clover way up and threaten them to dub the sailor stars season or else 
 5007. You scream whenever you hear someone sing English sm theme song 
+
 The following were submitted by Kyle ^^ Whee! 
+
 5008. When my friend explains every aspect of sailor moon… and you listen and write down every word 
 5009. You pull out a knife out on people when you hear "sailor moon gay" 
 5010. You actually try to burn down DIC instead you get caught and sent downtown to the "sailor moon store" which turns out to be jail 
@@ -5254,7 +5373,9 @@ The following were submitted by Kyle ^^ Whee!
 5014. When it backflips you get a magic brooch 
 5015. You actually turn into the sailor you made up from before 
 5016. You stare at people when they have a flower pin on thinking they'll go into a deep sleep sooner or later
+
 From http://www.digital-wing.com/neonobility/ (Neo Nobility)
+
 5017. You see an old lady in trouble so you run over and do a "Sailor V Kick!" 
 5018. On Valentine's Day you gave everyone roses....with a twist (after throwing razor sharp roses at them you say a dorky message) 
 5019. You write about Sailormoon when your teacher said to write about one of your heroes. 
@@ -5281,7 +5402,9 @@ From http://www.digital-wing.com/neonobility/ (Neo Nobility)
 5040. sailor selene - You start to think of Michiru and Haruka as your Mama and Papa. 
 5041. tuxedomask - You get 99 on a test and your parents are disappointed (hmmm... I wonder who that could be...) hint: Melvin. 
 5042. venus - When you start hanging around Shinto temples too much and annoy the priestess.
+
 From http://members.tripod.com/~Sailor_Fu/list2.html
+
 5043. You wonder who would win in a fight between Sailor Mercury and Mr. Freeze. 
 5044. You travel to California so you can picket DIC for Sailor Moon Super. 
 5045. You say "FINE!" just like Ann when she's pissed off. 
@@ -5302,8 +5425,11 @@ From http://members.tripod.com/~Sailor_Fu/list2.html
 5060. You've attended Phoenix Mercury games with the symbol of Mercury painted on your forehead. 
 5061. You bought a copy of "Urban Legend" on DVD so you could skip to the part with Vince "Tuxedo Mask" Corazza. 
 5062. Your favorite song is "Venus" by Frankie Avalon.
+
 From http://heitmat.tripod.com/thekewlsailormoonporch/index.html
+
 -By Katie (the author)
+
 5063. When you get upset or worried about something, you sit down and have a cup of hot cocoa. 
 5064. You're afraid of eggs, because you think they might steal your pure heart! 
 5065. You go through all your Sailor Moon pics playing "Survivor", to decide which one you like best. 
@@ -5315,8 +5441,11 @@ From http://heitmat.tripod.com/thekewlsailormoonporch/index.html
 5071. When your parents tell you to get off the internet, you beg to stay on for ten more minutes, to download a movie clip. 
 5072. Despite the fact you can't find history info for your report, you CAN find plenty of Sailor Moon sites. 
 5073. Your sister starts to sing the Sailor Moon songs, even though she hates Sailor Moon. 
+
 From http://www.geocities.com/jack_z_2000/YKYWTMSMW2.html
+
 The ones with the # sign are the ones that the author has done. The ones with the* sign are the ones that Sunny came up with. Sunny's too proud to mention what she did...
+
 5074. You were seen last summer throwing crescent shaped cookies at people while yelling out 'Venus Crescent Cookies Smashi!' *
 5075. You give your red-headed little sister an umbrella and tell her to go back to the planet that she came from.
 5076. You won't go to any concert unless the band is the "The Three Lights"
@@ -5331,7 +5460,9 @@ The ones with the # sign are the ones that the author has done. The ones with th
 5085. You wake up five hours early in attempt to make Usagi's odangos.
 5086. You have Sailor Moon mangas, and are trying to get the Stars. # (I have the (regular Sailor Moon) second , fifth, seventh, eighth, ninth, the (Sailor Moon Super S) second, and am trying to get enough money to but the Stars, and the rest of the Super S.)
 5087. You tend to get week in the knees when you see some guy that's good looking.
+
 From http://dark-phoenix.net/darkrealm/index1.html
+
 5088. You get good grades and you tell everyone that you have been studying with Ami.
 5089. When you use the mouse you scream; "Mouse Clicking Power!"
 5090. You are convinced that the cutest guy in your neighborhood is Tuxedo Kamen.
@@ -5394,6 +5525,7 @@ From http://dark-phoenix.net/darkrealm/index1.html
 5147. You've actually done all of the above. (What kind of insane person are you??!!)
 
 From http://www.virtualinsanity.net/greatsailormoonsite/ (~^_^~'s Sailor Moon Site)
+
 5148. You drive your friends crazy trying to memorize the whole script of all the episodes of sailor moon.(From Rena ) 
 5149. You stand in front of a mirror and say "Moon Prism Power" all night long until your parents freak and send you to a nuthouse (From Bryan d.) 
 5150. You put a black crescent moon on your forehead and pretend that you're a person from Nemesis! (From Neo Prince Diamond) 
@@ -5434,7 +5566,9 @@ From http://www.virtualinsanity.net/greatsailormoonsite/ (~^_^~'s Sailor Moon Si
 5185. You have at least used twice a Sailor Moon term as your password. (From mel_bisohu_senshi@yahoo.com)
 5186. You forget when your birthday is, but know all of the Sailor Scouts'. (From resimars417)
 5187. You have spent more time watching Sailor Moon in the last week than you have spent at school/work. (From resimars417)
+
 From http://sme.burningdevotion.org/ (Sailor Moon Experience)
+
 5188. You hear Queen's "Another One Bites the Dust" and think, "Sailor Moon does it again!" *
 5189. You look for Sailor Moon stuff in stores you KNOW wouldn't have any, but you just want to be sure. *
 5190. You are very disappointed after going to five different Karaoke places because not a single place had "Oh Starry Night".
@@ -5457,7 +5591,9 @@ From http://sme.burningdevotion.org/ (Sailor Moon Experience)
 5207. You make a Doom WAD file based on SM. 
 5208. You wonder when the Negaverse will try to steal energy from the Energizer Bunny.
 5209. You have a set of Glow-in-the-Dark planets on the ceiling above your bed, and you call them your Guardians. *
+
 Submitted by other fans:
+
 5210. You dress up in a leotard and short skirt with high boots and you put your hair into buns, take your mothers spatula and run around outside, yelling "moon crystal elimination!" - muyobaby7788@yahoo.com
 5211. That you've never missed an episode of Sailor Moon and you've seen them in Japanese. - Kiagirls@cs.com
 5212. You take your little cousin into Wal-Mart to use as your excuse to buy Sailor Moon tapes. - MissRenee01@hotmail.com
@@ -5485,7 +5621,9 @@ Submitted by other fans:
 5234. You say, "Mercury Bubbles Blast!" and you end up farting. - abduque@cox.net
 5235. You start thinking that instead of the Boogyman under your bed, you think Queen Beryl is. - abduque@cox.net
 5236. Every morning you look out your window just in case Tuxedo Mask dropped by. - abduque@cox.net
+
 From http://www.fanfiction.net/s/358947/1/ (Princess BOING Serenity)
+
 5237. Your brother is known as Sammy, no one knows his real name is Fred
 5238. Everything you see/say you can relate to Sailor Moon
 5239. You love being electrocuted
@@ -5512,7 +5650,9 @@ From http://www.fanfiction.net/s/358947/1/ (Princess BOING Serenity)
 5260. The door to your room is painted like the Gate of Time and your room is filled with smoke from a smoke machine
 5261. You carry a mirror and a bottle of water in your backpack
 5262. You pretend to faint and act weak, so you can be Hotaru
+
 From http://www.expage.com/yktwtmjsmw
+
 5263. You call each planet by its respective senshi's name.
 5264. You put the English names on your wall to remember them (Ruka: Did that)
 5265. You were daydreaming in Spanish and when your teacher said the word 'triste' you screamed "It's Setsuna, you evil dubbie fan!'
@@ -5538,7 +5678,9 @@ From http://www.expage.com/yktwtmjsmw
 5285. During a storm, your power goes out before Sailor Moon and you cuss at the sky in Japanese.
 5286. You choose your favorite senshi's name for your name in your Japanese class.
 5287. You beat someone up Haruka-style for making fun of Sailor Moon. Bonus: The other moonie says 'She beat you Haruka-style' and the class stares at both of you.
+
 From http://www.angelfire.com/il2/sailorscully/youknow.html
+
 5288. You have ever had your VCR set to tape Cartoon Network daily, just in case you get home late. 
 5289. You have a Sailor Moon t-shirt. 
 5290. You've worn it to school. 
@@ -5569,7 +5711,9 @@ From http://www.angelfire.com/il2/sailorscully/youknow.html
 5315. While watching the subtitled R movie, you were so proud of yourself when you recognized about four Japanese words (not counting the names or the words that are just like they are in English. That wouldn't really be fair, now would it?). 
 5316. One of the words you instantly recognized was "ecchi" ("pervert"). 
 5317. You've read an entire tankouban (one volume of the manga) in less than 30 minutes because you couldn't wait to find out what happened next. 
+
 From http://andy.leuqarte.com/ykyw.htm (SOS-Toronto)
+
 5318. You infiltrated NASA to access the Hubble Telescope in hopes of finding the Negaverse.
 5319. You and your friends visit an air-conditioned room for a blast of wicked cool air.
 5320. You were hoping that an SM convention would be held at the local planetarium.
@@ -5636,8 +5780,11 @@ From http://andy.leuqarte.com/ykyw.htm (SOS-Toronto)
 5381. Your New Year's Resolution is to watch the repeat SM episodes more often.
 
 From http://www.lelola.net/moon/toomuch.shtml (LELOLA)
+
 submitted by: Misty. 
+
 You know you're obsessed with Sailormoon when- 
+
 5382. You try to disguise urself using ur own Disguise pen and sneaking into a bar. 
 5383. Cut out a pair of cardboard wings and try to fly. (OUCH!) 
 
@@ -5645,19 +5792,28 @@ You know you're obsessed with Sailor Mercury when-
 
 5384. Insist you're a straight A student and frequently argue w/ ur teacher when u don't get one. 
 5385. You carry around a compact and tell everyone it's ur minicomputer. 
+
 Sailor Mars when- 
+
 5386. You try to become a shinto priestess, but give up b/c you can't find a shrine in your town. 
 5387. R constantly fighting w/ ur best friend for no reason 
 5388. Keep making predictions for the future and going into trances. 
 5389. U sit in front of the fire place and yell at neone that bothers u, telling them ur doing a fire reading. 
+
 Sailor Jupiter- 
+
 5390. U try to beat up the strongest bully in school (ooo.. painful) 
 5391. Start wearing platform shoes to make urself look taller. 
 5392. U start cooking everyone u know tons of food (which they politely accept, then throw out) 
+
 Sailor Venus- 
+
 5393. U start arguing w/ ur friends that u really r an idol named Sailor V 
+
 Submitted by: ZEBROWSKI1@email.msn.com. 
+
 You know you're obsessed with Sailor Moon when: 
+
 5394. You drag some kid home and say to your mom, "Meet my future daughter!" 
 5395. You custom-make your lockets, because the ones in the store are so plain 
 5396. You single-handedly try to purge Tokyo (Or wherever you live) of all crime and wrongdoings in a costume you got online 
@@ -5665,60 +5821,83 @@ You know you're obsessed with Sailor Moon when:
 5398. You glue yellow tennis balls to your head, even though you have brown hair 
 5399. You tell everyone you meet that they'd better be nice to you, because you're going to be Queen of the Earth someday 
 5400. You round up four of your friends and claim they are your planetary bodyguards 
+
 You know you're obsessed with Sailor Mercury when: 
+
 5401. You try to make a harp out of water 
 5402. You spend all your free time trying to design and build a mini-computer 
 5403. Your teacher gives you an F on a test and you threaten to freeze her with Aqua Illusion if she doesn't change it 
 5404. You speak with a slight British accent for the first 2 series, then change it at the beginning of the S Series 
 5405. You never, ever lose your temper 
 5406. You never chase guys 
+
 You know you're obsessed with Sailor Mars when: 
+
 5407. You try to light fire with the tips of your fingers 
 5408. You sit on your feet in front of a lit fireplace for hours, just staring at the fire, trying to go into a trance, but you just end up falling asleep 
+
 You know you're obsessed with Sailor Jupiter when: 
+
 5409. Your main goal in life is to grow six inches taller 
 5410. You spend long periods of time baking stuff for your friends and actually believe you had fun doing so afterwards 
 5411. You spend long periods of time carving leaves out of wood and painting them green. You then run around, throwing them at people you hate, yelling "Jupiter Oak Evolution!" 
+
 You know you're obsessed with Sailor Venus when: 
+
 5412. You insist the planet Venus can support life 
 5413. You know you're an American Venus worshipper when your main goal in life is to find out were Mina lived before she came to Japan (I live in America. For all you American Venus worshippers, I think it's England. Not positive, though!) 
 5414. You make a chain of little orange hearts in shop class. You then chase your shop teacher around, whipping him with it, and screaming "Venus Love Chain Encircle!" when he gives you an F on the project 
+
 You know you're obsessed with Sailor Mini-moon when: 
+
 5415. You try to travel through time by holding up the key to your diary, yelling "Crystal Key, take me home to the future!", and then jumping off a dock 
 5416. You dye your hair pink and get red contacts 
 5417. You claim to have the Golden Mirror 
+
 You know you're obsessed with Sailor Uranus when: 
+
 5418. You have dedicated your life to trying to find the shoes that Sailor Uranus wears 
 5419. You don't go to a public school, but you wear an imitation of the Mugen school boys uniform to your school every day 
 5420. You've been mistaken for a boy several times 
 5421. You get SO p.o.'ed when people make "Ur-anus" jokes 
 5422. You asked your cousin to dye her hair green(Uranus and Neptune are cousins in America) 
+
 You know you're obsessed with Sailor Neptune when: 
+
 5423. You dye your hair green, just because your cousin asked you to 
 5424. Every time the tide goes out, you say, "The sea is receding...it senses trouble..." 
+
 You know you're obsessed with Sailor Pluto when: 
+
 5425. You isolate yourself from the world because you have to guard the Gates of Time 
 5426. You dye your hair green-black 
 5427. The key to your room is bigger than you 
 5428. You claim to be the lost child of Cronos, Greek god of Time 
 
-
-You know you're obsessed with Sailor Saturn when: 
+You know you're obsessed with Sailor Saturn when:
+ 
 5429. You feel cheated that she only appeared for over a minute in one episode (I'll admit to this one!) 
 5430. You cried hysterically when it looked like she was going to die 
 5431. You danced when Sailor Moon brought her back as a baby 
 5432. You made a Silence Scythe in shop class then got sent for counseling 
+
 You know you're obsessed with Sailor Moon in general when: 
+
 5433. You claim to be Sailor Sun, the lost Senshi of Light 
 5434. You have designed a Senshi for every constellation you could think of, then made up a story using them (I admit to this too!) 
+
 submitted by: Star Angel. 
+
 You know when you have watched too much Sailor Moon when.... (for girls) 
+
 5435. You are in sending almost 100 hate emails a day to toonami because they don't have Sailor Stars yet 
 5436. You don't buy CDs like a regular girl because you want either to buy Sailor Moon merchandise or think it's a plot of the Negaverse 
 5437. You dump your boyfriend because you thought he was Tuxedo Mask and he isn't 
 5438. You've watched every Sailor Moon Movie there is and even though you don't have a clue to what the Japanese are saying you still buy the movies in Japanese 
 5439. Your in love with Darien (in my opinion that's scary) 
+
 You know when you've watched too much Sailor Moon when.... (for boys) 
+
 5440. Ok face it, you actually watch Sailor Moon 
 5441. You go on a date with a girl and make an entrance on top of a light pole in a tux and start saying one of Tuxedo Mask's intro speeches. 
 5442. You think that your best friend is Melvin 
@@ -5727,19 +5906,26 @@ You know when you've watched too much Sailor Moon when.... (for boys)
 5445. You buy a Sailor Moon shirt and wear it to school (Extremely Scary in my opinion) 
 5446. You hate all your friends because they don't like Sailor Moon 
 5447. You fall in love with Michelle and Rei 
-5448. You dump your girlfriend because you thought she was Sailor Mini Moon 
+5448. You dump your girlfriend because you thought she was Sailor Mini Moon
+ 
 You know when you have watched to much Sailor Moon when... (for geeks) 
+
 5449. You make 10 or more Sailor Moon Websites 
-5450. You don't watch the episodes cause you've much rather be on the Internet 
+5450. You don't watch the episodes cause you've much rather be on the Internet
+ 
 Submitted by: kawaii_gurl@lelola.zzn.com. 
+
 You know when your obsessed with Sailor moon when: 
+
 5451. You have a boyfriend that looks like Darien (scary!) 
 5452. If you don't have a boyfriend, then you find yourself imagining that all of the guys looks like Darien (even scarier!!) 
 5453. Your future daughter is identical to Rini!!(how does anyone know how their future daughter does look like. hmmm must be psychic!) 
 5454. You have a mural of Sailor moon posters and pictures on your wall 
 5455. You start your own "Sailor moon wannabe fan-club" (hehe) 
 5456. Your computer is filled with nothing BUT Sailor moon stuff. 
+
 Submitted by: silversapphirestar@juno.com. 
+
 5457. Every night when you fall to sleep, you dream that you are one of the characters from the show. (Sailor Moon by moonlight. Wannabe by daylight.) 
 5458. You are asked to draw a landscape in art, and you put Pegasus in it. 
 5459. You get one of those fancy electronic personal organizers, and you draw a mercury symbol on the front. 
@@ -5747,7 +5933,9 @@ Submitted by: silversapphirestar@juno.com.
 5461. You get detention for drifting off in class, and you tell your teacher that you will punish him/her in the name of the moon. (Then you have counseling, too!) 
 5462. You have been caught prancing around your room in the middle of the night screaming "I stand for love! I stand for justice! I am Sailor Moon!" 
 5463. You request to your drama teacher that the class should perform a play, written by you, about Sailor Moon. 
+
 *submitted to sailorvgame.org*
+
 5464. You cultivate a bonsai tree hoping it to grow into Makaiju (Michi)
 5465. You draw black circles on your white umbrella and try to hypnotize people on streets, convincing them you are their niece Usagi (Michi)
 5466. You try to hypnotize your little sister by a medallion in order to evoke a spirit from her. (Anton-P)
@@ -5756,16 +5944,22 @@ Submitted by: silversapphirestar@juno.com.
 From http://www.geocities.com/yasmin_sheridan2000/youknow.html (Sweet Fantasy)
 5469. You won't accept any gifts if it's not related to Sailor Moon.
 5470. You scream out loud saying "they are stealing my pure heart" just to see if the sailor scouts might show up.
+
 From http://www.geocities.com/moonlitdreams10/YKYL.html (Moonlit Dreams)
+
 5471. You demand everyone to bow to you, as you are the princess
 5472. When you see a bully beating up someone and say, "MOON PRISM POWER!" and try to save the poor kid
 5473. When you search the entire mall for a little frilly red skirt that has underpants attached
 5474. When you actually find the frilly skirt
 5475. When you tape up pictures of "your dearest boyfriend Darien" in your locker
+
 From Chibi Usa (http://www.geocities.com/thedexstar/index.html)
+
 5476. You can't find anymore websites on Sailor Moon because you've seen them all, even the Japanese ones.
 5477. You wonder why they don't make any more new Sailor Moon stuff, but only because you own all of it already.
+
 From http://www.expage.com/sailororcaotaku (Sailor Star Orca's Sailor Moon site)
+
 5478. You turn all your friends into SM fanatics. Those who refuse to convert are scum of the Dark Kingdom.
 5479. For guys, you go to girl's basketball, softball, etc. games in a tuxedo & give them words of encouragement & red roses 
 5480. You put a paper star on top of a pen & shout: "(Mercury, Mars, Jupiter, or Venus) Star Power! (Make-up!)" You do this randomly throughout the day when you sense evil. 
@@ -5776,8 +5970,10 @@ From http://www.expage.com/sailororcaotaku (Sailor Star Orca's Sailor Moon site)
 5485. For guys, you were a tux identical to Tuxedo Mask's to your prom--And your date dresses like Princess Serenity. You reenact their final moments during Silver Millennium during the middle of prom. 
 5486. You pick up a hand-held mirror, & you can't resist shouting: "Submarine Reflection!" 
 5487. Your family & friends have an easy time figuring out what gifts to buy you for Christmas & your B-day: Sailor Moon merchandise, unless you have every Sailor Moon item known to man. 
-5488. You introduce yourself saying: "I am the Pretty Suited Champion of Love & Justice, _____, & in the name of the Moon, you're punished!" 
+5488. You introduce yourself saying: "I am the Pretty Suited Champion of Love & Justice, _____, & in the name of the Moon, you're punished!"
+ 
 From http://midnight_rabbit.tripod.com/YKYWTMSMW.html (Caroline Curtis’s website)
+
 5489. You scribble on toilet roll and throw it at people.
 5490. You get upset at the end of your pack of smarties when there's a colour for each senshi except Neptune. (Guilty) 
 5491. You can name each individual song and BGM from each track on the SMR Symphonic Poem and Gasshou Kumikyoku disks (Guilty) 
@@ -5790,8 +5986,11 @@ From http://midnight_rabbit.tripod.com/YKYWTMSMW.html (Caroline Curtis’s websi
 5498. You check all mirrors carefully to see if anyone is concealed inside. (Guilty) 
 5499. You watch any bishounen you meet annoyingly closely because you're confident they're the next target for a Pure Heart Crystal. (Guilty) 
 5500. If anyone offers to show you their botanical science project, you run away yelling 'Aliens! Aliens!' 
+
 From http://www.smuncensored.com/forums/index.php 
+
 (Sailor Moon Uncensored Forums) - as on June 25, 2006
+
 5501. "You think of "The Sick Rose" as Taiki's special poem." (Rainbow)
 5502. You can't think about Blake without thinking of Taiki (Rainbow)
 5503. You actually do your hair like Chibi-Usa-sama or Chibi Chibi (Rainbow)
@@ -5968,8 +6167,11 @@ From http://www.smuncensored.com/forums/index.php
 5674. You sit at home writing questions to test whether or not you're obsessed with Sailor Moon. Wait a sec... (moonprincess7070)
 5675. Upon seeing any Sailor Moon screenshot on the Net you can instantly recognize episode number and the minute/second from beginning of this episode where the shot was taken from. (Anton-P)
 5676. Whenever you see a butterfly you simply must follow it wherever it flies because you think it to be a message sent to you by Princess Kakyu. (Anton-P)
+
 From http://www.sailormooni.com/international/
+
 (Sailor Moon International Forum) – as on June 25, 2006
+
 5677. You buy a package of the little round crystals from the bead section of Hobby Lobby, put one on a gold chain and say it's your own ginzuishou (SailorAria)
 5678. You write a letter to Kodak company suggesting them a new design for a camera in the form of an eyeball with wings. (Anton_P.)
 5679. 3/4 of your bookmarked websites are Sailor Moon related. (SailorAria)
@@ -5982,8 +6184,11 @@ From http://www.sailormooni.com/international/
 5686. You buy a toy of the star locket and give it to your significant other, telling them that as long as they have that, you're always with them. (Thought about doing it!) (Chains Of Fate)
 5687. While trying to sleep you start to count youma instead of sheep (one Garoben, two Garobens, three Garobens...) (Anton_P.)
 5688. You are afraid of cormorants now, expecting them to be professor Tomoe's disguised daimones. (Anton_P.)
+
 From http://www.angelfire.com/anime/sailormexico/
+
 (Sailor Moon en Mexico) - translated from Spanish by Anton-P
+
 5689. You walk all the time around your house with a whip thinking that you are Tiger's Eye.
 5690. When you are going to Taxco you say that you must find Silver Crystal.
 5691. When a new subterrain laboratory appears in your city, you expect it was open by Professor Tomoe.
@@ -6011,7 +6216,9 @@ From http://www.angelfire.com/anime/sailormexico/
 5713. After finding it finally you was so angry that did not talk with anyone for two days because the page was not willing to open.
 5714. You think about learning genetics in order to be able to breed talking cats with crescent moon marks on their foreheads.
 5715. You paint a giant sign on the door of your house that reads: “Welcome to Crystal Tokyo”.
+
 Since you are a fan of the villains, you (the ones with *):
+
 5716.  * Place different strange objects into a stove hoping them to turn into monsters that will steal pure hearts.
 5717. * Buy a white car and paint black stars on each door.
 5718. * The door at your work reads: “Witches 5”
@@ -6030,14 +6237,18 @@ Since you are a fan of the villains, you (the ones with *):
 5729. You run into your classroom with your toy sailor moon wand, jump on your desk, point the wand at your teacher and shout "moon scepter elimination" when that does not  work you pull out your bubbles and shout "mercury bubbles" and blow bubbles in her face. In the end she sends to the office, but at least you missed the math test! Now where did you put your "crystal key" ... (R. Manley)
 5730. You kiss ALL your sailor moon dolls good night, which takes an hour. (R. Manley)
 5731. You starting wonder if Malachite’s nick name was Sephirot (From Final Fantasy VII). (Pilar Fernandez Alvarez-Cienfuegos)
+
 From http://lildizzle87.tripod.com/id21.html
+
 5732. You've brushed your hair looking into the mirror humming the theme song.
 5733. You've made your own Crescent Moon Wand out of paper, popsical sticks, and tape (I was creative!)
 5734. You've made your favorite Sailor Senshi's fuku out of construction paper and tape when you where a child. Then got mad when your mom threw it away when you were 16.
 5735. You've made of 60 some petitions on www.petitionspot.com just to see if Cartoon Network would put Sailor Moon back on (It's not their decision, it's all about the expired licenses, c'mon people.)
 5736. You have a youtube account for just Sailor Moon stuff (that's not only what's on my account)
 5737. You have more then 2 otaku mangas that you've created just about Sailor Moon. (YEAH! I have SIX!)
+
 From http://www.geocities.com/lanapower87/humor2.html
+
 5738. You stare up at the sky and shout" Hey future daughter come on down to the past with me!
 5739. You build a crystal palace and tell your family that in the future you will all live there.
 5740. You chase guys to be like Mina and Serena.
@@ -6077,8 +6288,11 @@ From http://www.geocities.com/lanapower87/humor2.html
 5774. You said your mother is not your mother because her name is not Ikuko.
 5775. You keep your mother away from any guy who looks like hawks eye.
 5776. You kiss your tuxedo mask doll.
+
 From http://sailorsaturnspalace.com/WYKYOWSS.php
+
 WYKYOWSS (When You Know Your Obsessed With Sailor Saturn)
+
 5777. When you yell "Silence Wall!" and your mom says, "Honey, why can't I open your bedroom door?"
 5778. When you try to heal people... and it works!
 5779. When you yell, "Silence Glaive Surprise" when you want your worst enemy to die and it works!
@@ -6103,8 +6317,11 @@ WYKYOWSS (When You Know Your Obsessed With Sailor Saturn)
 5798. You stay in your house all day and your skin turns pale.
 5799. When you wear a Sailor Saturn's sailor outfit to school and hit your teacher with your plastic Glaive 'cause she said it was not appropriate for school.
 5800. When you buy Sailor Moon bookmarks for almost $20 when there is only 1 picture of Eternal Sailor Saturn and Hotaru and all the rest of the book marks are of the other Senshi.
+
 From http://www.smuncensored.com/forums/index.php 
+
 (Sailor Moon Uncensored Forums) - as on December 10, 2006
+
 5801. When you see a book on botany you try to find info about Xenian flower in it. (Anton-P)
 5802. You Imagine beating the crap out of that Mio-San girl in PGSM. (nap*)
 5803. You believe that everyone had a heart crystal and star seed. (nap*)
@@ -6145,7 +6362,9 @@ From http://www.smuncensored.com/forums/index.php
 5838. You start to like Godzilla series only because Usagi was going to watch it in one episode. (Anton-P)
 5839. You tie a red collar with a bell around the neck of your kitten so that it will look more like Diana. (Anton-P)
 5840. You believe that after you die your star seed will return into Galactic Cauldron to be reborn in the future. (Anton-P)
+
 Submitted to Ykywtmsmw Compilation by Dominique <puff22_2001@yahoo.com>
+
 5841. As far as you care, Sailor Moon IS the news! *
 5842. Dying is less scary then your mother throwing out your raggedy, molding Sailor Moon blanket!
 5843. Everyday you go to a different search engine and search for SOMETHING Sailor Moon. *
@@ -6210,7 +6429,9 @@ Submitted to Ykywtmsmw Compilation by Dominique <puff22_2001@yahoo.com>
 5902. You're reading this on commercial breaks from you fifth Sailor Moon marathon the week!
 5903. You're still on last week's marathon!
 5904. You've seen one or more seasons three or four times straight through and you STILL watch it/them!*
+
 Submitted to Ykywtmsmw Compilation by Reynir Stefansson <reynirhs@mi.is>
+
 5905. You and your cat duet to the Sailor Moon music.
 5906. You replace your SM tapes (and the VCR) once a month due to wear.
 5907. Your mother dyes her hair violet and your first response is "Ikuko-san?"
@@ -6269,8 +6490,11 @@ Submitted to Ykywtmsmw Compilation by Reynir Stefansson <reynirhs@mi.is>
 5960. Your whole life is SM-themed.
 5961. You just *know* you'd make a good spouse for a Senshi.
 5962. You just *know* your favourite Senshi wants to be with *you* forever.
+
 From http://seramyuantics.takaginaosama.com/myufun/ykylsmtmw.htm (SeraMyu Antics)
+
 You Know You Love SeraMyu Too Much When...
+
 5963. You have SeraMyu related dreams.
 5964. You print out pictures of your favorite SeraMyu actress/actor and cover your walls.
 5965. Someone asks you who Usagi's seiyuu is and you can't remember, except that it's one of five people...
@@ -6293,8 +6517,11 @@ You Know You Love SeraMyu Too Much When...
 5982. Someone asks you what your favorite episode of Sailormoon is and you automatically reply "Transylvania no Mori!"
 5983. You've searched and searched, but you just can't find any flights to Kaguya Island. Too bad, because you refuse to take a boat.
 5984. You have serious nightmares about Black Lady singing "Black Moon Signal."
+
 From http://seramyuantics.takaginaosama.com/forum/index.php (SeraMyu Antics Forum)
+
 You Know You Love SeraMyu Too Much When...
+
 5985. You re-watch myu as if they were regular anime episodes, even when they last an hour and a half longer... (Kappa)
 5986. You know all the actress's names from first stage to fourth stage. (MizunoAmi)
 5987. You call them by their first names. (MizunoAmi)
@@ -6344,8 +6571,11 @@ You Know You Love SeraMyu Too Much When...
 6031. You have difficulty pronouncing "jewelry" because you seem to keep saying "ju-e-ri" instead of "jewel-ry." (Well, at least "jueri" is prettier sounding). (Queen Galaxia)
 6032. You have to do a project on genetics and you name everyone on the chart after Myu actresses/actors. (Yayamaya)
 6033. You accidentally run a red light and you think the reason is because your mind was thinking of Seramyu things. (Queen Galaxia)
+
 From http://www.smuncensored.com/forums/index.php 
+
 (Sailor Moon Uncensored Forums) - as on April 17, 2007
+
 6034. You think someone is after your dream mirror. (supersailorearth)
 6035. Every time you see a bad driver you think Eugeal is at it again. (supersailorearth)
 6036. You believe that the nearest high standard school is the location of a group of people trying to bring evil to destroy the world to earth by stealing your pure heart crystal. (supersailorearth)
@@ -6494,7 +6724,6 @@ YKYWTMSM...
 6162. If you put your head through Grandma's antique wardrobe mirror 'cause you believe Nehellenia/Pegasus could be hiding inside - And then you wonder about the shards and all that blood (That's an original one I recently came up with in case you're asking)
 6163. If your school grades are so bad you're running around all over the city, desperately asking for some 'Crystal Seminar' (Same here)
 
-
 From wikimoon.org’s YKYWTMSMW entry:
 
 6164. You found a way to paint your room the "Salad Time" color.
@@ -6531,6 +6760,7 @@ YKYWTMSM(and you’re Wiccan!) When...
 6188. You actually know classical mythology and BSSM well enough to roll your eyes every time someone mentions the wrong-headed "Saturn/Pluto mythology mix-up." (Diaphanus)
 
 From a list of German fortunes at this site... http://animexx.onlinewelten.com/datenbank-zuviel.phtml?them_id=1
+
 ...which were translated to English here: http://sailormoonforum.com/viewtopic.php?f=23&t=7013
 
 Translated by senshi of love
@@ -6681,8 +6911,6 @@ You watch to much Sm when:
 6324. When you belive that you once saved the world and you forgott everything and that its your cats fault.
 6325. When see Mamoru in every darkhaired guy
 6326. When you call your horse pegasus and try to fly with him trough the air
-
-
 
 Translated by Dan:
 
