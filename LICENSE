@@ -1,13 +1,13 @@
-From the book's Introduction: "3. Distribution of this book: The compilation is totally free for distribution and if you have your own website I encourage you to put it on your website for download (or for viewing online) without asking any additional permission of the author of these lines."
+From the book's Introduction to Version 5: "3. Distribution of this book: The compilation is totally free for distribution and if you have your own website I encourage you to put it on your website for download (or for viewing online) without asking any additional permission of the author of these lines."
 
-This license applies to book, the R series, the software, and the documentation.
+From the book's Introduction to Version 6: "The distribution policy remains the same as version 5"
 
-More information on authorship and copyright is available in the book's Introduction. 
+This license applies to versions 5 and 6 of the book, the software, and the documentation.
 
-Included in the "book" subdirectory is the complete book in DOC, PDF, and plain text.
+More information on authorship and copyright is available in version 6 of the book. 
 
-The other English language jokes were taken from posts on sailormoonforum.com, where many of the authors found in the book are active. They have been informed about inclusion of the jokes in the software, and so far there have been no removal requests.
+Included in the "book/v6" subdirectory is the complete book (version 6, by redblade7) in DOC, PDF, and plain text.
 
-The German language jokes came from a German language Web site (http://animexx.onlinewelten.com/datenbank-zuviel.phtml?them_id=1). As the developer of the fortunes doesn't speak German, use German language software, or know how to contact the owners of the site, the material is provided as a courtesy without an installation mechanism or instructions provided. So far there have been no removal requests.
+Included in the "book/v5" subdirectory is the complete book (version 5, the last one by Anton-P) in DOC, PDF, and plain text.
 
-The other English language jokes and the German language jokes can be found in plain text format in the "other" subdirectory.
+Included in the "other" directory are two YKYWTMSMW compilation books which were integrated into v6. Also included are the German language YKYWTMSMWs, which were translated into English by various people and integrated into v6. These are provided as a courtesy and so far no removal requests have been received.  
