@@ -1,6 +1,6 @@
 # smtoomuch
 
-(NOTE: This README.md is a DRAFT for a future v6.x - last updated August 27, 2017. You might want to download v5.3 from the Releases page instead.)
+(NOTE: This README.md is a DRAFT for a future v6.x - last updated August 28, 2017. You might want to download v5.3 from the Releases page instead.)
 
 (NOTE: The fortunes are not currently split into offensive and non-offensive but will be)
 
@@ -8,9 +8,9 @@ YKYWTMSMW Fortunes for Linux v6.x-DRAFT
 
 Created by redblade7, DRAFT DRAFT, 2017
 
-Last updated August 27, 2017 (v6.x-DRAFT)
+Last updated August 28, 2017 (v6.x-DRAFT)
 
-(NOTE: This README.md is a DRAFT for a future v6.x - last updated August 27, 2017. You might want to download v5.3 from the Releases page instead.)
+(NOTE: This README.md is a DRAFT for a future v6.x - last updated August 28, 2017. You might want to download v5.3 from the Releases page instead.)
 
 These files for the Linux fortune program provide over 6500 "You Know You Watch Too Much Sailor Moon When..." jokes created between c. 1995 and 2017. 
 
