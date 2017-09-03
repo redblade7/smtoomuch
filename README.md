@@ -14,11 +14,11 @@ Last updated September 3, 2017 (v6.x-DRAFT)
 
 These files for the Linux fortune program provide over 6500 "You Know You Watch Too Much Sailor Moon When..." jokes created between c. 1995 and 2017. 
 
-Most of the jokes come from the YKYWTMSMW Compilation book, version 6, originally by Anton Ptitsin and updated by redblade7, released on DRAFT, 2017. The fortunes are derived from the plaintext version of the book.
+Most of the jokes come from the YKYWTMSMW Compilation book, version 6, originally by Anton Ptitsin and updated by redblade7, released on DRAFT, 2017. The fortunes are derived from the TXT version of the book.
 
 Included in the "book/v5" subdirectory is the complete book, version 5 (the last from Anton Ptitsin) in DOC, PDF, and plain text.
 
-Included in the "book/v6" subdirectory is the complete book, version 6 (the first by redblade7) in DOC, PDF, and plain text.
+Included in the "book/v6" subdirectory is the complete book, version 6 (the first by redblade7) in ODT, PDF, and plain text.
 
 Included in the "book/others" subdirectory are additional books and sources.
 
@@ -54,7 +54,7 @@ NOTES:
 
 When you receive #2880 as a fortune, you will not know about the preceding jokes unless you look them up.
 
-(5) In the fortune files, special and unicode characters were replaced for compatibility with non-unicode terminals. This also required me to cut off the name of the authors of #4189-#4192 and #6153. (You can see their names in the book files.)
+(5) In the fortune files, special and Unicode characters were replaced for compatibility with non-Unicode terminals. This also required me to cut off the name of the authors of #4189-#4192 and #6153. (You can see their names in the book files.)
 
 (6) There are over 6500 fortunes in these files which, depending on the amount of fortunes you have installed, might make the likelihood of receiving a YKYWTMSMW fortune higher than you want. If you want to change this behavior, see the fortune man page about the "-e" option.
 
