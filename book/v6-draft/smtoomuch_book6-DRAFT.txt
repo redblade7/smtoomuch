@@ -1,4 +1,4 @@
-﻿
+
 YKYWTMSMW Compilation INCOMPLETE DRAFT v6
 
 Version: 6 (6596 entries) DRAFT
@@ -10,11 +10,11 @@ Introduction to Version 5
 
 1. About Ykywtmsmw
 
-The very first ykywtmsmw (You Know You Watch Too Much Sailor Moon When…) page was created in 1995 by Starfox ( website is now closed. Formerly http://starfox.simplenet.com ). He published his own ideas and those submitted by other moonies. The page has become very successful (on his commemorative page Starfox later stated that in a single 24 hour span (on a certain day in December 1997), the site received 703 different visitors (individual IP addresses) and 14,589 hits (requests for files)) but despite of this the website was closed by Starfox on December 24, 1997 after getting 1420 entries (published ones). All content of the website was declared as free for use by anyone.
+The very first ykywtmsmw (You Know You Watch Too Much Sailor Moon When...) page was created in 1995 by Starfox ( website is now closed. Formerly http://starfox.simplenet.com ). He published his own ideas and those submitted by other moonies. The page has become very successful (on his commemorative page Starfox later stated that in a single 24 hour span (on a certain day in December 1997), the site received 703 different visitors (individual IP addresses) and 14,589 hits (requests for files)) but despite of this the website was closed by Starfox on December 24, 1997 after getting 1420 entries (published ones). All content of the website was declared as free for use by anyone.
 
-Mara Jade ( http://www.cstone.net/~lbrannon/lauren/smtomuch.htm ) put back online almost all ykywtmsmw jokes compiled by Starfox (with some editing/changing the order of entries) and continued the list, adding the fifth page (the list of Starfox was divided into four pages). Mara Jade’s website was abandoned by her in 1999.
+Mara Jade ( http://www.cstone.net/~lbrannon/lauren/smtomuch.htm ) put back online almost all ykywtmsmw jokes compiled by Starfox (with some editing/changing the order of entries) and continued the list, adding the fifth page (the list of Starfox was divided into four pages). Mara Jade's website was abandoned by her in 1999.
 
-Among other notable ykywtmsmw pages there exist so-called The Annals of Ykywtmsmw, compiled by Tom Ragsdale and Gregory Lam from Cult of Serenity page (website is now abandoned: http://www.geocities.com/TimesSquare/4818/ ). Their work includes 800 ykywtmsmw statements (some of them repeat jokes from Starfox’s list).
+Among other notable ykywtmsmw pages there exist so-called The Annals of Ykywtmsmw, compiled by Tom Ragsdale and Gregory Lam from Cult of Serenity page (website is now abandoned: http://www.geocities.com/TimesSquare/4818/ ). Their work includes 800 ykywtmsmw statements (some of them repeat jokes from Starfox's list).
 
 Smpsycho (website is closed: http://www.geocities.com/Tokyo/Towers/2374/index.html) have written a list of 563 jokes that accent on original version of Bishoujo Senshi Sailor Moon (as opposed to the North-American one).
 
@@ -28,7 +28,7 @@ The reasons for compiling this document were as follows:
 
 2) Having all ykywtmsmw jokes in a single document makes it very easy to print out them all, thus freeing a moonie who will be willing to have a copy of such a book from necessity to collect YKYWTMSMWs on their own.
 
-Ykywtmsmw statements in the compilation were collected from all over the Internet. Since many pages included statements taken from Starfox’s list (and from other web pages also) and many other pages have the same (similar in sense) statements (often inadvertently), only unique (original) jokes are included in this book. Obviously identical statements (e.g.: "During a storm you keep shouting "Jupiter Thunder Crash!" – and - "You can't wait till a thunder storm so you can call out "Jupiter Thunder Crash".") were excluded; the ones that used the same idea but with different hints of meaning (e.g.: "You glue a crescent moon on your forehead" – and - "You tattoo a crescent moon on your forehead") are included into compilation.
+Ykywtmsmw statements in the compilation were collected from all over the Internet. Since many pages included statements taken from Starfox's list (and from other web pages also) and many other pages have the same (similar in sense) statements (often inadvertently), only unique (original) jokes are included in this book. Obviously identical statements (e.g.: "During a storm you keep shouting "Jupiter Thunder Crash!" - and - "You can't wait till a thunder storm so you can call out "Jupiter Thunder Crash".") were excluded; the ones that used the same idea but with different hints of meaning (e.g.: "You glue a crescent moon on your forehead" - and - "You tattoo a crescent moon on your forehead") are included into compilation.
 
 Apart from excluding repetitive statements, ykywtmsmw jokes listed in the compilation appear in the same form as they were published at their original web pages. Some orthographical errors were corrected, but as far as spelling concerns arguable matters (e.g. personal names) the statements were not edited. Url addresses of original pages where ykywtmsmw jokes were taken from appear in the compilation in blue color; the comments, written by the authors for their pages and necessary for understanding the sense of some statements, appear in red color. All copyrights to YKYWTMSMWs belong to their creators. Entries are enumerated all through for convenience of citation (quotation).
 
@@ -79,7 +79,7 @@ What do you think of my story?
 
 ---
 
-The only things which have changed from that post as of DRAFT DRAFT, 2017 is that I have seen the full Viz English dub of S (which introduced me to Sailor Saturn) and I am now 33. I have also seen Nanoha A’s, but was not interested in finishing watching Striker S or anything after.
+The only things which have changed from that post as of DRAFT DRAFT, 2017 is that I have seen the full Viz English dub of S (which introduced me to Sailor Saturn) and I am now 33. I have also seen Nanoha A's, but was not interested in finishing watching Striker S or anything after.
 
 The idea of a Version 6 of the book started when I obtained version 5 from an archive of sailorvgame.org provided by Anton-P (now known as Maraviollantes) to users of sailormoonforum.com. I noticed that the 6,000+ YKYWTMSMWs in the book would make great Linux fortune cookies, and had some help from some other individuals in creating the fortune cookies.
 
@@ -87,10 +87,12 @@ Over the following few months I had discovered and added more YKYWTMSMWs to the 
 
 Being ten years later, it was clearly time for a new book. I proposed the idea of an update to Maraviollantes on sailormoonforum.com, who rejected it on grounds that due to the size of the book and changing times, nobody would care to read a compilation of YKYWTMSMWs anymore. As my goals are to archive material (and create Linux fortune cookies) rather than making a book for everyday reading purposes, I took over the book with his permission.
 
-The distribution policy remains the same as version 5 (see “Introduction to Version 5” section 3 for more information).
+The distribution policy remains the same as version 5 (see "Introduction to Version 5" section 3 for more information).
 
 I am a lot less strict than Maraviollantes on what qualifies as a duplicate entry, and intend to maintain the spelling/grammar errors and incorrect names due to being written by users younger at the time.
 
+The base version of this book is now in ODT (LibreOffice) format, with PDF and TXT versions included. The TXT file differs in spacing and formatting, and is designed for compatibility with non-Unicode text editors and terminals. This means I had to remove "special characters" which, unfortunately, required the removal of the names of some authors. You can find their names in the ODT and PDF versions of the book.
+  
 I plan on releasing future versions of this book if more YKYWTMSMWs are created or discovered, perhaps on an annual (or, if needed, biannual) basis.
 
 Enjoy!
@@ -357,7 +359,7 @@ From http://starfox.simplenet.com/ (Starfox)
 241. You attempt to 'transform', whenever someone picks on you.
 242. You try to put out fires by yelling "Mercury Ice Bubbles Freeze!"
 243. You go to school dressed like a Sailor Scout. But are sent home because you look too: a) silly b) sexy 3) psycho 4) all of the above.
-244. You can quote Serena's entire speech to Molly about how evil Maxfield Stanton is...in one breath. And often do… shamelessly in public places.
+244. You can quote Serena's entire speech to Molly about how evil Maxfield Stanton is...in one breath. And often do... shamelessly in public places.
 245. You throw birthday parties for each Sailor Scout.
 246. You sit in Trig class and write Sailor Moon fanfiction stories instead of learning about the Law of Sines.
 247. Whenever you turn on a light, you shout "Light...bulb...ILLUMINATION!!!"
@@ -1445,7 +1447,7 @@ She is that one weird Sailor goon
 1323. While walking through your school parking lot, a black cat jumps on the roof of a car nearby and stares at you, like Luna did to Serena in episode #1... For the rest of the day you run around happily exclaiming that Luna has finally found you!
 1324. When some snobby girl at school says "You are the only person I know who likes this 'Sailor Moon' thing." you look at her sympathetically and reply "Oh, you poor thing..."
 1325. You think Serena invented the "MoonWalk".
-1326. You are positive that the Negaverse is behind the El Niño.
+1326. You are positive that the Negaverse is behind the El Nino.
 1327. When you heard that there was a new article about the proposed live action Sailor Moon movie in the 'Hollywood Reporter', your hope sprang anew for the future of Sailor Moon in North America.
 1328. You are seriously considering making Geena Davis your new favorite actress.
 1329. You and your friends can't remember what you use to talk about in that dismal void that existed before you discovered Sailor Moon.
@@ -1596,7 +1598,7 @@ From http://www.cstone.net/~lbrannon/lauren/smtomuch.htm (Mara Jade)
 1457. You know the theme song by heart, but when someone asks you to recite the Pledge of Allegiance, you're clueless.
 1458. You and your moonie pals hold Sailor Moon Marathons each week, and have contests over who remembers the most lines.
 1459. You are immensely jealous when you don't win those contests.....
-1460. You rejoiced when you heard Sailor Moon was coming to Cartoon Network June 1st, see SOS for more details.
+1460. You rejoiced when you heard Sailor Moon was coming to Cartoon Network June 1st, see SOS for more details.
 1461. You grab your non-Moonie pals to your weekly Sailor Moon Marathons...and convert them into Moonies!
 1462. You make a comic for the school newspaper with at least three Sailor Moon in-jokes a day.
 1463. You could be mistaken for a Senshi at first glance.
@@ -1771,7 +1773,7 @@ b) for frightening away any cats that come on your property, in hopes of (the ca
 1622. You blame Rini for Serena and Darien breaking up.
 1623. You turn your sisters Cool Blue Barbie into Sailor Mercury, her Extreme Green Skipper into Sailor Neptune, her Perfect Pink Teresa into Rini and all the rest of her Barbie dolls you give the "Meatball head treatment".
 1624. You try to use your umbrella to hypnotize people.
-1625. You watch one of those old-time western movies and whenever you see a belle dressed in yellow, you scream "AAAHHHHHHH!!!! IT'S BIRDIE!!!!!! HEEEELLLLPPPP!!!!!".
+1625. You watch one of those old-time western movies and whenever you see a belle dressed in yellow, you scream "AAAHHHHHHH!!!! IT'S BIRDIE!!!!!! HEEEELLLLPPPP!!!!!".
 1626. You buy red contact lenses and wear them around, even though everyone thinks you're possessed (which Rini is...)
 1627. After bumping into Mara once, you look all around in case of seeing her again.
 1628. You recognize Mara though you've never seen her.... ;)
@@ -1794,7 +1796,7 @@ These are a few of my favorite things...
 1637. You start going out with a guy and accidentally call him Darien.
 1638. On Halloween you and your boyfriend dress up as Serena and Darien or Sailor Moon and Tuxedo Mask or Princess Serena and Prince Darien or all three (by transformation).
 1639. You fantasize about being the "New Generation Sailor Moon" and believe it is true. When you try to transform... YOU DO!!!
-1640. You can think up YKYWTMSMW while you’re in History, Mythology and Chemistry but you can't do it while your at home staring at your computer trying to think up ones.
+1640. You can think up YKYWTMSMW while you're in History, Mythology and Chemistry but you can't do it while your at home staring at your computer trying to think up ones.
 1641. Everything you own has a Sailor Moon related nickname.
 1642. You loose sleep over whether you should dye your hair blue or blond.
 1643. You conduct studies to see what happens to moonies when deprived of Sailor Moon paraphernalia.
@@ -1822,7 +1824,7 @@ These are a few of my favorite things...
 1665. You begin to think after a while, "So what if Alan is an alien.......he's still a hunkmeister!"
 1666. You went into complete shock when Cartoon Network delayed showing the final episodes of Season R.
 1667. While watching the Sound of Music you start singing "Doe, a dear a female dear, Raye, the sailor scout of Mars..."
-1668. While you’re reading your science book you come across a sentence that mentions how the moon hasn't changed drastically in three billion years, and you flip out and start screaming "No!! No! The rise and fall of the Silver Millennium was a MAJOR change, and that was only a thousand years ago!
+1668. While you're reading your science book you come across a sentence that mentions how the moon hasn't changed drastically in three billion years, and you flip out and start screaming "No!! No! The rise and fall of the Silver Millennium was a MAJOR change, and that was only a thousand years ago!
 1669. You start reading a chapter in one of your textbooks for homework but suddenly your thoughts turn to Sailor Moon, and when you snap out of the day dream and glance up at the clock you find it has been four hours since you first opened your book and you haven't read more than three words.
 1670. You never can finish your homework because whenever you get started a brilliant YKYWTMSMW comes to you out of the blue.
 1671. Any word starting with the letters SM remind you of Sailor Moon. Actually, now that you think about it, All words remind you of Sailor Moon.
@@ -1846,7 +1848,7 @@ We wish to welcome to Moonie Land...
 1680. Mara get a flu, you think Emerald put a spell on her.
 1681. You've finally figured it out... No. Not how to put your hair up like Serena's... How to put it up like Chibi-chibi. Someone do this and I will post your picture here!!! :)
 1682. Your moonie friend is the only person who will talk to you anymore.
-1683. You wonder if there can POSSIBLY be anymore ykywtmsmw's out there. You decide to consult your Luna Ball.
+1683. You wonder if there can POSSIBLY be anymore ykywtmsmw's out there. You decide to consult your Luna Ball.
 1684. You call up psychic networks and ask if you're a Sailor Scout.
 1685. When they say no, you write the whole thing off as bogus and call another hotline.
 1686. Using posterboard and paper mache, you create a Gate of Time on your bedroom door. Now if only you had the slightest idea how to make a Time Staff....
@@ -1873,13 +1875,13 @@ We wish to welcome to Moonie Land...
 1707. You are taking bets on when Mara begins the sixth page.
 1708. You *know* you're a sailor senshi. . . it's just you don't know your transformation phrase.
 1709. You and your fiancee plan to dress as Princess Serenity and Prince Endimion for your wedding.
-1710. You cut your Barbie’s hair to make her Lita and you don't care if you mess up cuz you can always make her Ami!
+1710. You cut your Barbie's hair to make her Lita and you don't care if you mess up cuz you can always make her Ami!
 1711. When the antenna on someone's car goes up, you put your head in front of the antenna and shout "JUPITER THUNDER CRASH!"
 1712. When you get a bad grade on your test, you go up to the teacher with your carved pencil/pen-wand and shout "IN THE NAME OF THE MOON, I WILL PUNISH YOU!!!"
 1713. You are asked what do you want for x-mas and you produce a list of Sailor Moon items and include the stores names and web address where they can be found.
 1714. You get angry when people try to tell you that Sailor Moon is "only a cartoon character!"
 1715. You can't find Lita's exact earrings, so you have several sets of 'compromise' earrings- one for each day of the week!
-1716. You know how to say "Crescent Moon" in 13 different languages, including three you made up.
+1716. You know how to say "Crescent Moon" in 13 different languages, including three you made up.
 1717. You think Serena knows by experience how many licks it takes to get to the center of a tootsie roll pop.
 1718. You always fail your astronomy tests because you can never remember the ninth planet. There's Mercury, Mars, Jupiter, Venus, Pluto, Neptune, Uranus, and Saturn. And the moon, of course, but that's not a planet. Darnit, that's only eight!
 1719. Your friends don't play chess with you anymore because you only let them use pawns and you get to use the full set.
@@ -1888,7 +1890,7 @@ We wish to welcome to Moonie Land...
 1722. You are determined to get your hair up like Chibichibi's, so you dye it magenta/red, stick wires in your hair, and use tons of tape, glue, and string to get it up. When you do...it's time for bed...so you have to take it down, or it'll get ruined...
 1723. You wonder is Pikachu (from Pokemon) is Sailor Jupiters pet...
 1724. You order bunny address labels with the name "Usagi Tsukino" on them instead of your name.
-1725. You think "Usagi Tsukino" IS your name!
+1725. You think "Usagi Tsukino" IS your name!
 1726. You teach your little cousin to call you 'Serena'.
 1727. You look at the moon through a telescope hoping to see Crystal Tokyo!
 1728. You call your Cousin Meatball Head all the time, and then one day you see her with the Meatballs and you then say "Donut Head".
@@ -1897,17 +1899,17 @@ We wish to welcome to Moonie Land...
 1731. Your eight year old sister demands that your mother put you on TV restriction so SHE can watch something other than Sailor Moon.
 1732. After that, you call her 'A little Rini fungus'.
 1733. You call your favorite radio station several times a day requesting that they play the Sailor Moon theme song and get REALLY mad when they don't.
-1734. The crowning achievements of your 1 year, three month tour in Japan aren't all the awards you’ve received, but your complete collection of Sailor V/Sailor Moon Manga.
+1734. The crowning achievements of your 1 year, three month tour in Japan aren't all the awards you've received, but your complete collection of Sailor V/Sailor Moon Manga.
 1735. After joining the Marines, you arrange to be stationed in Japan, so you can collect Sailor Moon stuff.
 1736. The worst part of boot camp wasn't the isolation, wasn't the hard work, wasn't the drill instructors, but NO SAILOR MOON!!!!
 1737. Mara refers you to a psychiatrist for your sailor moon addiction.
 1738. You can plausibly tie Sailor moon into any storyline.
-1739. You’re the only person who actually WANTED Thanksgiving vacation to end because the last episodes premiere Monday the 30th.
+1739. You're the only person who actually WANTED Thanksgiving vacation to end because the last episodes premiere Monday the 30th.
 1740. You find yourself talking in Japanese often because of all the subtitled episodes you watched.
 1741. You're in drama class at school and whenever you have to do a crying scene, you think "a crystal clear destiny."
 1742. Naoko Takeuchi personally calls you up and tells you you have been watching too much sailor moon.
 1743. While playing PokEmon, you name all your PokEmon after Sailor Moon Characters. (Hmmm, Let's see..... Vulpix would be Sailor Mars, Lapras would be Sailor Mercury, ButterFree - Sailor Venus, Clefairy - Sailor Moon, hmmmm any more. OH Yea Pikachu would be Sailor Jupiter, Of Course)
-1744. You nearly go crazy because your College Doesn’t have the Cartoon network on their cable subscription. (Be Thankful for VCR's at home and that you brought your Sailor Moon Tapes.)
+1744. You nearly go crazy because your College Doesn't have the Cartoon network on their cable subscription. (Be Thankful for VCR's at home and that you brought your Sailor Moon Tapes.)
 1745. The night before the new episodes you can't sleep.
 1746. You got a 15 on you last algebra quiz and cheer because you've finally beaten Serena's score of 30.
 1747. You've done the above, but you actually studied.
@@ -1934,16 +1936,16 @@ We wish to welcome to Moonie Land...
 1768. You carry the Silver Crystal with you wherever you go...just in case.
 1769. You think your cats gets mad at you for 'playing' with your crescent moon wand.
 1770. You rode your bike all the way to the mall in the pouring rain to buy the Luna and Artemis plush dolls.
-1771. You pit Pokémon against Sailor Senshi and try to figure out which one would win.
+1771. You pit Pokemon against Sailor Senshi and try to figure out which one would win.
 1772. When you see a rose hit the ground in "Pokemon", you expect it to be Tuxedo Mask.
 1773. Your mother has developed a twitch whenever you sing the Sailor Moon theme song (which is once every 5 minutes).
-1774. You actually ENJOY Tuxedo Masks corny speeches.
+1774. You actually ENJOY Tuxedo Masks corny speeches.
 1775. Your mother talks about getting rid of Cartoon Network, so you hyperventilate and fall to the floor (and you're not faking it).
 1776. You spend hours trying to imitate Emerald's laugh, but you stop when you realize that Mara will never post anymore of your YKYWTMSMWs if you continue this!!!!
-1777. You’re scheduled to get your driver's license at 3:45 pm, but skip it so you won't miss a second of Sailor Moon.
+1777. You're scheduled to get your driver's license at 3:45 pm, but skip it so you won't miss a second of Sailor Moon.
 1778. You have debates with your moonie friends over the philosophies of the time shift, or the time/space continuum.
-1779. When your mom told you it was a day of history (referring to the impeachment of President Clinton!!! :) ), you think DiC's finally decided to dub the remaining episodes, and when your grandchildren ask you about the impeachment of Clinton, you stare blankly at them and ask "Oh, he was impeached?"
-1780. YOU DID IT!!! After what seemed like forever in studying genotype and phenotype, you actually have a LOGICAL explanation on how a blonde haired woman and a black haired man can have a pink haired child!
+1779. When your mom told you it was a day of history (referring to the impeachment of President Clinton!!! :) ), you think DiC's finally decided to dub the remaining episodes, and when your grandchildren ask you about the impeachment of Clinton, you stare blankly at them and ask "Oh, he was impeached?"
+1780. YOU DID IT!!! After what seemed like forever in studying genotype and phenotype, you actually have a LOGICAL explanation on how a blonde haired woman and a black haired man can have a pink haired child!
 1781. You have converted you teachers into moonies, and now they excuse you from not doing your homework because you were working on your fanfic.
 1782. You cried yourself to sleep when your dad taped over a whole WEEK of Sailor Moon.
 1783. You create alternate lyrics to Rudolph: "You know Mercury, Mars, Jupiter, Venus, Neptune and Pluto, Saturn and Uranus. But do your recall the most famous solider of all? Sailor Moon the clutzoid leader, had meatballs for her hair....."
@@ -2370,7 +2372,7 @@ From http://www.geocities.com/Tokyo/Towers/2374/index.html (SMPSYCHO)
 2201. You try to film your OWN Sailormoon Supers commericial thingie by hurling chicken feathers into the air, dressing you and your big sis up in a sailor fuku and hire a band to sing "Seeeeraaaa muuuuuuuun."
 2202. You actually attempt to EAT those Sailor Stars Fish Sausage Links but then slap yourself and force yourself to eat them even though you're deathly allergic to Fish Sausage.
 2203. You start to wonder if you're parents/teachers/any adult you know could be a reject from the Dead Moon Circus (ex: Teacher: "David! I *told* you to stop writing notes! I'm giving you to the count of 3! 1..2..3.!")
-2204. You try to convince your 5 friends to pose as the Witches 5 but then you realize it won't work because "Mimete" doesn’t have a charm buster.
+2204. You try to convince your 5 friends to pose as the Witches 5 but then you realize it won't work because "Mimete" doesn't have a charm buster.
 2205. You have long debates over which male BSSM character is cuter.
 2206. You start reading all your books backwards and then you wake up [manga].
 2207. You start debating to yourself whether the manga is right or the anime is, and lose sleep over it.
@@ -2542,7 +2544,7 @@ From http://www.geocities.com/TimesSquare/4818/
 2369. You spend all your time online trying to figure out what kind of earrings Sailor Venus has.
 2370. You begin to dread weekends cuz they only show SM on weekdays.
 2371. You sing the Sailor Moon theme song while washing and drying your hair.
-2372. You're a police officer, and when you see someone doing something wrong, you start giving them a 60 second speech, and by the time you’re done, they're already gone.
+2372. You're a police officer, and when you see someone doing something wrong, you start giving them a 60 second speech, and by the time you're done, they're already gone.
 2373. Whenever you see your friends they start running away 'cause they KNOW you're going to talk about Sailor Moon.
 2374. When you start thinking about anything and it always turns to Sailor Moon.
 2375. When you start following people named after someone in Sailor Moon and they see you and think that you're a stalker and call the police and they have you arrested and no I have never done this before and yes I can sure write long run-on sentences.
@@ -3420,7 +3422,7 @@ From http://www.angelfire.com/anime3/silvercrystalpalace/moonsleisurelounge.html
 3211. You've memorized the transformation scenes yourself and love to act them out to your favorite music*
 3212. You spend all your money on a gold brooch and demand it have a crescent moon shape engraved on it
 3213. You accidentally call your kitten "Diana"
-3214. You’re determined to name your two new black girl cat and white boy cat Artimus and Luna
+3214. You're determined to name your two new black girl cat and white boy cat Artimus and Luna
 3215. Your Siberian Husky is named Hotaru
 3216. You dye your six-year-old daughter's long hair pink and tie it up right so she'll look like Chibi-Usa
 3217. You even have a Sailor Moon binkie
@@ -3513,40 +3515,40 @@ From http://www.angelfire.com/anime3/silvercrystalpalace/moonsleisurelounge.html
 3304. You tell your boyfriend to where a white turban and protect you
 3305. You spend all of your free time trying to get roses to stick in the ground when you throw them
 3306. Your parents ground you for spending so much money on roses trying to accomplish the above.
-3307. You’ve memorized your parents' credit card pin number because of all the Sailormoon merchandise you've ordered off the internet.
+3307. You've memorized your parents' credit card pin number because of all the Sailormoon merchandise you've ordered off the internet.
 3308. You TRY to get a score lower than 30 so you can beat Usagi
 3309. You use the Sailormoon theme song to drive your little brother out of your sight. *
 3310. Your little brother is now obsessed with Sailormoon because you sang the theme song so much.
 
 From http://www.sailorscout.netfirms.com/welcome_to_the_greatest_sailor_s.htm
 
-3311. You try to convince your parents to change your little brother’s name to Sammy.
+3311. You try to convince your parents to change your little brother's name to Sammy.
 3312. You buy a Black cat and name it Luna and try to make it mate with your friends white cat Artemis
-3313. Your dad has to wear fake glasses when you’re around.
-3314. You attempt to dye your mom’s hair blue.
+3313. Your dad has to wear fake glasses when you're around.
+3314. You attempt to dye your mom's hair blue.
 3315. When your mom refuses to dye her hair blue, you make her wear a long blue wig all the time. Even in the summer.
 3316. You ask your French or Spanish teacher if he could teach Japanese instead.
 3317. You know the Sailor Moon TV schedule better than your school schedule.
 3318. You attempt to lower your grades and be late to school every day so you can be like Serena.
-3319. When that doesn’t work. You try to get 100% on everything and be 15 min early every day so you could be like Ami.
+3319. When that doesn't work. You try to get 100% on everything and be 15 min early every day so you could be like Ami.
 3320. You ask your parents about eye-enlarging surgery.
-3321. When they get scared and run away, you cut out anime eyes and stick them to your face. (Don’t forget to poke holes!)
+3321. When they get scared and run away, you cut out anime eyes and stick them to your face. (Don't forget to poke holes!)
 3322. You pick a tall guy with black hair and blue eyes and ask him to be your boyfriend.
 3323. You make your boyfriend change his name to Darien and wear an ugly green sports coat all the time.
-3324. You’re the only person in the school who actually wants uniforms, Sailor Moon style of course.
+3324. You're the only person in the school who actually wants uniforms, Sailor Moon style of course.
 3325. You get exactly 11 friends to make up the Sailor Scouts
-3326. You won the student council election by scaring people with, “If you don’t vote for me, I’ll punish you!”
+3326. You won the student council election by scaring people with, "If you don't vote for me, I'll punish you!"
 3327. You consider Sailor Moon to be a religion.
 3328. Watching a Sailor Moon episode is like going to church for you.
 3329. You paint your nails your favorite scouts color and then do their transformation
 3330. You convince your smartest friend to cut her long hair and dye it blue. You also make her stare at the computer for a long time so she has to wear glasses.
 3331. You make your friend with the longest black hair to buy a temple, move in it with her grandfather, and go to a private school.
-3332. You make your friend with nice brown hair to wear it up all the time. She’s very shy but you “trained” her to be sort of a bully. You also made her go to cooking and sewing lessons.
-3333. You don’t have any more female friends so you make one of your male friends wear a blonde wig all the time, dress in female clothes, and take up volleyball.
+3332. You make your friend with nice brown hair to wear it up all the time. She's very shy but you "trained" her to be sort of a bully. You also made her go to cooking and sewing lessons.
+3333. You don't have any more female friends so you make one of your male friends wear a blonde wig all the time, dress in female clothes, and take up volleyball.
 3334. Your friends have been infected by your love for Sailor Moon so they do all this without *much* complaint.
-3335. Whenever someone feels tired, you announce to everyone that “The Negaverse drained their energy! Moon Prism Power!”
-3336. You burnt all of your cards because you just “knew” there were demons in them.
-3337. You tell your teacher at the beginning of each school year that, “My name really is Serena. I won’t answer to any other name.”
+3335. Whenever someone feels tired, you announce to everyone that "The Negaverse drained their energy! Moon Prism Power!"
+3336. You burnt all of your cards because you just "knew" there were demons in them.
+3337. You tell your teacher at the beginning of each school year that, "My name really is Serena. I won't answer to any other name."
 3338. School bullies have been locked up in lockers by you for calling Sailor Moon "stupid".
 3339. The only time you don't wear a Sailor fuku is Halloween!
 3340. Because of you, all your friends are Sailor Moon experts.
@@ -3559,34 +3561,34 @@ From http://www.sailorscout.netfirms.com/welcome_to_the_greatest_sailor_s.htm
 3347. The people in Japan still remember you.
 3348. You make more money off your Sailor Moon website than your part-time job.
 3349. You have to fake-cry all the time to be like Serena.
-3350. You download Sailor Moon songs off Internet and get a CD burner just so you can burn them on. You’re aiming to have 1000 Sailor Moon songs.
+3350. You download Sailor Moon songs off Internet and get a CD burner just so you can burn them on. You're aiming to have 1000 Sailor Moon songs.
 3351. You have almost 100 of them.
-3352. You’re thinking of making up your own Sailor Moon songs because there doesn’t seem to be enough.
+3352. You're thinking of making up your own Sailor Moon songs because there doesn't seem to be enough.
 3353. Whenever you have to do a biography assignment, you always choose a Sailor Moon character.
 3354. When your teacher gets annoyed and says no more fictional characters, you do biographies on Naoko Takeuchi.
-3355. You work out every day so you could have a body like Sailor Moon. (And it’s really hard because you eat like Serena too!)
+3355. You work out every day so you could have a body like Sailor Moon. (And it's really hard because you eat like Serena too!)
 3356. When your cousins move into town you make one of them wear a green wig and one of them to cut her hair and dye it blonde.
 3357. Then you try to convince the blonde one that she really has the heart of a guy and really loves the cousin with the green wig.
 3358. You forget what ASAP, LOL, BTW, G2G, and TTYL stands for but you know exactly what YKYWTMSMW stands for.
-3359. You wear a Sailor fuku to school every day even though they’re already banned from your school because of you.
+3359. You wear a Sailor fuku to school every day even though they're already banned from your school because of you.
 3360. You kidnap a little girl, throw her off a plane, dye her hair pink, and give her growth stunting pills. You call her Rini and make your family adopt her. You hate her afterwards of course.
-3361. You tell your boyfriend that she’s “our future daughter” and “don’t you dare like her better than me!”
-3362. You buy a porcelain horse for "Rini" and make her talk to it every night. You make her name it Pegasus and tell her “but his real name is Helios and you’re in love with him.”
-3363. Every time the local circus comes, you go to make sure “they don’t hurt innocent people.”
-3364. Because of you, the circus doesn’t come anymore and you say, “They’re moondust!”
-3365. Every time you hear someone say they don’t like Sailor Moon, you suspect they’re the “new enemy.”
+3361. You tell your boyfriend that she's "our future daughter" and "don't you dare like her better than me!"
+3362. You buy a porcelain horse for "Rini" and make her talk to it every night. You make her name it Pegasus and tell her "but his real name is Helios and you're in love with him."
+3363. Every time the local circus comes, you go to make sure "they don't hurt innocent people."
+3364. Because of you, the circus doesn't come anymore and you say, "They're moondust!"
+3365. Every time you hear someone say they don't like Sailor Moon, you suspect they're the "new enemy."
 3366. You go the local arcade, make all of the employees leave except the one who's willing to dye his hair blonde, date your friend Rita and change his name to Andrew.
 3367. Your friend Rita had to take up horse-riding, move to Africa and become an archaeologist, and date the arcade guy.
 3368. You make your friend Rini befriend an eerie girl.
-3369. The eerie girl’s name is Sarah but you change it to Hotaru.
+3369. The eerie girl's name is Sarah but you change it to Hotaru.
 3370. You make her take showers with the window open so she catches pneumonia and hypothermia so now she has very poor health.
-3371. Her father is a scientist but you tell everyone he’s a “mad” scientist.
-3372. Her father’s name is Mr. Marvin but you make him change it to Dr. Tomoe.
+3371. Her father is a scientist but you tell everyone he's a "mad" scientist.
+3372. Her father's name is Mr. Marvin but you make him change it to Dr. Tomoe.
 3373. You make Hotaru and Dr. Tomoe move out of their apartment and into a mansion that you bought with the money you made off your Sailor Moon website.
 3374. You dream about Sailor Moon, type out your dream on the computer, and try to pass it off as fanfiction.
 3375. People actually like it.
 3376. You got an art scholarship because of your Sailor Moon drawings.
-3377. Your ICQ, MSN, Yahoo! Messenging, QQ, email, Neopets name, and codename is “I_am_the_real_Sailor_Moon.”
+3377. Your ICQ, MSN, Yahoo! Messenging, QQ, email, Neopets name, and codename is "I_am_the_real_Sailor_Moon."
 3378. You have a separate computer just to keep Sailor Moon stuff.
 3379. For some reason, you never seem to grow old. You look the same as the time you were 14.
 3380. You can write detailed episode summaries for Sailor Moon without having to watch the episode again.
@@ -3699,31 +3701,31 @@ From http://tot.rei-li.com/ (Temple of Treats)
 3484. Submitted by Sabrina Pariis - You give your other Sailor Moon obsessed fans sticks, brooches, and sailor outfits and tell them that they are protectors of the moon and have to save earth from going into darkness.
 3485. Submitted by Kerureyu - When you make your own Ofuda scrolls and take them with you wherever you go just in case there is an evil spirit.
 3486. Submitted by OfudaMaster - When you learn how to throw a fireball like sailor mars and uses it to win dodge ball in gym class.
-3487. Submitted by Resident Usagi Kou – When even though your hair is friggen short and black, and your desperately poor, you make hair extensions out of yarn JUST for the sole purpose of moderately realistic Odangos (and so that it doesn't take sixty years to grow out your hair).
-3488. Submitted by Resident Usagi Kou – When you submit to YKYWTMSMW, and you laugh because you know it.
-3489. Submitted by Resident Usagi Kou – You go the Cartoon Networks [Adult Swim] Message boards, and to any of the swimmods, suggest they bring back Sailor Moon the first season.
-3490. Submitted by Resident Usagi Kou – Cry hopelessly when the swimmod you pleaded with denies your request ruthlessly.
-3491. Submitted by Resident Usagi Kou – When you speak only random bits of Sailor Moon dialogue from the Japanese series.
-3492. Submitted by Resident Usagi Kou – When you downloaded episodes of Sailor Moon from any season in Japanese.
-3493. Submitted by Resident Usagi Kou – You consider going to a Con (like Otakon, or Sakuracon) near you dressed as any form of the Serenity Royalty.
-3494. Submitted by Resident Usagi Kou – When you're so desperate to get the perfect Serenity Royalty gown for said con that you offer a commissioned dressmaker $1000.00 to do so.
-3495. Submitted by Resident Usagi Kou – When the dressmaker e-mails you back telling you you're only fourteen, and therefore your crazy. (You know what, I love NQS manga form dress, and I SHALL HAVE IT!!! =3)
-3496. Submitted by Resident Usagi Kou – When your computer clock reads 2:19 AM and you're writing these out, wondering what became of your once non-Sailor Moon related life.
-3497. Submitted by Resident Usagi Kou – You're on Google, and you search for NQS pictures, and you think to yourself 'I may already have that one =\\.
-3498. Submitted by Resident Usagi Kou – When you attempt to dye your unnatural black hair the perfect SM color that you've been hunting for a year straight and finally found, but it turns Orange (You know what. . .I'll just wait till my natural blonde comes back in or something =3).
-3499. Submitted by Resident Usagi Kou – When you type/say everything I've said or done. ((Webmistress comment: Doing that now aren't I? ^_^))
-3500. Submitted by Resident Usagi Kou – When you call yourself Usagi Kou/ Usagi Tiara.
-3501. Submitted by Resident Usagi Kou – When you legally change your name to Usagi Kou/ Usagi Tiara.
-3502. Submitted by Resident Usagi Kou – You think Seiya is hot.
-3503. Submitted by Resident Usagi Kou – When you wish to all the heavenly bodies you were as beautiful as NQS, Princess Serenity, Queen Serenity, or any of the other Royalty characters.
-3504. Submitted by Resident Usagi Kou – When you try to make your legs over three quarters of your total body percentage, and your breasts the last quarter.
-3505. Submitted by Resident Usagi Kou – When you know what I'm talking about in the above statement.
-3506. Submitted by Resident Usagi Kou – When you make your own Doujinshi and then scan it to your site.
+3487. Submitted by Resident Usagi Kou - When even though your hair is friggen short and black, and your desperately poor, you make hair extensions out of yarn JUST for the sole purpose of moderately realistic Odangos (and so that it doesn't take sixty years to grow out your hair).
+3488. Submitted by Resident Usagi Kou - When you submit to YKYWTMSMW, and you laugh because you know it.
+3489. Submitted by Resident Usagi Kou - You go the Cartoon Networks [Adult Swim] Message boards, and to any of the swimmods, suggest they bring back Sailor Moon the first season.
+3490. Submitted by Resident Usagi Kou - Cry hopelessly when the swimmod you pleaded with denies your request ruthlessly.
+3491. Submitted by Resident Usagi Kou - When you speak only random bits of Sailor Moon dialogue from the Japanese series.
+3492. Submitted by Resident Usagi Kou - When you downloaded episodes of Sailor Moon from any season in Japanese.
+3493. Submitted by Resident Usagi Kou - You consider going to a Con (like Otakon, or Sakuracon) near you dressed as any form of the Serenity Royalty.
+3494. Submitted by Resident Usagi Kou - When you're so desperate to get the perfect Serenity Royalty gown for said con that you offer a commissioned dressmaker $1000.00 to do so.
+3495. Submitted by Resident Usagi Kou - When the dressmaker e-mails you back telling you you're only fourteen, and therefore your crazy. (You know what, I love NQS manga form dress, and I SHALL HAVE IT!!! =3)
+3496. Submitted by Resident Usagi Kou - When your computer clock reads 2:19 AM and you're writing these out, wondering what became of your once non-Sailor Moon related life.
+3497. Submitted by Resident Usagi Kou - You're on Google, and you search for NQS pictures, and you think to yourself 'I may already have that one =\\.
+3498. Submitted by Resident Usagi Kou - When you attempt to dye your unnatural black hair the perfect SM color that you've been hunting for a year straight and finally found, but it turns Orange (You know what. . .I'll just wait till my natural blonde comes back in or something =3).
+3499. Submitted by Resident Usagi Kou - When you type/say everything I've said or done. ((Webmistress comment: Doing that now aren't I? ^_^))
+3500. Submitted by Resident Usagi Kou - When you call yourself Usagi Kou/ Usagi Tiara.
+3501. Submitted by Resident Usagi Kou - When you legally change your name to Usagi Kou/ Usagi Tiara.
+3502. Submitted by Resident Usagi Kou - You think Seiya is hot.
+3503. Submitted by Resident Usagi Kou - When you wish to all the heavenly bodies you were as beautiful as NQS, Princess Serenity, Queen Serenity, or any of the other Royalty characters.
+3504. Submitted by Resident Usagi Kou - When you try to make your legs over three quarters of your total body percentage, and your breasts the last quarter.
+3505. Submitted by Resident Usagi Kou - When you know what I'm talking about in the above statement.
+3506. Submitted by Resident Usagi Kou - When you make your own Doujinshi and then scan it to your site.
 3507. Submitted by Kittylass - You accidentally call your boyfriend Darien, which just happens to be your ex-boyfriends name, so he dumps you, but you're too busy watching SM to catch the actual reason why, so you pretend it's because he senses something bad will happen to you if you keep going out.
 
 From http://www.foreversenshi.50megs.com/index2.html
 
-*The ones with two stars are the ones the author hasn’t done!*
+*The ones with two stars are the ones the author hasn't done!*
 
 3508. *You're reading this list ~.O
 3509. *Ideas are already coming into your head as to what to put on this list
@@ -3861,7 +3863,7 @@ From http://www.angelfire.com/sd/sailormoon11/YKYWSMTMW.html
 3635. You love Japan so much your sister goes to Disney world and buys you a Japanese flag!!!( I wuv my sissy)
 3636. You know your translated name! (Mine is Kasushi)
 3637. You have a Japanese translation sheet and use it often! (konichiwa minna!)
-3638. You have a Sailor Moon costume in your dresser drawer. (I don't think I’m Sailor Moon I know it!)
+3638. You have a Sailor Moon costume in your dresser drawer. (I don't think I'm Sailor Moon I know it!)
 3639. You wear it at your nephews b-day party and he thought you WHERE Sailor Moon.(Well duh because I am!)
 3640. Your room is so stuffed with Sailor Moon stuff if someone comes into your room you are forced to explain. (Every detail!)
 3641. You have turned numerous friends into moonies!!!(well lets count 56,57,58...)
@@ -3906,18 +3908,18 @@ From http://www.expage.com/ladysaturnrealmoffanfiction (Lady Saturn)
 3675. Your answering machine says, "Sailor Moon says, leave a message after the beep!"
 3676. You pretend that your sick just so you can stay home from school and watch Sailor Moon.
 3677. When you shut down your computer it says, "Sailor Moon Says... See Yah!"
-3678. When you’re taking a test and you don’t know the answer to one of the questions, you put one of the Sailor Scouts name in the space.
+3678. When you're taking a test and you don't know the answer to one of the questions, you put one of the Sailor Scouts name in the space.
 3679. You notice that TM and SM (the initials of Tuxedo Mask and Sailor Moon) are side by side in the initials "YKYWTMSMW".
 3680. You only wear the color that your favorite scout wears.
 3681. Whenever your friends see you coming, they run because they know all you'll talk about is Sailor Moon.
 3682. Your email address is based on Sailor Scout names.
 3683. You realize you just CAN'T watch too much Sailor Moon!!
 3684. Your locker is covered completely in Sailor Moon stickers and pictures.
-3685. You have thousands of pics on your hard drive and it’s driving your family crazy!
+3685. You have thousands of pics on your hard drive and it's driving your family crazy!
 3686. You have a crush on one of the characters.
-3687. You daydream that you’re a Sailor Scout fighting evil or that you’ve meet the Sailor Scouts.
-3688. You and your friends are late to school and your struck with an idea! You grab your friends’ hands and shout. “Sailor teleport!” After your friends stop starring at you, you decide maybe it’s best to run.
-3689. When you’re embarrassed, a teardrop appears on the back of your head.
+3687. You daydream that you're a Sailor Scout fighting evil or that you've meet the Sailor Scouts.
+3688. You and your friends are late to school and your struck with an idea! You grab your friends' hands and shout. "Sailor teleport!" After your friends stop starring at you, you decide maybe it's best to run.
+3689. When you're embarrassed, a teardrop appears on the back of your head.
 3690. Every time you raise your hand in class, you have the uncontrollable urge to shout "Moon Prism Power!"
 3691. When your brother/sister keeps saying mom or dad (your name) keeps going into Sailor Moon sites.
 3692. When you see a cute guy/girl huge hearts pop out of you eyes.
@@ -4223,11 +4225,11 @@ Part by Youma Doom
 3984. You even see Sailor Moon in your food. So you stop eating. You won't eat your heroin!
 3985. Everyone stops listening when you begin a sentence with the syllab 'Sail..', even if you were saying, say, 'salespersons are thieves'.[That new pun sucks but the old one would not have made sense in English]
 3986. You get confused when you write your name, sometimes. But the teachers are used to it, they know the signature in kanji is yours...
-3987. You draw Nephrite’s symbol everywhere to get people's energy, by example, that of the corrector of your exam, but for what he's doing with his energy, he's better without than with it...
+3987. You draw Nephrite's symbol everywhere to get people's energy, by example, that of the corrector of your exam, but for what he's doing with his energy, he's better without than with it...
 3988. You think you are more than one character of the series at the time and you end up fighting against yourself. (not to do in public, speaking with experience...)
 3989. You write a bible of Sailor Moon.
 3990. You enroll in the navy so you can say you are a Sailor soldier.
-3991. You swear allegiance to Serenity. [Here I had written the declaration of allegiance, but I don't know the English version: ‘Je, (inserez votre nom ici), declare solenellement, d'etre fidele et de porter sinsere allegeance, a sa mageste la nouvelle reine Serenite, reine de la Terre, a ses descendants et a ses successeurs, en conformite avec la loi.’]
+3991. You swear allegiance to Serenity. [Here I had written the declaration of allegiance, but I don't know the English version: 'Je, (inserez votre nom ici), declare solenellement, d'etre fidele et de porter sinsere allegeance, a sa mageste la nouvelle reine Serenite, reine de la Terre, a ses descendants et a ses successeurs, en conformite avec la loi.']
 
 Here is the translation from French of the pledge [above]: "I (write your name here) solemnly declare to be faithful and bear a sincere allegiance to her Majesty the Neo Queen Serenity, a ruler of the Earth, to her descendants and to her successors, in accordance with the Law". (translation provided by Anton-P/Maraviollantes)
 3992. You will only marry a moonie.
@@ -4437,7 +4439,7 @@ From http://www.galaxycauldron.com/active/yky/
 4172. You bring your cat to your friend Rei, saying that it will give her a transformation pen. (LoonieMoonieMinakoGirl)
 4173. When your boyfriend decides to break up with you and you tell him that it's very sweet of him trying to protect you, but you think he should stop listening to those dreams his future self sends him. (Anigym)
 4174. You play the Sailor Starlight henshin songs over and over... (Jason)
-4175. …and you try to henshin with them. (Jason)
+4175. ...and you try to henshin with them. (Jason)
 4176. To top it off you make a little yellow star with a mike and tie it around your head whilst doing it... (Jason)
 4177. You love Yaten so much, you know that she cant carry anything heavier than chopsticks. (Jason)
 4178. You love Pretty Guardian Sailor Moon because of the hot girls!  (Jason)
@@ -4451,10 +4453,10 @@ From http://www.galaxycauldron.com/active/yky/
 4186. You alter all the epidsode storylines so that Sailor Moon and Tuxedo Mask are always together. Voice in his head? As if he'd listen to that! (Vauny-Chan)
 4187. You think that your boyfriend/girlfriend is Sailor Moon/Tuxedo Mask. (sailor_rainbow)
 4188. You love Mamoru to pieces. (sailor_rainbow)
-4189. Your dream is to meet Naoko Takeuchi. (Fabнola)
-4190. When you meet her you try to give her some ideas for new storylines. (Fabнola)
-4191. If you go to Japan, you would only visit stores that sell Sailor Moon stuff. (Fabнola)
-4192. You buy all the Sailor Moon stuff you can find there, even if it means using up the money for your plane ticket home. (Fabнola)
+4189. Your dream is to meet Naoko Takeuchi.
+4190. When you meet her you try to give her some ideas for new storylines.
+4191. If you go to Japan, you would only visit stores that sell Sailor Moon stuff.
+4192. You buy all the Sailor Moon stuff you can find there, even if it means using up the money for your plane ticket home.
 4193. When your math teacher gives you a bad grade, you stand up and shout "MOON HEALING ESCALATION!"
 4194. You are then sent to the office and have to face the principal, but 10 minutes later he bacomes a Sailor Moon fan too.
 4195. You have seen all the episodes of the anime, read all the manga and seen all the movies; now you are watching the live-action series and can't help but hope for more.
@@ -4688,7 +4690,7 @@ From http://ae-creations.com/wishingmoon (Wishing Moon)
 4375. Ji - When you eat meatballs or odango, you immediately pick them up and try to fasten them on your head in any which way possible.
 4376. Sailor Bubble - You call your enemies names of villains on Sailor moon.
 4377. Sailor Moonies - You buy Sailor Moon cereal, soup, candy, cookies and don't forget the Sailor Moon gum. They really sell them!
-4378. Usagi-chan - You say sweet, romantic crap to your mirror pretending you`re Usagi sitting with Mamoru, or you spend every single free minute trying to think about stuff that makes you similar to any of the senshi and when you can’t find one, you make it up, or when your brother catches you jumping all over your room, pretending to be Sailor *someplanet* in the new episode you make up, or when you draw a heart and write "Usagi & Mamoru", or, even worse, "Mamoru and *your name*".
+4378. Usagi-chan - You say sweet, romantic crap to your mirror pretending you`re Usagi sitting with Mamoru, or you spend every single free minute trying to think about stuff that makes you similar to any of the senshi and when you can't find one, you make it up, or when your brother catches you jumping all over your room, pretending to be Sailor *someplanet* in the new episode you make up, or when you draw a heart and write "Usagi & Mamoru", or, even worse, "Mamoru and *your name*".
 4379. Sailor Star Dreamer - When you have a Sailor Moon e-mail address, when you have 3+ folders devoted to Sailor Moon, when you tell your friends to call you by (insert Bishoju Senshi Sailor Moon charter name), or when you quote/talk like a BSSM character 7+ times during one period!
 4380. Guardian - Have Sailor Moon's Wand and say every word she says in a video from beginning to end.
 4381. Brianna - When you grow up, you are going to the moon to re-build the moon kingdom.
@@ -5145,14 +5147,14 @@ From http://www.angelfire.com/anime3/EternalSerenity/htmls/ykywtmsmw.html (Etern
 From http://www.angelfire.com/anime/smsilverpalace/YKYWTMSMW.html
 (Serena's Rabbit Hole)
 
-4794. You’d die for Sailor Moon decorated socks.
+4794. You'd die for Sailor Moon decorated socks.
 4795. You get excited when you find out there's a girl named Serena in your class.
 4796. You stick a lollypop up in the air and yell "Lollypop Power!!"
 4797. You plan to start a religion to worship Naoko Takeuchi and/or Sailor Moon.
 4798. You bake Sailor Moon cookies and play with them.
 4799. You change "The Real Slim Shady" to "The Real Sailor Moon."
 4800. Someone is absent from school, you say the Negaverse took them for brainwashing.
-4801. You’re scared Queen Beryl is alive and coming to get you in your sleep.
+4801. You're scared Queen Beryl is alive and coming to get you in your sleep.
 4802. Your school is having a talent show, and you sing "I Wanna Be A Star" wearing a frilly red dress.
 4803. You swear you saw Princess Snow Kaguya everytime you look at the moon.
 4804. Someone has a stroke and you claim their pure heart was stolen.
@@ -5190,7 +5192,7 @@ From http://riyana.tripod.com/index2.htm (s i l v e r - m i k a z u k i)
 4833. The Halloween costume of your choice, for three years running, has been your favorite Sailor Scout. (Mercurami)
 4834. If anyone ticks you off, you yell "Mars Flame Sniper!" etc., etc. (Mercurami)
 4835. You search the net for hours for the full version of "Oh Starry Night." (Mercurami)
-4836. You’re sent home for dying your hair blue—and suspended for a day because you fought with the principal about how "blue is too a natural hair color!" (Mercurami)
+4836. You're sent home for dying your hair blue-and suspended for a day because you fought with the principal about how "blue is too a natural hair color!" (Mercurami)
 4837. You don't even watch the show regularly and you can come up with an entire list! (Mercurami)
 4838. You insist that your mother listen to all your favorite Sailor Moon songs. (Mercurami)
 4839. You expect to see a space botany class at your school. (SuperSailorChibiMoon)
@@ -5230,7 +5232,7 @@ From http://riyana.tripod.com/index2.htm (s i l v e r - m i k a z u k i)
 4873. Once you hear about missing children all over the world, you try to protect your pink-haired sister. (Amara the Moonie)
 4874. You hear about the UFO sitings and are convinced it's the Black Moon Clan out to get your sister and your diamond crystal you bought after 20 years of savings. (Amara the Moonie)
 4875. Your friend starts trying to kiss you, you yell out AKU RYO TAI SAN! And throw a piece of paper with weird scribbles on it at your friend. (Amara the Moonie)
-4876. You’ve made your own Napster Community with only SM music. (Amara the Moonie)
+4876. You've made your own Napster Community with only SM music. (Amara the Moonie)
 4877. You enter your classroom everyday saying 'I am the one named bunny moon' and everyone calls you crazy!! (Mika of the moon and stars)
 4878. Your friend, while in P.E. class during archery practice, embarrasses you by yelling "MARS FLAME SNIPER!", and actually makes a bullseye! (CrystalCelestial)
 4879. Your poor dog looks like a cat with a HUGE bald spot on its head because you were trying to turn it into Luna, Artemis, or Diana. (CrystalCelestial)
@@ -5243,7 +5245,7 @@ From http://riyana.tripod.com/index2.htm (s i l v e r - m i k a z u k i)
 4886. You intentionally start dissing your crush, hoping that your relationship will turn out the same way as Usagi's and Mamaru's. (Mizutamari)
 4887. You bomb the rock and mineral museum because Jedite, Nephlite, Zoesite, Malachite, Beryl, Emerald, Sapphire and Diamond are there. (sailorryoko)
 4888. Draw pictures of Sailor Moon and price them to $30.00. (Anonymous)
-4889. It thunders it doesn't bother you. "Oh, it's just Jupiter killing off some youma…" (Umei)
+4889. It thunders it doesn't bother you. "Oh, it's just Jupiter killing off some youma..." (Umei)
 
 From http://sailorcrazy.lucky-stars.ca/ykywtmsmw.htm
 
@@ -5369,14 +5371,14 @@ From http://eternalserajupiter.tripod.com/index.html (Sailor Jupiter's Moon King
 The following were submitted by Kaiko ^-^
 
 5003. U laugh whenever u hear someone say "Sailor Mini Moon" thinking they're saying "Sailor Mini Me"
-5004. U shout out "Saturn Silence Glavie Surprise!" when u want to hurt someone u hate at school n get stuck in the principal’s office for 30 minutes proving that u're insane n obsessioned /w BSSM
+5004. U shout out "Saturn Silence Glavie Surprise!" when u want to hurt someone u hate at school n get stuck in the principal's office for 30 minutes proving that u're insane n obsessioned /w BSSM
 5005. You try to teach all the English sm watchers the true story and what they cut out but the police come after you and you shout in your sm watch "I'm in trouble you guys! Henshin yo!"
 5006. You call clover way up and threaten them to dub the sailor stars season or else
 5007. You scream whenever you hear someone sing English sm theme song
 
 The following were submitted by Kyle ^^ Whee!
 
-5008. When my friend explains every aspect of sailor moon… and you listen and write down every word
+5008. When my friend explains every aspect of sailor moon... and you listen and write down every word
 5009. You pull out a knife out on people when you hear "sailor moon gay"
 5010. You actually try to burn down DIC instead you get caught and sent downtown to the "sailor moon store" which turns out to be jail
 5011. You call school "the dark kingdom" and anyone you don't like is apart of "the dark kingdom"
@@ -5558,7 +5560,7 @@ From http://www.virtualinsanity.net/greatsailormoonsite/ (~^_^~'s Sailor Moon Si
 5165. You make a site on anime and it turns out you used all of your space on sailor moon (From Sailor Capricorn)
 5166. You make up your own scouts and scripts and try to send them to Toonami (From Sailor Capricorn)
 5167. You start to write songs to go with your scripts (From Sailor Capricorn)
-5168. You get a trash can, fill it with paper, light it on fire, and then try to find out what the answer to tomorrow’s quiz.(From Sailor Snow Fall)
+5168. You get a trash can, fill it with paper, light it on fire, and then try to find out what the answer to tomorrow's quiz.(From Sailor Snow Fall)
 5169. During an earth quake, you yell, "Will You Stop That, Uranus!!!!!!!!!!!!!!!!!"(From Sailor Snow Fall)
 5170. NASA is now screening they're calls because 'someone' keeps calling and begging them to search for the ruins of the Moon Kingdom (From Firefly)
 5171. You paint a cat face on a volley ball, tape an antenna to it, press the nose and shout "Sailors! I need you! Heart-snatchers are here!" (From ibsailorscout3000)
@@ -5986,7 +5988,7 @@ From http://www.expage.com/sailororcaotaku (Sailor Star Orca's Sailor Moon site)
 5487. Your family & friends have an easy time figuring out what gifts to buy you for Christmas & your B-day: Sailor Moon merchandise, unless you have every Sailor Moon item known to man.
 5488. You introduce yourself saying: "I am the Pretty Suited Champion of Love & Justice, _____, & in the name of the Moon, you're punished!"
 
-From http://midnight_rabbit.tripod.com/YKYWTMSMW.html (Caroline Curtis’s website)
+From http://midnight_rabbit.tripod.com/YKYWTMSMW.html (Caroline Curtis's website)
 
 5489. You scribble on toilet roll and throw it at people.
 5490. You get upset at the end of your pack of smarties when there's a colour for each senshi except Neptune. (Guilty)
@@ -6116,7 +6118,7 @@ From http://www.smuncensored.com/forums/index.php
 5609. You literally listen to Sailor Moon music in the back of the street bus with all the gangsta kids not knowing what the hell they listen to (Luckily, some say that ''whatever the fuck you're listing to, sounds catchy'', especially when hearing me listen to Mars' Star Power Make Up theme) (Hikari no Senshi)
 5610. You have at least 150 volumes of licensed Sailormoon books (Anton-P)
 5611. You have a framed poster of Usagi above your bed. (Chibisteven)
-5612. You don’t have a separate "Moon" folder on your PC hard drive anymore, because Sailor Moon has flooded all existing folders on it. (Anton-P)
+5612. You don't have a separate "Moon" folder on your PC hard drive anymore, because Sailor Moon has flooded all existing folders on it. (Anton-P)
 5613. When you have the entire series on your favorites on YouTube.com (DumplingHead)
 5614. You avoid dealing with boom boxes due to a fear they'll blow up. (Aya Reiko)
 5615. You practice Rei's Shinto prayer despite not being Shinto yourself. (FYI: It's "Rin, Byo, To, Sha, Kai, Jin, Retsu, Zai, Zen.") (Aya Reiko)
@@ -6184,7 +6186,7 @@ From http://www.smuncensored.com/forums/index.php
 
 From http://www.sailormooni.com/international/
 
-(Sailor Moon International Forum) – as on June 25, 2006
+(Sailor Moon International Forum) - as on June 25, 2006
 
 5677. You buy a package of the little round crystals from the bead section of Hobby Lobby, put one on a gold chain and say it's your own ginzuishou (SailorAria)
 5678. You write a letter to Kodak company suggesting them a new design for a camera in the form of an eyeball with wings. (Anton_P.)
@@ -6229,17 +6231,17 @@ From http://www.angelfire.com/anime/sailormexico/
 5712. You almost cried after spending three days without sleep searching the whole Net for a certain page where transformation of Luna into human was shown.
 5713. After finding it finally you was so angry that did not talk with anyone for two days because the page was not willing to open.
 5714. You think about learning genetics in order to be able to breed talking cats with crescent moon marks on their foreheads.
-5715. You paint a giant sign on the door of your house that reads: “Welcome to Crystal Tokyo”.
+5715. You paint a giant sign on the door of your house that reads: "Welcome to Crystal Tokyo".
 
 Since you are a fan of the villains, you (the ones with *):
 
 5716.  * Place different strange objects into a stove hoping them to turn into monsters that will steal pure hearts.
 5717. * Buy a white car and paint black stars on each door.
-5718. * The door at your work reads: “Witches 5”
-5719. * When you do not like someone, you take out a whip, a curtain and say: “One... two... THREE!!”
+5718. * The door at your work reads: "Witches 5"
+5719. * When you do not like someone, you take out a whip, a curtain and say: "One... two... THREE!!"
 5720. If you are living near your school you tell as your excuse that you go swimming while you go to home to watch Sailor Moon.
 5721. Your 27 years old brother tells you must mature and not watch Sailor Moon because YOU ARE THE ELDEST ONE.
-5722. You hate Mc’Donalds food but if they have got mini Sailor Scouts you go and buy all Happy Meals despite how much you spend and the food itself ends being given to your dog, but... YOU HAVE AT LAST MINI SAILOR SCOUTS.
+5722. You hate Mc'Donalds food but if they have got mini Sailor Scouts you go and buy all Happy Meals despite how much you spend and the food itself ends being given to your dog, but... YOU HAVE AT LAST MINI SAILOR SCOUTS.
 5723. You have a stomach illness because you eat so many yogurts and milk desserts solely for collecting the covers that come with pictures of Sailor Moon.
 5724. You convince your friends that have bought the same kind of desserts to give you the covers you do not have as yet.
 5725. You decide not to kiss your fiance because Sailor Scouts died without kissing the ones they wished.
@@ -6251,7 +6253,7 @@ Since you are a fan of the villains, you (the ones with *):
 5728. You've bought a piece of sailor moon merchandise this week. (R. Manley)
 5729. You run into your classroom with your toy sailor moon wand, jump on your desk, point the wand at your teacher and shout "moon scepter elimination" when that does not  work you pull out your bubbles and shout "mercury bubbles" and blow bubbles in her face. In the end she sends to the office, but at least you missed the math test! Now where did you put your "crystal key" ... (R. Manley)
 5730. You kiss ALL your sailor moon dolls good night, which takes an hour. (R. Manley)
-5731. You starting wonder if Malachite’s nick name was Sephirot (From Final Fantasy VII). (Pilar Fernandez Alvarez-Cienfuegos)
+5731. You starting wonder if Malachite's nick name was Sephirot (From Final Fantasy VII). (Pilar Fernandez Alvarez-Cienfuegos)
 
 From http://lildizzle87.tripod.com/id21.html
 
@@ -6722,7 +6724,7 @@ From various SailorMoonForum.com threads
 6150. You stay up late to 5:00 a.m. to live tweet all the latest updates about Sailor Moon Crystal (I've also done this). (Neon Genesis)
 6151. You go to anything the voice actors are participating in just to get their autograph. (kikyo hino)
 6152. When you start humming the OP. (CureNa11)
-6153. You thought that the Pokémon Go fad just was a trick of the Dark Kingdom (or Negaverse or whatever). (Eldsjäl)
+6153. You thought that the Pokemon Go fad just was a trick of the Dark Kingdom (or Negaverse or whatever).
 6154. You refer to Sailor Moon lore when in political debates with people. (MariaTenebre)
 6155. When your 3 year old is being a turd and you take off your SM belt and (jokingly) tell him, "In the name of the Moon, I'll punish you!" (mydnyghtamethyst)
 6156. Also when he wants to watch the show and "see" the Sailor Guardians on your phone AKA play Sailor Moon Drops. (mydnyghtamethyst)
@@ -6739,7 +6741,7 @@ YKYWTMSM...
 6162. If you put your head through Grandma's antique wardrobe mirror 'cause you believe Nehellenia/Pegasus could be hiding inside - And then you wonder about the shards and all that blood (That's an original one I recently came up with in case you're asking)
 6163. If your school grades are so bad you're running around all over the city, desperately asking for some 'Crystal Seminar' (Same here)
 
-From wikimoon.org’s YKYWTMSMW entry:
+From wikimoon.org's YKYWTMSMW entry:
 
 6164. You found a way to paint your room the "Salad Time" color.
 
@@ -6747,7 +6749,7 @@ From http://sailormoonforum.com/viewtopic.php?f=23&t=4515
 
 By Lady Delphi (unless noted), July 2005
 
-YKYWTMSM(and you’re Wiccan!) When...
+YKYWTMSM(and you're Wiccan!) When...
 
 6165. Your purification ritual is visualized as a henshin sequence
 6166. You have computer print-outs of Sailor Mars (fire) Sailor Mercury (water) Sailor Jupiter (earth) and Sailor Venus (air) placed at their respective places on your alter.
@@ -7065,7 +7067,7 @@ You know you watch too much PGSM when...
 6440. Every one of your posts in the Act ___ Preview threads is, "I can't wait for the next episode!!" (Neeko)
 6441. You take screenshots of the episode and show the people who can't download or wait for the sub to come out. (Neeko)
 6442. You've memorized all of the songs. (Neeko)
-6443. Your body is clad in lamé and charms. (Neeko)
+6443. Your body is clad in lame and charms. (Neeko)
 6444. You realize, going through life is to try get a chance! (Neeko)
 6445. When you listen to the theme song a lot (Kirari Sailor Dream), and even have it stuck in your head. (blackbird)
 6446. Same goes with C'est La Vie (blackbird)
