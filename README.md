@@ -5,7 +5,6 @@ YKYWTMSMW Fortunes for Linux v6.0
 Created by redblade7
 
 v6.0 released on September 10, 2017 (Ami Mizuno's Birthday)
-
 v5.x series released and updated during May 2017
 
 These files for the Linux fortune program provide over 6500 "You Know You Watch Too Much Sailor Moon When..." jokes created between c. 1995 and 2017. 
