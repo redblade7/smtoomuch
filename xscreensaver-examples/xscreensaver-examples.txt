@@ -12,4 +12,4 @@ The -s option limits the choices to YKYWTMSMWs which are 160 characters or less.
 
 Since version 6, adding the "&& echo" to the end is required in order to have blank lines between lines in some of the screensavers.
 
-The screensavers Apple2, NoseGuy, Phosphor, Splitflap, Starwars, and WindupRobot can make use of the fortunes. Included in this folder are screenshots of all but NoseGuy and WindupRobot.
+The screensavers Apple2, NoseGuy, Phosphor, Splitflap, Starwars, and WindupRobot can make use of the fortunes. Included in this folder are screenshots of all but WindupRobot.
