@@ -1,24 +1,26 @@
-* Development version - future v6.x (2017-??-??)
-	* Restructured book directory to include three subdirectories: v5, v6-draft, others
+* v6.0 (2017-09-10, Ami Mizuno's Birthday)
+	* Version 6 of the book (together with v6.0 of the fortunes) released!
+	* Version 6 contains 6596 YKYWTMSMWs (551 YKYWTMSMWs larger than v5)
+        * The v6.x series of fortunes is based on version 6 of the book.
+	* Restructured book directory to include three subdirectories: v5, v6, others
 	* Moved Maraviollantes' book to the v5 subdirectory
 	* Added another book, which appears to be a slightly larger fork of v5 by "sailormoon9993" and placed it in the others subdirectory
 	* Added a another book called "ways to know you love sailormoon" by "yamiserenity" into the others subdirectory
-	* The "v6-draft" subdirectory contains the draft version of the future book v6. The original is now in ODT instead of DOC, with the draft book in PDF and TXT format.
+	* The v6 subdirectory contains version 6 of the book. The original is now in ODT instead of DOC, with PDF and TXT formats also included.
 	* Removed various duplicates, in original and from new material
 	* Added a CONTRIBUTING.md file
 	* Added a CODE_OF_CONDUCT file
 	* Removed the unsupported German fortunes, which are now in book/others/ykywtmsmw-de.txt
 	* Added note to README.md that the fortunes are not currently split into offensive and non-offensive, but will be.
 	* Removed line numbering from ykywtmsmw-de.txt
-	* Added "xscreensaver-examples" folder with instructions on how to use the fortunes with the xscreensaver package, as well as screenshots.
-        * v6.x is based on version 6 of the book.
-	* v6.x does not have blank lines after the fortunes.
+	* Added xscreensaver-examples directory with instructions on how to use the fortunes with the xscreensaver package, as well as screenshots.
+	* The v6.x series does not have blank lines after the fortunes, unlike the v5.x series.
 * v5.3 (2017-05-24): 
 	* Various updates to README.md
 	* Made LICENSE more clear
 	* Spun off CHANGES section into its own file.
 	* Removed header that was left underneath fortune #2455 by mistake
-	* Added additional fortunes (see "others" folder)
+	* Added additional fortunes (see "others" directory)
 	* Fixed possible errors in make uninstall and make clean
 	* Updated Slackware note in README with information on showing all non-offensive fortunes.
 	* NOTE: With Maraviollantes' permission I have taken over maintaining the book too. This means that the YKYWTMSMW Linux fortunes not found in the book will be integrated into the book and given normal numbering both in the book and in the fortunes. This version (v5.3) will be the last release based on version 5 of the book, with upcoming version 6 of the Linux fortunes to be released along with version 6 of the book. The German YKYWTMSMWs will not be in version 6 of the book.

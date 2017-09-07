@@ -1,28 +1,25 @@
 # smtoomuch
 
-(NOTE: This README.md is a DRAFT for a future v6.x - last updated September 3, 2017. You might want to download v5.3 from the Releases page instead.)
+YKYWTMSMW Fortunes for Linux v6.0
 
-(NOTE: The fortunes are not currently split into offensive and non-offensive but will be)
+Created by redblade7
 
-YKYWTMSMW Fortunes for Linux v6.x-DRAFT
-
-Created by redblade7, DRAFT DRAFT, 2017
-
-Last updated September 3, 2017 (v6.x-DRAFT)
-
-(NOTE: This README.md is a DRAFT for a future v6.x - last updated September 3, 2017. You might want to download v5.3 from the Releases page instead.)
+v6.0 released on September 10, 2017 (Ami Mizuno's Birthday)
+v5.x series released and updated during May 2017
 
 These files for the Linux fortune program provide over 6500 "You Know You Watch Too Much Sailor Moon When..." jokes created between c. 1995 and 2017. 
 
-Most of the jokes come from the YKYWTMSMW Compilation book, version 6, originally by Anton Ptitsin and updated by redblade7, released on DRAFT, 2017. The fortunes are derived from the TXT version of the book.
+The fortunes are derived from the TXT version of the YKYWTMSMW Compilation book, version 6, originally by Anton Ptitsin and updated by redblade7 in 2017.
 
-Included in the "book/v5" subdirectory is the complete book, version 5 (the last from Anton Ptitsin) in DOC, PDF, and plain text.
+Included in the "book/v5" subdirectory is the complete book, version 5 (the last from Anton-P, 2007) in DOC, PDF, and plain text.
 
-Included in the "book/v6" subdirectory is the complete book, version 6 (the first by redblade7) in ODT, PDF, and plain text.
+Included in the "book/v6" subdirectory is the complete book, version 6 (the first by redblade7, 2017) in ODT, PDF, and plain text.
 
-Included in the "book/others" subdirectory are additional books and sources.
+Included in the "book/others" subdirectory are additional books and sources used in the making of version 6.
 
 Enjoy! -redblade7
+
+NOTE: The fortunes are not currently split into offensive and non-offensive, but will be in a future release of v6.x.
 
 INSTRUCTIONS:
 
