@@ -1,8 +1,8 @@
 
-YKYWTMSMW Compilation INCOMPLETE DRAFT v6
+YKYWTMSMW Compilation
 
-Version: 6 (6596 entries) DRAFT
-Date: DRAFT DRAFT, 2017
+Version: 6 (6596 entries)
+Date: September 10, 2017 (Ami Mizuno's Birthday)
 
 -----
 
@@ -79,7 +79,7 @@ What do you think of my story?
 
 ---
 
-The only things which have changed from that post as of DRAFT DRAFT, 2017 is that I have seen the full Viz English dub of S (which introduced me to Sailor Saturn) and I am now 33. I have also seen Nanoha A's, but was not interested in finishing watching Striker S or anything after.
+The only things which have changed from that post as of now are that I have seen the full Viz English dub of S (which introduced me to Sailor Saturn) and I am now 33. I have also seen Nanoha A's, but was not interested in finishing watching Striker S or anything after.
 
 The idea of a Version 6 of the book started when I obtained version 5 from an archive of sailorvgame.org provided by Anton-P (now known as Maraviollantes) to users of sailormoonforum.com. I noticed that the 6,000+ YKYWTMSMWs in the book would make great Linux fortune cookies, and had some help from some other individuals in creating the fortune cookies.
 
@@ -99,7 +99,8 @@ Enjoy!
 
 -redblade7
 
-DRAFT DRAFT, 2017
+September 10, 2017
+(Ami Mizuno's Birthday)
 
 https://github.com/redblade7/smtoomuch
 
