@@ -19,8 +19,6 @@ Included in the "book/others" subdirectory are additional books and sources used
 
 Enjoy! -redblade7
 
-NOTE: The fortunes are not currently split into offensive and non-offensive, but will be in a future release of v6.x.
-
 INSTRUCTIONS:
 
 To install, type:
@@ -55,7 +53,9 @@ When you receive #2880 as a fortune, you will not know about the preceding jokes
 
 (6) There are over 6500 fortunes in these files which, depending on the amount of fortunes you have installed, might make the likelihood of receiving a YKYWTMSMW fortune higher than you want. If you want to change this behavior, see the fortune man page about the "-e" option.
 
-(8) Slackware Linux users: Slackware will not automatically choose fortunes from these files unless you add "smtoomuch" to the end of the fortune command in /etc/profile.d/bsd-games-login-fortune.sh. You may also want to use "fortune -e" (see note #8). You can also replace the whole line with "fortune all" or, if you don't mind seeing offensive fortunes, "fortune -a".
+(7) Slackware Linux users: Slackware will not automatically choose fortunes from these files unless you add "smtoomuch" to the end of the fortune command in /etc/profile.d/bsd-games-login-fortune.sh. You may also want to use "fortune -e" (see note #8). You can also replace the whole line with "fortune all" or, if you don't mind seeing offensive fortunes, "fortune -a".
+
+(8) The fortunes are not currently split into offensive and non-offensive, but will be in a future release of v6.x.
 
 THANKS:
 
