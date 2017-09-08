@@ -8,7 +8,7 @@ You can use the fortunes in conjunction with the Linux xscreensaver package.
 
 To do so, go into the Advanced tab, and under the Text Manipulation section, select "Program" and replace the line with "fortune -s smtoomuch && echo" (no quotes)
 
-The -s option limits the choices to YKYWTMSMWs which are 160 characters or less.
+The -s option limits the choices to YKYWTMSMWs which are 160 characters or less (including the YKYWTMSMW number).
 
 Since version 6, adding the "&& echo" to the end is required in order to have blank lines between lines in some of the screensavers.
 
