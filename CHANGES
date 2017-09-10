@@ -12,6 +12,7 @@
 	* Added a CODE_OF_CONDUCT file
 	* Removed the unsupported German fortunes, which are now in book/others/ykywtmsmw-de.txt
 	* Added note to README.md that the fortunes are not currently split into offensive and non-offensive, but will be.
+	* Other updates and corrections to README.md
 	* Removed line numbering from ykywtmsmw-de.txt
 	* Added xscreensaver-examples directory with instructions on how to use the fortunes with the xscreensaver package, as well as screenshots.
 	* The v6.x series does not have blank lines after the fortunes, unlike the v5.x series.
