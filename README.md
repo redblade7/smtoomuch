@@ -1,14 +1,15 @@
 # smtoomuch
 
-YKYWTMSMW Fortunes for Linux v6.1-preview
+YKYWTMSMW Fortunes for Linux v6.1-PREVIEW
 
 Created by redblade7
 
 -----DEVELOPMENT VERSION: LAST UPDATED 2017-09-11-----
+
 -----You may want to download v6.0 from the Releases page-----
 
-v6.0 released on September 10, 2017 (Ami Mizuno's Birthday)
-v5.x series released and updated during May 2017
+* v6.0 released on September 10, 2017 (Ami Mizuno's Birthday)
+* v5.x series released and updated during May 2017
 
 These files for the Linux fortune program provide over 6500 "You Know You Watch Too Much Sailor Moon When..." jokes created between c. 1995 and 2017. 
 
@@ -18,11 +19,9 @@ Included in the "book/v5" subdirectory is the complete book, version 5 (the last
 
 Included in the "book/v6" subdirectory is the complete book, version 6 (the first by redblade7, 2017) in ODT, PDF, and plain text.
 
-Included in the "book/others" subdirectory are additional books and sources used in the making of version 6.
+Included in the "book/others" subdirectory are additional books and sources used in the making of version 6, and content which will be used in a future book release.
 
 Enjoy! -redblade7
-
-INSTRUCTIONS:
 
 INSTRUCTIONS:
 
