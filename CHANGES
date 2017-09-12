@@ -1,3 +1,7 @@
+* v6.1-preview (TO BE RELEASED 2017-??-??)
+	* Spun-off 100 YKYWTMSMWs into a separate "offensive" fortune set
+	* Updated the Makefile so as to have separate installation of main fortunes and offensive fortunes
+	* Documentation updated with regard to this separate offensive set and what qualifies for an "offensive" fortune.
 * v6.0 (2017-09-10, Ami Mizuno's Birthday)
 	* Version 6 of the book (together with v6.0 of the fortunes) released!
 	* Version 6 contains 6596 YKYWTMSMWs (551 YKYWTMSMWs larger than v5)

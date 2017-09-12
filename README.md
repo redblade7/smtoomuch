@@ -1,8 +1,11 @@
 # smtoomuch
 
-YKYWTMSMW Fortunes for Linux v6.0
+YKYWTMSMW Fortunes for Linux v6.1-preview
 
 Created by redblade7
+
+-----DEVELOPMENT VERSION: LAST UPDATED 2017-09-11-----
+-----You may want to download v6.0 from the Releases page-----
 
 v6.0 released on September 10, 2017 (Ami Mizuno's Birthday)
 v5.x series released and updated during May 2017
@@ -21,15 +24,24 @@ Enjoy! -redblade7
 
 INSTRUCTIONS:
 
-To install, type:
+INSTRUCTIONS:
 
-"make && sudo make install"
+First, type:
+* "make"
 
-Then, leave the source directory and type:
+There are three (un)installation options: one to (un)install the main fortunes, one to (un)install the offensive fortunes on Debian/Ubuntu/Mint systems, and one to (un)install the offensive fortunes on Slackware systems.
 
-"fortune smtoomuch"
+For instructions, type:
 
-to try it out.
+* "sudo make install"
+
+To try out, after installation, leave the source directory and type:
+
+* "fortune smtoomuch" (main fortunes only)
+* "fortune off/smtoomuch" (offensive fortunes only, Debian/Ubuntu/Mint)
+* "fortune smtoomuch-o" (offensive fortunes only, Slackware)
+* "fortune smtoomuch off/smtoomuch" (both fortune files, Debian/Ubuntu/Mint)
+* "fortune smtoomuch smtoomuch-o" (both fortune files, Slackware)
 
 NOTES:
 
@@ -51,15 +63,27 @@ When you receive #2880 as a fortune, you will not know about the preceding jokes
 
 (5) In the fortune files, special and Unicode characters were replaced for compatibility with non-Unicode terminals. This also required me to cut off the name of the authors of #4189-#4192 and #6153. (You can see their names in the book files.)
 
-(6) There are over 6500 fortunes in these files which, depending on the amount of fortunes you have installed, might make the likelihood of receiving a YKYWTMSMW fortune higher than you want. If you want to change this behavior, see the fortune man page about the "-e" option.
+(6) There are over 6496 fortunes (plus 100 offensive ones) in these files which, depending on the amount of fortunes you have installed, might make the likelihood of receiving a YKYWTMSMW fortune higher than you want. If you want to change this behavior, see the fortune man page about the "-e" option.
 
 (7) Slackware Linux users: Slackware will not automatically choose fortunes from these files unless you add "smtoomuch" to the end of the fortune command in /etc/profile.d/bsd-games-login-fortune.sh. You may also want to use "fortune -e" (see note #6). You can also replace the whole line with "fortune all" or, if you don't mind seeing offensive fortunes, "fortune -a".
 
-(8) The fortunes are not currently split into offensive and non-offensive, but will be in a future release of v6.x.
+(8) The fortunes are split into the main set and the "offensive" set. The following general guidelines qualify YKYWTMSMWs for the offensive set and have been moved there:
+
+	(a) Seven dirty words, graphic sexual language
+	(b) Sex, nudity, overly racy
+	(c) Anything LGBT related
+	(d) Crossdressing (including cosplay and Halloween)
+	(e) Racism, sexism, homophobia
+	(f) Political/religious insults
+	(g) Porn and hentai related
+	(h) Jokes about incest
+	(i) "Nostalgia Critic" style remarks
+
+The choices for "offensive" should not be considered a reflection of the developer's personal beliefs, but rather a way to protect the user from the wrong person seeing the wrong YKYWTMSMW at the wrong time. However, as this is an ongoing project, the developer makes no guarantees.
 
 THANKS:
 
-* Anton-P aka Maraviollantes for compiling the book and for archiving sailorvgame.org (where the book was hosted)
+* Anton-P aka Maraviollantes for compiling version 5 of the book and for archiving sailorvgame.org (where the book was hosted)
 * JanC on this page: https://askubuntu.com/questions/36523/creating-a-fortunes-file
 * igemnace on Freenode #vim for helping me quickly split up the book into fortunes
 * Everyone on sailormoonforum.com for being awesome!
