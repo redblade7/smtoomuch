@@ -2,7 +2,7 @@
 
 YKYWTMSMW Fortunes for Linux v6.11-PREVIEW
 
-(NOTE: This is a PREVIEW of version 6.11. You may want to download v6.1 from the Rleases tab instead.)
+(NOTE: This is a PREVIEW of version 6.11. You may want to download v6.1 from the Releases tab instead.)
 
 Created by redblade7
 
