@@ -1,8 +1,12 @@
+* v6.11-PREVIEW (2017-??-??)
+	* Changed N1 a bit for easier integration into the fortunes and next book.
+	* Added 2 more (N3 & N4) to smtoomuch-future-version.txt
+	* Added N3 to the main fortune set and N4 to the offensive fortune set
 * v6.1 (2017-09-16)
 	* Spun-off 100 YKYWTMSMWs into a separate "offensive" fortune set
 	* Updated the Makefile so as to have separate installation of main fortunes and offensive fortunes
 	* Documentation updated with regard to this separate offensive set and what qualifies for an "offensive" fortune.
-	* Created book/others/smtoomuch-future-version, containing 2 new YKYWTMSMWs for a future release. They are preceded by the letter N (N1, N2, ...) and have been added to the fortunes as well.
+	* Created book/others/smtoomuch-future-version.txt, containing 2 new YKYWTMSMWs for a future release. They are preceded by the letter N (N1, N2, ...) and have been added to the fortunes as well.
 * v6.0 (2017-09-10, Ami Mizuno's Birthday)
 	* Version 6 of the book (together with v6.0 of the fortunes) released!
 	* Version 6 contains 6596 YKYWTMSMWs (551 YKYWTMSMWs larger than v5)

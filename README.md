@@ -1,9 +1,12 @@
 # smtoomuch
 
-YKYWTMSMW Fortunes for Linux v6.1
+YKYWTMSMW Fortunes for Linux v6.11-PREVIEW
+
+(NOTE: This is a PREVIEW of version 6.11. You may want to download v6.1 from the Rleases tab instead.)
 
 Created by redblade7
 
+* v6.11-PREVIEW last updated on September 20, 2017
 * v6.1 released on September 16, 2017
 * v6.0/book v6 released on September 10, 2017 (Ami Mizuno's Birthday)
 * v5.x series released and updated during May 2017
