@@ -6,7 +6,7 @@ YKYWTMSMW Fortunes for Linux v6.11-PREVIEW
 
 Created by redblade7
 
-* v6.11-PREVIEW last updated on September 20, 2017
+* v6.11-PREVIEW last updated on October 6, 2017
 * v6.1 released on September 16, 2017
 * v6.0/book v6 released on September 10, 2017 (Ami Mizuno's Birthday)
 * v5.x series released and updated during May 2017
@@ -68,14 +68,14 @@ When you receive #2880 as a fortune, you will not know about the preceding jokes
 
 (8) The fortunes are split into the main set and the "offensive" set. The following general guidelines qualify YKYWTMSMWs for the offensive set and have been moved there:
 
-	(a) Seven dirty words, graphic sexual language
+	(a) Seven dirty words, four letter words, graphic sexual language
 	(b) Sex, nudity, overly racy
 	(c) Anything LGBT related
 	(d) Crossdressing (including cosplay and Halloween)
 	(e) Racism, sexism, homophobia
 	(f) Political/religious insults
 	(g) Porn and hentai related
-	(h) Jokes about incest
+	(h) Jokes about incest and bestiality
 	(i) "Nostalgia Critic" style remarks
 
 The choices for "offensive" should not be considered a reflection of the developer's personal beliefs, but rather a way to protect the user from the wrong person seeing the wrong YKYWTMSMW at the wrong time. However, as this is an ongoing project, the developer makes no guarantees.
