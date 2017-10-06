@@ -22,4 +22,4 @@ fortune -s smtoomuch off/smtoomuch && echo
 (Slackware users)
 fortune -s smtoomuch smtoomuch-o && echo
 
-The screensavers Apple2, FlipText, NoseGuy, Phosphor, Splitflap, Starwars, and WindupRobot can make use of the fortunes. Included in this folder are screenshots of all but WindupRobot.
+The screensavers Apple2, FlipText, FontGlide, NoseGuy, Phosphor, Splitflap, Starwars, and WindupRobot can make use of the fortunes. Included in this folder are screenshots of all but WindupRobot.
