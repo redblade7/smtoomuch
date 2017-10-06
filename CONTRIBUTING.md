@@ -11,14 +11,14 @@ set. If there are any offensive fortunes in the main fortune set, please file a 
 
 Here is a general idea of what qualifies for the offensive fortune set:
 
-	(a) Seven dirty words, graphic sexual language
+	(a) Seven dirty words, four letter words, graphic sexual language
 	(b) Sex, nudity, overly racy
 	(c) Anything LGBT related
 	(d) Crossdressing (including cosplay and Halloween)
 	(e) Racism, sexism, homophobia
 	(f) Political/religious insults
 	(g) Porn and hentai related
-	(h) Jokes about incest
+	(h) Jokes about incest and bestiality
 	(i) "Nostalgia Critic" style remarks
 
 The choices for "offensive" should not be considered a reflection of the developer's personal beliefs, but rather a way to protect the user from the wrong person seeing the wrong YKYWTMSMW at the wrong time. However, as this is an ongoing project, the developer makes no guarantees.
