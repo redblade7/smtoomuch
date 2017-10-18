@@ -1,4 +1,7 @@
-* v6.11-PREVIEW (2017-??-??)
+* v6.11-preview3 (2017-10-18)
+	* Corrected Slackware instructions with regard to viewing offensive smtoomuch fortunes at login.
+	* Updates to the source code and/or books prior to official releases will be counted as "-preview(number)" for each calendar date the material has been updated. These revisions to the source are not to be considered actual "versions" - the latest release is still v6.1, the preview number is simply for convenience and testing before the final release, which in this case will be v6.11.
+* v6.11-preview1 (2017-09-20) & v6.11-preview2 (2017-10-06)
 	* Changed N1 a bit for easier integration into the fortunes and next book.
 	* Added two more (N3 & N4) to book/others/smtoomuch-future-version.txt
 	* Added N3 to the main fortune set and N4 to the offensive fortune set

@@ -1,12 +1,12 @@
 # smtoomuch
 
-YKYWTMSMW Fortunes for Linux v6.11-PREVIEW
+YKYWTMSMW Fortunes for Linux v6.11-preview3
 
 (NOTE: This is a PREVIEW of version 6.11. You may want to download v6.1 from the Releases tab instead.)
 
 Created by redblade7
 
-* v6.11-PREVIEW last updated on October 6, 2017
+* v6.11-preview3 last updated on October 18, 2017
 * v6.1 released on September 16, 2017
 * v6.0/book v6 released on September 10, 2017 (Ami Mizuno's Birthday)
 * v5.x series released and updated during May 2017
@@ -64,7 +64,7 @@ When you receive #2880 as a fortune, you will not know about the preceding jokes
 
 (6) There are 6499 fortunes (plus 101 offensive ones) in these files which, depending on the amount of fortunes you have installed, might make the likelihood of receiving a YKYWTMSMW fortune higher than you want. If you want to change this behavior, see the fortune man page about the "-e" option.
 
-(7) Slackware Linux users: Slackware will not automatically choose fortunes from these files unless you add "smtoomuch" to the end of the fortune command in /etc/profile.d/bsd-games-login-fortune.sh. You may also want to use "fortune -e" (see note #6). You can also replace the whole line with "fortune all" or, if you don't mind seeing offensive fortunes, "fortune -a".
+(7) Slackware Linux users: Slackware will not automatically choose fortunes from these files unless you add "smtoomuch" (or "smtoomuch smtoomuch-o" if you also want to add the offensive fortunes) to the end of the fortune command in /etc/profile.d/bsd-games-login-fortune.sh. You may also want to use "fortune -e" (see note #6). You can also replace the whole line with "fortune all" or, if you don't mind seeing offensive fortunes, "fortune -a".
 
 (8) The fortunes are split into the main set and the "offensive" set. The following general guidelines qualify YKYWTMSMWs for the offensive set and have been moved there:
 
