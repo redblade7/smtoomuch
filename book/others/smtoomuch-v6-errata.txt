@@ -1,0 +1,7 @@
+---YKYWTMSMW v6 BOOK ERRATA---
+
+Errors in version 6 of the book, to be corrected in a future version:
+
+--MISSED DUPLICATES--
+
+#2484 is a duplicate of #239 (though #239 spells "Darian" wrong)
