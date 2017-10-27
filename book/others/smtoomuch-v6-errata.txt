@@ -4,4 +4,22 @@ Errors in version 6 of the book, to be corrected in a future version:
 
 --MISSED DUPLICATES--
 
-#2484 is a duplicate of #239 (though #239 spells "Darian" wrong)
+2484 is a duplicate of 239 (though 239 spells "Darian" wrong)
+2484 has been removed from the fortunes as of v6.11-preview4 (2483 is now followed by 2485).
+
+--THE ANNALS OF YKYWTMSMW: HEADERS--
+
+There are several YKYWTMSMWs (2358-2819) which fall under headers, but their exact contents are not clear in the book unless you look at the source material on Geocities (and still isn't entirely clear, as different submissions to the site are laid out in different ways).
+
+In future versions of the book, the following categories will apply to the following fortunes. The numbers will also be rearranged so that the two volumes can be combined with material under each header (plus a "YKYWTMSMW..." header for standard ones).
+
+While on your vacation at Universal Studios...: 2455-2465
+At Easter...: 2475-2477
+During the Olympics...: 2626, 2800-2819
+At the CNE (Canadian National Exhibition)...: 2634
+At the hospital...: 2649-2654
+Working at a bookstore (in the kids' section)...: 2664-2669
+
+--THE ANNALS OF YKYWTMSMW VOLUME II: MISSING OLYMPICS YKYWTMSMWs--
+
+The last two olympics-related YKYWTMSMWs in Volume II were not included in either v5 or v6. They have been added to the fortunes as 2819B and 2819C, with 2819 renamed 2819A. NOTE: This is a temporary fix until a future version of the book is released.
