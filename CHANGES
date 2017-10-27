@@ -2,7 +2,7 @@
 	* Added version 6 errata (book/others/smtoomuch-v6-errata.txt)
 	* Added The Annals of YKYWTMSMW Volume II (which was released only as a ZIP compressed TXT file) as book/others/ykywtms2.zip
 	* 2819 renamed 2819A, with 2819B and 2819C added (see errata file)
-	* Missed duplicate 2484 removed from fortunes (2483 is now followed by 2485)
+	* Missed duplicate 2484 (see errata file) removed from fortunes (2483 is now followed by 2485)
 	* Annals leads changed in fortunes in accordance with errata on headers.
 * v6.11-preview3 (2017-10-18)
 	* Corrected Slackware instructions with regard to viewing offensive smtoomuch fortunes at login.
