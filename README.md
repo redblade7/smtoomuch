@@ -4,7 +4,7 @@ YKYWTMSMW Fortunes for Linux v6.12-preview1
 
 Created by redblade7
 
- v6.12-preview1 updated on November 18, 2017
+* v6.12-preview1 updated on November 18, 2017
 * v6.11 released on October 28, 2017
 * v6.0/book v6 released on September 10, 2017 (Ami Mizuno's Birthday)
 * v5.x series released and updated during May 2017
