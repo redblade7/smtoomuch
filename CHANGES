@@ -1,7 +1,8 @@
 * v6.12 (2017-12-23)
 	* Moved 474, 646, 4134, 1876, 5257, and 5414 to offensive.
 	* Added thank you to Gunslinger in the README.md
-	* Added N5 and N6.
+	* Removed unnecessary N4.
+	* Added new N4 and N5.
 * v6.11 (2017-10-28)
 	* Added version 6 errata (book/others/smtoomuch-v6-errata.txt)
 	* Added The Annals of YKYWTMSMW Volume II (which was released only as a ZIP compressed TXT file) as book/others/ykywtms2.zip
