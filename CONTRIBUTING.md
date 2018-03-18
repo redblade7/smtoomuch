@@ -25,9 +25,11 @@ The choices for "offensive" should not be considered a reflection of the develop
 
 -----CONTRIBUTING TO POSSIBLE ANNUAL/BIANNUAL BOOK UPDATES-----
 
-The author monitors sailormoonforum.com (username redblade7) and new YKYWTMSMWs should be posted there.
+The author monitors silvermillenniumfalcon.com (username redblade7) and new YKYWTMSMWs should be posted there.
 
-The official thread for this project is here: http://sailormoonforum.com/viewtopic.php?f=24&t=29781
+The official thread for this project is here: https://silvermillenniumfalcon.com/viewtopic.php?f=27&t=104
+
+While not an active user of sailormoonforum.com since it was purchased by other people in 2018, so long as he is allowed to log in, the author will monitor the following thread as well: https://sailormoonforum.com/index.php?threads/ykywtmsmw.7013/
 
 You may also contribute YKYWTMSMWs via Github's issue tracker.
 
