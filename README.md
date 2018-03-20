@@ -1,6 +1,6 @@
 # smtoomuch
 
-YKYWTMSMW Fortunes for Linux v6.2-preview1
+YKYWTMSMW Fortunes for Linux v6.2-preview2
 
 Created by redblade7
 
