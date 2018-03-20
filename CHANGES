@@ -1,6 +1,7 @@
 * v6.2-preview3 (2018-03-21)
 	* Moved 2168 and 2603 to offensive.
 	* 2154 was mistakenly moved to offensive, put it back in inoffensive
+	* Moved 81, 1390, 2870, 3208, 4483, and 6268 to offensive (they were a bit racy)
 * v6.2-preview2 (2018-03-20)
 	* Moved 5421 to offensive.
 	* Changed some colons, headings, etc. in the N series.
