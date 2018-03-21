@@ -2,6 +2,9 @@
 	* Moved 2168 and 2603 to offensive.
 	* 2154 was mistakenly moved to offensive, put it back in inoffensive
 	* Moved 81, 1390, 2870, 3208, 4483, and 6268 to offensive (they were a bit racy)
+	* Added a bunch of new ones (mostly written by me)
+	* Re-arranged the content in book/others/smtoomuch-future-version.txt so that the need to insert above/below other new entries won't happen as often.
+	* There are now 15 additional entries (13+2 off) to v6, found in book/others/smtoomuch-future-version.txt and the fortune files.
 * v6.2-preview2 (2018-03-20)
 	* Moved 5421 to offensive.
 	* Changed some colons, headings, etc. in the N series.
