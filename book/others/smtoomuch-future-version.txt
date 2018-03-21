@@ -1,22 +1,37 @@
 These YKYWTMSMWs will be added to the next version of the book.
 
+The YouTube comment on the Sailor Moon doll commercial in N12 was from user "PokePawsTV" who spelled the 'e' with a diacritic. As non-unicode terminals do not display the diacritic properly, the user will be uncredited in the fortunes and TXT version of the book, while credited with the appropriate diacritic in the ODT and PDF versions.
+
 During the Olympics (temporary fix, see smtoomuch-v6-errata.txt):
 
 (2819 temporarily renamed 2819A)
 2819B. You get the reference to any of these.
 2819C. Your face is now actually doing facevaults.
 
-You know you need to calm down and watch Sailor Moon when...
-
-N1. You hire a lawyer before setting up a fan forum and chat site. (redblade7)
-N2. You are worried about whether a YKYWTMSMW is "totally free for distribution" or not. (redblade7)
-
 YKYWTMSMW:
 
-N3. You see an elephant and say "That was so disgusting. I feel like I should go home and take a bath." (redblade7)
-N4. if you dye your white cat's fur black - After all, you're Usagi, not Minako. (Onuzim Ima)
-N5. ...it's 2017 already and you still make new YKYWTMSMW jokes. (Maraviollantes)
+N1. ...it's 2017 already and you still make new YKYWTMSMW jokes. (Maraviollantes)
 
 You know you missed out on Sailor Moon fun when...
 
-N6. ...it's 2017 and you're one of only a few people interested in YKYWTMSMWs :( (redblade7)
+N2. ...it's 2017 and you're one of only a few people interested in YKYWTMSMWs :( (redblade7)
+
+You know you need to calm down and watch Sailor Moon when...
+
+N3. You hire a lawyer before setting up a fan forum and chat site. (redblade7)
+N4. You are worried about whether a YKYWTMSMW is "totally free for distribution" or not. (redblade7)
+N5. You start arguing with people about how politically correct or not the show is. (redblade7)
+
+You know you should have watched more Sailor Moon when...
+
+N6. You watch some old commercials on YouTube advertising SM merchandise, then regret that your childhood toys are long gone, especially after looking them up on Amazon and eBay (redblade7, noticing many unhappy YouTube comments)
+
+YKYWTMSMW:
+
+N7. You see an elephant and say "That was so disgusting. I feel like I should go home and take a bath." (redblade7)
+N8. if you dye your white cat's fur black - After all, you're Usagi, not Minako. (Onuzim Ima)
+N9. You've collected all the Sailor Moon menstrual pads and Sailor Moon condoms (redblade7)
+N10. ...And you have some of the Sailor Moon condoms on your Usagi Tsukino waifu shrine (redblade7)
+N11. ...And you have an Usagi Tsukino waifu shrine to begin with. (redblade7)
+N12. When you're watching the Star Wars movies and hear "I've got a bad feeling about this!" you remember the Sailor Moon doll commercial where the kids say "I've got a bad feeling, scouts!" (redblade7, inspired by a YouTube comment on the commercial)
+N13. When you have a moonie girlfriend named Megan, and you draw fanart featuring her as "Sailor Megtune" (redblade7, on Internet celebrity Chris-chan)
