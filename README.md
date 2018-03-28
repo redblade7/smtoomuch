@@ -2,7 +2,7 @@
 
 YKYWTMSMW Fortunes for Linux v6.2-preview4
 
-Created by redblade7 aka redneonglow
+Created by redblade7 (aka redneonglow)
 
 * v6.2-preview4 released on March 29, 2018
 * v6.13 released on February 23, 2018
@@ -19,7 +19,7 @@ Included in the "book/v6" subdirectory is the complete book, version 6 (the firs
 
 Included in the "book/others" subdirectory are additional books and sources used in the making of version 6, and content which will be used in a future book release.
 
-Enjoy! -redblade7 aka redneonglow
+Enjoy! -redblade7 (aka redneonglow)
 
 INSTRUCTIONS:
 
