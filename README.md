@@ -1,10 +1,10 @@
 # smtoomuch
 
-YKYWTMSMW Fortunes for Linux v6.2-preview3
+YKYWTMSMW Fortunes for Linux v6.2-preview4
 
 Created by redblade7
 
-* v6.2-preview3 released on March 21, 2018
+* v6.2-preview4 released on March 28, 2018
 * v6.13 released on February 23, 2018
 * v6.0/book v6 released on September 10, 2017 (Ami Mizuno's Birthday)
 * v5.x series released and updated during May 2017
