@@ -2,8 +2,7 @@ These YKYWTMSMWs will be added to the next version of the book.
 
 The YouTube comment on the Sailor Moon doll commercial in N12 was from user "PokePawsTV" who spelled the 'e' with a diacritic. As non-unicode terminals do not display the diacritic properly, the user will be uncredited in the fortunes and TXT version of the book, while credited with the appropriate diacritic in the ODT and PDF versions.
 
-For consistency, the alias redblade7 will be used as the author of the book,
-even though I use the alias redneonglow in a lot of places including SMF.
+For consistency, the alias redblade7 will be used as the author of the book and YKYWTMSMWs, even though I use the alias redneonglow in a lot of places including SMF. redblade7 "(aka redneonglow)" will also be used in the non-fortune parts of the book.
 
 During the Olympics (temporary fix, see smtoomuch-v6-errata.txt):
 
