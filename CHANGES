@@ -1,3 +1,5 @@
+* v6.3-pre1 (2018-06-10)
+	* Added four more (N14-N17)
 * v6.2 (2018-04-03)
 	* Removed several spaces in fortunes.
 	* Moved 81, 1390, 2870, 3208, 4483, and 6268 to offensive (they were a bit racy)
