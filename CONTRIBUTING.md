@@ -25,7 +25,7 @@ The choices for "offensive" should not be considered a reflection of the develop
 
 -----CONTRIBUTING TO POSSIBLE ANNUAL/BIANNUAL BOOK UPDATES-----
 
-The author monitors silvermillenniumfalcon.com (redneonglow and sailormoonforum.com (username redblade7) and new YKYWTMSMWs should be posted there.
+The author monitors SilverMillenniumFalcon (username redneonglow) and SailorMoonForum.com (username redblade7) and new YKYWTMSMWs should be posted there.
 
 The official thread at SilverMillenniumFalcon for this project is here: http://smillenniumfalcon.proboards.com/thread/37/ykywtmsmw
 
