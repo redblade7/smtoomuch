@@ -83,4 +83,4 @@ THANKS:
 * Gunslinger for restoring sailorvgame.org as sailorvgame.ga
 * JanC on this page: https://askubuntu.com/questions/36523/creating-a-fortunes-file
 * igemnace on Freenode #vim for helping me quickly split up the book into fortunes
-* Everyone on silvermillenniumfalcon.com, and sailormoonforum.com, for being awesome!
+* Everyone on sailormoonforum.com, and smillenniumfalcon.proboards.com, for being awesome!
