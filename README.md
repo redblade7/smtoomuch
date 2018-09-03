@@ -1,11 +1,10 @@
 # smtoomuch
 
-YKYWTMSMW Fortunes for Linux v6.3-preview1
+YKYWTMSMW Fortunes for Linux v6.3
 
 Created by redblade7 (aka redneonglow)
 
-* v6.3-preview1 released on June 10, 2018
-* v6.2 released on April 3, 2018
+* v6.3 released on September 3, 2018
 * v6.0/book v6 released on September 10, 2017 (Ami Mizuno's Birthday)
 * v5.x series released and updated during May 2017
 
@@ -84,4 +83,4 @@ THANKS:
 * Gunslinger for restoring sailorvgame.org as sailorvgame.ga
 * JanC on this page: https://askubuntu.com/questions/36523/creating-a-fortunes-file
 * igemnace on Freenode #vim for helping me quickly split up the book into fortunes
-* Everyone on silvermillenniumfalcon.com, and sailormoonforum.com before 2018, for being awesome!
+* Everyone on silvermillenniumfalcon.com, and sailormoonforum.com, for being awesome!
