@@ -6,6 +6,9 @@ Errors in version 6 of the book, to be corrected in a future version:
 
 2484 is a duplicate of 239 (though 239 spells "Darian" wrong)
 2484 has been removed from the fortunes as of v6.11 (2483 is now followed by 2485).
+2551 is a duplicate of 172.
+2551 has been removed from the fortunes as of v6.31 (2550 is now followed by
+2552)
 
 --THE ANNALS OF YKYWTMSMW: HEADERS--
 
