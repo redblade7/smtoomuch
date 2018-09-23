@@ -4,14 +4,14 @@ Errors in version 6 of the book, to be corrected in a future version:
 
 --MISSED DUPLICATES--
 
-2484 is a duplicate of 239 (though 239 spells "Darian" wrong)
-2484 has been removed from the fortunes as of v6.11 (2483 is now followed by 2485).
-2551 is a duplicate of 172.
-2551 has been removed from the fortunes as of v6.31 (2550 is now followed by
-2552)
-5105 is a duplicate of 378.
-5105 has been removed from the fortunes as of v6.31 (5104 is now followed by
-5106)
+* 2484 is a duplicate of 239 (though 239 spells "Darian" wrong)
+* 2484 has been removed from the fortunes as of v6.11 (2483 is now followed by 2485).
+* 2551 is a duplicate of 172.
+* 2551 has been removed from the fortunes as of v6.31 (2550 is now followed by 2552)
+* 5105 is a duplicate of 378.
+* 5105 has been removed from the fortunes as of v6.31 (5104 is now followed by 5106)
+* 3292 and 4895 are duplicates of 627.
+* 3292 and 4895 have been removed from the fortunes as of v6.31 (3291 is now followed by 3293, 4894 by 4896)
 
 --THE ANNALS OF YKYWTMSMW: HEADERS--
 
