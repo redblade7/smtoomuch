@@ -17,6 +17,9 @@ Errors in version 6 of the book, to be corrected in a future version:
 * 2556 is a near duplicate of 602.
 * 602 has been removed from the fortunes as of v6.31 (601 is now followed by
   603)
+* 2562 is a duplicate of 178.
+* 2562 has been removed from the fortunes as of v6.31 (2561 is now followed by
+  2563)
 
 --THE ANNALS OF YKYWTMSMW: HEADERS--
 
