@@ -26,6 +26,12 @@ Errors in version 6 of the book, to be corrected in a future version:
 * 3681 is a duplicate of 2373.
 * 3681 has been removed from the fortunes as of v6.31 (3680 is now followed by
   3682)
+* 2431 is a duplicate of 164.
+  2431 has been removed from the fortunes as of v6.31 (2430 is now followed by
+  2433, as 2432 is in the offensive set)
+* 3695 is a duplicate of 1347.
+* 3695 has been removed from the fortunes as of v6.31 (3694 is now followed by
+  3696)
 
 --THE ANNALS OF YKYWTMSMW: HEADERS--
 
