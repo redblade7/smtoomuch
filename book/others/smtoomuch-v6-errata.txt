@@ -23,6 +23,9 @@ Errors in version 6 of the book, to be corrected in a future version:
 * 2560 is a duplicate of 171.
 * 2560 has been removed from the fortunes as of v6.31 (2569 is now followed by
   2561)
+* 3681 is a duplicate of 2373.
+* 3681 has been removed from the fortunes as of v6.31 (3680 is now followed by
+  3682)
 
 --THE ANNALS OF YKYWTMSMW: HEADERS--
 
