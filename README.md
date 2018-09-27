@@ -60,7 +60,7 @@ When you receive #2880 as a fortune, you will not know about the preceding jokes
 
 (5) In the fortune files, special and Unicode characters were replaced for compatibility with non-Unicode terminals. This also required me to cut off the name of the authors of #4189-#4192 and #6153. (You can see their names in the book files.)
 
-(6) There are 6517 fortunes (plus 126 offensive ones) in these files which, depending on the amount of fortunes you have installed, might make the likelihood of receiving a YKYWTMSMW fortune higher than you want. If you want to change this behavior, see the fortune man page about the "-e" option.
+(6) There are 6516 fortunes (plus 126 offensive ones) in these files which, depending on the amount of fortunes you have installed, might make the likelihood of receiving a YKYWTMSMW fortune higher than you want. If you want to change this behavior, see the fortune man page about the "-e" option.
 
 (7) Slackware Linux users: Slackware will not automatically choose fortunes from these files unless you add "smtoomuch" (or "smtoomuch smtoomuch-o" if you also want to add the offensive fortunes) to the end of the fortune command in /etc/profile.d/bsd-games-login-fortune.sh. You may also want to use "fortune -e" (see note #6). You can also replace the whole line with "fortune all" or, if you don't mind seeing offensive fortunes, "fortune -a".
 
