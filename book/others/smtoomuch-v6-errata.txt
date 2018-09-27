@@ -32,6 +32,9 @@ Errors in version 6 of the book, to be corrected in a future version:
 * 3695 is a duplicate of 1347.
 * 3695 has been removed from the fortunes as of v6.31 (3694 is now followed by
   3696)
+* 6117 is a duplicate of 299.
+  6117 has been removed from the fortunes as of v6.31 (6116 is now followed by
+  6118)
 
 --THE ANNALS OF YKYWTMSMW: HEADERS--
 
