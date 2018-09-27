@@ -14,27 +14,22 @@ Errors in version 6 of the book, to be corrected in a future version:
 * 3292 and 4895 have been removed from the fortunes as of v6.31 (3291 is now followed by 3293, 4894 by 4896)
 * 3051 is a duplicate of 6.
 * 3051 has been removed from the fortunes as of v6.31 (3050 is now followed by 3052)
-* 2556 is a near duplicate of 602. (2556 adds "long haired guys only")
-* 602 has been removed from the fortunes as of v6.31 (601 is now followed by
-  603)
+* 2556 is a near duplicate of 602. (2556 adds "(long haired guys only)")
+* 602 has been removed from the fortunes as of v6.31 (601 is now followed by 603)
 * 2562 is a duplicate of 178.
-* 2562 has been removed from the fortunes as of v6.31 (2561 is now followed by
-  2563)
+* 2562 has been removed from the fortunes as of v6.31 (2561 is now followed by 2563)
 * 2560 is a duplicate of 171.
-* 2560 has been removed from the fortunes as of v6.31 (2569 is now followed by
-  2561)
+* 2560 has been removed from the fortunes as of v6.31 (2569 is now followed by 2561)
 * 3681 is a duplicate of 2373.
-* 3681 has been removed from the fortunes as of v6.31 (3680 is now followed by
-  3682)
+* 3681 has been removed from the fortunes as of v6.31 (3680 is now followed by 3682)
 * 2431 is a duplicate of 164.
-  2431 has been removed from the fortunes as of v6.31 (2430 is now followed by
-  2433, as 2432 is in the offensive set)
+  2431 has been removed from the fortunes as of v6.31 (2430 is now followed by 2433, as 2432 is in the offensive set)
 * 3695 is a duplicate of 1347.
-* 3695 has been removed from the fortunes as of v6.31 (3694 is now followed by
-  3696)
+* 3695 has been removed from the fortunes as of v6.31 (3694 is now followed by 3696)
 * 6117 is a duplicate of 299.
-  6117 has been removed from the fortunes as of v6.31 (6116 is now followed by
-  6118)
+* 6117 has been removed from the fortunes as of v6.31 (6116 is now followed by 6118)
+* 3669 is a near duplicate of 35 (it ends with "(What...it is a good song!)").
+* 35 has been removed from the fortunes as of v6.31 (34 is now followed by 36).
 
 --THE ANNALS OF YKYWTMSMW: HEADERS--
 
