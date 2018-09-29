@@ -1,3 +1,7 @@
+* v6.31-preview7 (2018-09-30)
+	* Titles, spacing, restored names.
+	* Removed more duplicates.
+	* 1293, 2466, 3672, 3860, 5276, 5422, and 5837 moved to offensive.
 * v6.31-preview6 (2018-09-28)
 	* 2556 is a near duplicate of 602. (2556 adds "(long haired guys only)"). Removed 602.
 	* Removed duplicates 2431, 2560, 2562, 3681, and 3695 (which are duplicates of 164, 171, 178, 2373, and 1347, respectively).  
