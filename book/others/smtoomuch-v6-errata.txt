@@ -41,6 +41,8 @@ Errors in version 6 of the book, to be corrected in a future version:
 * 2493 has been removed from the fortunes as of v6.31 (2492 is now followed by 2494)
 * 5190 is a duplicate of 746
 * 5190 has been removed from the fortunes as of v6.31 (5189 is now followed by 5191)
+* 2471 is a duplicate of 322
+* 2471 has been removed from the fortunes as of v6.31 (2470 is now followed by 2472
 
 --THE ANNALS OF YKYWTMSMW: HEADERS--
 
