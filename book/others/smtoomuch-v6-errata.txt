@@ -30,6 +30,17 @@ Errors in version 6 of the book, to be corrected in a future version:
 * 6117 has been removed from the fortunes as of v6.31 (6116 is now followed by 6118)
 * 3669 is a near duplicate of 35 (it ends with "(What...it is a good song!)").
 * 35 has been removed from the fortunes as of v6.31 (34 is now followed by 36).
+* 2575 is a duplicate of 356
+* 2575 has been removed from the fortunes as of v6.31 (2574 is now followed by 2576)
+* 2361 is a near duplicate of 134 (2361 adds commentary)
+* 134 has been removed from the fortunes as of v6.31 (133 is now followed by
+  135)
+* 2386 is a duplicate of 135
+* 2386 has been removed from the fortunes as of v6.31 (2385 is now followed by 2387)
+* 2493 is a duplicate of 231
+* 2493 has been removed from the fortunes as of v6.31 (2492 is now followed by 2494)
+* 5190 is a duplicate of 746
+* 5190 has been removed from the fortunes as of v6.31 (5189 is now followed by 5191)
 
 --THE ANNALS OF YKYWTMSMW: HEADERS--
 
