@@ -46,8 +46,17 @@ Errors in version 6 of the book, to be corrected in a future version:
 * 2466 is a near duplicate of 203 (2466 adds commentary)
 * 203 has been removed from the fortunes as of v6.31 (202 is now followed by 204)
 * 3647 is a near duplicate of 2874 (3647 adds commentary)
-* 2874 has been removed from the fortunes as of v6.31 (2873 is now followed by
-  2875).
+* 2874 has been removed from the fortunes as of v6.31 (2873 is now followed by 2875).
+* 3693 is a duplicate of 1303
+* 3693 has been removed from the fortunes as of v6.31 (3692 is now followed by 3694)
+* 5176 is a duplicate of 434
+* 434 has been removed from the fortunes as of v6.31 (433 is now followed by 435)
+* 2569 is a duplicate of 160
+* 2569 has been removed from the fortunes as of v6.31 (2568 is now followed by 2570)
+* 2578 is a duplicate of 357
+* 2578 has been removed from the fortunes as of v6.31 (2577 is now followed by 2579)
+* 4936 is a duplicate of 3102
+* 4936 has been removed from the fortunes as of v6.31 (4935 is now followed by 4937)
 
 --THE ANNALS OF YKYWTMSMW: HEADERS--
 
