@@ -1,58 +1,28 @@
-* v6.31-preview11 (2018-12-05)
-	* Added all Gs to fortunes.
-* v6.31-preview10 (2018-11-23)
-	* For easier additions, some of the Ns were spun off:
-	* The Buzzfeed stuff (including the NeoGAF reaction) is now the T series.
-	* The GaiaOnline stuff is now the G series.
-	* The Julie's Moon Kingdom stuff is now the M series.
-	* The YKYWTMSMCW stuff (new) is now the C series.
-	* Moved 715 and 3728 to offensive.
-	* Added G2 to the fortunes (G1 was already added). The rest of the Gs from smtoomuch-future-version.txt will be added in an upcoming preview version.
-* v6.31-preview9 (2018-11-03)
-	* Added over 200 from GaiaOnline.com's "Sailormoon Everlasting" guild. This includes renumbering of other entries for the future book.
-	* They have not yet been added to the fortunes (and old stuff not renumbered). After some proofreading I will.
-	* 3693 is a duplicate of 1303. 3693 removed.
+* v6.31 (2018-12-05)
+	* Titles, spacing, restored names.
+	* Added YKYWTMSMCWs (You Know You Watch Too Much Sailor Moon Crystal When...) (C series).
+	* Added over 200 from GaiaOnline.com's "Sailormoon Everlasting" guild (G series).
+	* Added YKYWTMSMWs from "Julie's Moon Kingdom" (M series).
+	* Added "10 Signs You Are Obsessed With 'Sailor Moon'" 2014 article from Buzzfeed (T series). Two are duplicates of, or similar to, existing YKYWTMSMWs, but they are in a different "10 Signs You..." context so they, along with their numbers #1-#10, have been added to the T series. #6 is part of the offensive fortune set.
+	* Added unofficial #11 reaction to the Buzzfeed article by Cheerilee of NeoGAF.com (T11).
+	* Added N18.
+	* 715, 741, 1293, 1841, 1842, 2466, 2743, 2778, 2978, 3672, 3728, 3859, 3860, 3904, 4672, 5420, 5276, 5422, and 5837 moved to offensive. 1842 and 5420 I'm on the fence with, but better safe than sorry.
 	* 434 is a duplicate of 5176. 434 removed.
+	* Removed duplicates 2431, 2560, 2562, 3681, and 3695 (which are duplicates of 164, 171, 178, 2373, and 1347, respectively).  
+	* Removed more duplicates including 2471.
+	* Removed 2551 as it is a duplicate of 172.
+	* 2556 is a near duplicate of 602. (2556 adds "(long haired guys only)"). Removed 602.
 	* 2569 is a duplicate of 160. 2569 removed.
 	* 2578 is a duplicate of 357. 2578 removed.
-	* 4936 is a duplicate of 3102. 4936 removed.
-* v6.31-preview8 (2018-10-01)
-	* Removed duplicate 2471.
-	* Moved 2743 and 3859 to offensive.
-	* 3672 is a near duplicate of 203 (3672 adds commentary). 203 removed.
-	* 3647 is a near duplicate of 2874 (3647 adds commentary). 2874 removed.
-* v6.31-preview7 (2018-09-30)
-	* Titles, spacing, restored names.
-	* Removed more duplicates.
-	* 1293, 2466, 3672, 3860, 5276, 5422, and 5837 moved to offensive.
-* v6.31-preview6 (2018-09-28)
-	* 2556 is a near duplicate of 602. (2556 adds "(long haired guys only)"). Removed 602.
-	* Removed duplicates 2431, 2560, 2562, 3681, and 3695 (which are duplicates of 164, 171, 178, 2373, and 1347, respectively).  
-	* Removed 6117 as it's a duplicate of 299.
-	* Removed 3669 is a near duplicate of 35 (3669 adds "(What...it is a good song!)") Removed 35.
-* v6.31-preview5 (2018-09-26)
-	* Simplified credits for YKYWTMSMCW section.
-	* Added YKYWTMSMCWs by SailorStar9, with edited spacing.
-	* Added a YKYWTMSMCW by Onuzim Ima.
-	* Some YKYWTMSMCW fortunes did not have "(You Know You Watch Too Much Sailor Moon Crystal...)" added at beginning. Fixed.
-* v6.31-preview4 (2018-09-25)
-	* Added unofficial #11 reaction to the Buzzfeed article by Cheerilee of NeoGAF.com.
-	* Shifted N numbers down in light of above changes.
-* v6.31-preview3 (2018-09-24)
-	* Moved 2978 and 3904 to offensive.
-	* Removed 2551 as it is a duplicate of 172.
-	* Removed 5105 as it is a duplicate of 378.
-	* Removed 3292 and 4895 as they are duplicates of 627.
 	* Removed 3051 as it's a duplicate of 6.
-	* Added "10 Signs You Are Obsessed With 'Sailor Moon'" 2014 article from Buzzfeed. Two are duplicates of, or similar to, existing YKYWTMSMWs, but they are in a different "10 Signs You..." context so they, along with their numbers #1-#10, have been added to the N series. #6 is part of the offensive fortune set.
-	* Added YKYWTMSMWs from "Julie's Moon Kingdom"
-	* Shifted N numbers around in light of above changes.
-* v6.31-preview2 (2018-09-23)
-	* Add N19-N23.
-	* Moved 741, 1841, 1842, 2778, 4672, and 5420 to offensive. 1842 and 5420 I'm on the fence with, but better safe than sorry.
-	* Moved 1841 to offensive.
-* v6.31-preview1 (2018-09-16)
-	* Add N18
+	* Removed 3292 and 4895 as they are duplicates of 627.
+	* 3647 is a near duplicate of 2874 (3647 adds commentary). 2874 removed.
+	* Removed 3669 is a near duplicate of 35 (3669 adds "(What...it is a good song!)") Removed 35.
+	* 3672 is a near duplicate of 203 (3672 adds commentary). 203 removed.
+	* 3693 is a duplicate of 1303. 3693 removed.
+	* 4936 is a duplicate of 3102. 4936 removed.
+	* Removed 5105 as it is a duplicate of 378.
+	* Removed 6117 as it's a duplicate of 299.
 * v6.3 (2018-09-03)
 	* I've returned to SailorMoonForum.com again. Negative comments removed.
 	* SilverMillenniumFalcon is now treated as a second official site for the project, rather than a replacement for SailorMoonForum.
