@@ -8,6 +8,8 @@
 	* Add G86-G111 as 6730-6756
 	* Add G112-G151 as 6757-6796
 	* Add G161-G181 as 6797-6817
+	* Add G182-G200 as 6818-6836
+	* Add G201-G224 as 6837-6860, ending G series
 
 * v7.0-preview2 (2020-06-16)
 	* Removed (REMOVED) placeholders
