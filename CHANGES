@@ -1,4 +1,4 @@
-* v7.0-preview3 (2020-07-06)
+* v7.0-preview3 (2020-07-05)
 	* Fixed headers and colors
 	* Add G1-G2 as 6636-6637
 	* Add G152-G160 as 6638-6646
@@ -9,7 +9,8 @@
 	* Add G112-G151 as 6757-6796
 	* Add G161-G181 as 6797-6817
 	* Add G182-G200 as 6818-6836
-	* Add G201-G224 as 6837-6860, ending G series
+	* Add G201-G224 as 6837-6860, ending G series and new additions to book
+	* NOTE: There is a discrepancy of two YKYWTMSMWs which are not in the v6.xx fortunes but are in the upcoming book. I'm guessing that these are duplicates which I forgot to mention in the errata after removing. Because of the incredibly messy way this was done, there is no way to find out what these YKYKWTMSMWs are and v7 of the book/fortunes will have a count of 6860 instead of 6858.
 
 * v7.0-preview2 (2020-06-16)
 	* Removed (REMOVED) placeholders
