@@ -1,10 +1,10 @@
 # smtoomuch
 
-YKYWTMSMW Fortunes for Linux v7.0-preview4
+YKYWTMSMW Fortunes for Linux v7.0-preview5
 
 Created by redblade7 (aka redneonglow)
 
-* v7.0-preview4 released on July 6, 2020
+* v7.0-preview5 released on July 8, 2020
 * v6.33 released on May 28, 2020
 * v6.0/book v6 released on September 10, 2017 (Ami Mizuno's Birthday)
 * v5.x series released and updated during May 2017
