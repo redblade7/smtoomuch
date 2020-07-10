@@ -8,7 +8,7 @@ Created by redblade7 (aka redneonglow)
 * v6.0/book v6 released on September 10, 2017 (Ami Mizuno's Birthday)
 * v5.x series released and updated during May 2017
 
-These files for the Linux fortune program provide over 6800 "You Know You Watch Too Much Sailor Moon When..." jokes created between c. 1995 and 2018.
+These files for the Linux fortune program provide over 6800 "You Know You Watch Too Much Sailor Moon When..." jokes created between c. 1995 and 2020.
 
 The fortunes are derived from the TXT version of the YKYWTMSMW Compilation book, version 6, originally by Anton Ptitsin and updated by redblade7 in 2017.
 
