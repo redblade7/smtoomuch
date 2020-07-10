@@ -10,7 +10,7 @@ Created by redblade7 (aka redneonglow)
 
 These files for the Linux fortune program provide over 6800 "You Know You Watch Too Much Sailor Moon When..." jokes created between c. 1995 and 2020.
 
-The fortunes are derived from the TXT version of the YKYWTMSMW Compilation book, version 6, originally by Anton Ptitsin and updated by redblade7 in 2017.
+The fortunes are derived from the TXT version of the YKYWTMSMW Compilation book, version 6, originally by Anton Ptitsin and updated by redblade7 in 2017-2020.
 
 Included in the "book/v5" subdirectory is the complete book, version 5 (the last from Anton-P, 2007) in DOC, PDF, and plain text.
 
